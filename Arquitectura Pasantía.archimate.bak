@@ -32,17 +32,13 @@
   <folder name="Application" id="id-a452fff539a3475aac404e8c02aff8f4" type="application"/>
   <folder name="Technology &amp; Physical" id="id-52baf3dae6a9412da4f7980f558cee84" type="technology"/>
   <folder name="Motivation" id="id-aba84e07c77b4289b2cf81dcc26ffb9e" type="motivation">
-    <folder name="Skateholders" id="id-f94ca90349e24916ac8d4fdae2736896">
-      <element xsi:type="archimate:Stakeholder" name="Comités" id="id-0625e2d288464fb9a90f5fe79ac90806"/>
-      <element xsi:type="archimate:Stakeholder" name="Comunidades campesinas (Asamblea)" id="id-48f305bff61e4cb8bbfdcec789b873ec"/>
-      <element xsi:type="archimate:Stakeholder" name="Directiva Central" id="id-92dc8807e2454c189b276a885f8bb851"/>
-      <element xsi:type="archimate:Stakeholder" name="Subdirectivas Zonales" id="id-ede90a05e9fd4f6881e1539c68eb0356"/>
-    </folder>
-    <folder name="Drivers" id="id-7ca659d9946a481e95fc735ade5b09b9">
-      <element xsi:type="archimate:Driver" name="Desigualdad en la tenencia de tierras" id="id-ef778c52f7c94048a21f7ec0f0f0501e"/>
-    </folder>
-    <folder name="Goals" id="id-fe5498ea73f743d4bd9fd5765a327e51">
-      <element xsi:type="archimate:Goal" name="Goal" id="id-1f8f07d80c884d0eb885ed31dadaac13"/>
+    <folder name="Skateholders" id="id-14b374365d8c4e989d9509a4317eec13">
+      <element xsi:type="archimate:Stakeholder" name="Asamblea Campesina " id="id-8f11a29fa7f645d0a4382ee237428004"/>
+      <element xsi:type="archimate:Stakeholder" name="Colectivos" id="id-714e884a55af4fd69d68a5e733c55fa6"/>
+      <element xsi:type="archimate:Stakeholder" name="Comités" id="id-affdbebac4e347db9e371ac46776750d"/>
+      <element xsi:type="archimate:Stakeholder" name="Directiva Central" id="id-77d237e8ea034bd0a24e5ec38cc4b1b8"/>
+      <element xsi:type="archimate:Stakeholder" name="JAC Veredales" id="id-886c38b3b3214f3cb6280364f6ce7ab5"/>
+      <element xsi:type="archimate:Stakeholder" name="Subdirectivas Zonales" id="id-e9743d7156074586a0cf1ea15287959e"/>
     </folder>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-5e780191c1bc4d669e5f2e063a27b7f7" type="implementation_migration"/>
@@ -74,39 +70,7 @@
     </folder>
   </folder>
   <folder name="Views" id="id-a459f41c6196422dbdfb9f5ef9523601" type="diagrams">
-    <folder name="01. Fase A - Visión" id="id-30cce293842742e99f75bd635e36b9b7">
-      <element xsi:type="archimate:ArchimateDiagramModel" name="Skateholder Viewpoint" id="id-098f919fbbe4454ea625c0941172ceae">
-        <child xsi:type="archimate:DiagramObject" id="id-d02aab7a0304456889b493b750a8d58a" archimateElement="id-0625e2d288464fb9a90f5fe79ac90806">
-          <bounds x="193" y="168" width="120" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-31ac771d1d8c4975b987f6305b75958c" archimateElement="id-ede90a05e9fd4f6881e1539c68eb0356">
-          <bounds x="552" y="216" width="120" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-cc9c8e9daa2d4544a62b7066a0574065" archimateElement="id-92dc8807e2454c189b276a885f8bb851">
-          <bounds x="156" y="234" width="120" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-82664ef64bc84a0fbde1c91b2e2af973" archimateElement="id-48f305bff61e4cb8bbfdcec789b873ec">
-          <bounds x="384" y="96" width="120" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-55a42394118f4afbae4fe1a719fd26b9" archimateElement="id-ef778c52f7c94048a21f7ec0f0f0501e">
-          <bounds x="345" y="420" width="120" height="55"/>
-        </child>
-        <child xsi:type="archimate:DiagramObject" id="id-a9a2d0bfe85240e3aea47c7093272874" archimateElement="id-1f8f07d80c884d0eb885ed31dadaac13">
-          <bounds x="528" y="420" width="120" height="55"/>
-        </child>
-      </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="Goal Realization Viewpoint" id="id-92b58fc8b267497b8b7493d4916f42f0"/>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="Requirements Realization Viewpoint" id="id-1f20f5cb8bd64e23abbd786ec4f8741c"/>
-    </folder>
-    <folder name="02. Fase B - Negocio" id="id-1ababd4da4e94bde89514f579cf9a689">
-      <element xsi:type="archimate:ArchimateDiagramModel" name="Business Process Viewpoint" id="id-b50925053e7a4e1399c4e676c799541b"/>
-    </folder>
-    <folder name="03. Fase C - Sistema de Información" id="id-f7c80344b4524d23aaa5bcced89d8500"/>
-    <folder name="04. Fase D - Tecnología" id="id-321a5e84503242cdad3b448d416641ae"/>
-    <folder name="05. Fase E - Oportunidades y Soluciones" id="id-d66f6c2930c34bd08288b3257795081c"/>
-    <folder name="06. Fase F - Planificación de Migración" id="id-e3199582e60b4b06afc120272080ad29"/>
-    <folder name="07. Fase G - Gobernanza de la Implementación" id="id-6d5baa4c36c149d18fed7d41c776804c"/>
-    <folder name="00. Fase Preliminar" id="id-9458037b6d484d90b69f37a80e4afc26">
+    <folder name="0. Fase Preliminar" id="id-9458037b6d484d90b69f37a80e4afc26">
       <element xsi:type="archimate:ArchimateDiagramModel" name="Organigrama" id="id-e9fc21842e58408daa42a25506615c76">
         <child xsi:type="archimate:DiagramObject" id="id-288f2ff5b65942eca58ea741bf7582aa" targetConnections="id-b3547a3ff0f34aa7a94bd87710c60224 id-3358d6384d7f4e46a74bce0893823938" archimateElement="id-8ed894ac797442968aa5337778c1f8c3">
           <bounds x="348" y="312" width="120" height="55"/>
@@ -187,8 +151,80 @@
           <sourceConnection xsi:type="archimate:Connection" id="id-1424075199434b0abe380a52a8c9d2ba" source="id-4231bac850564aac88ee96f1080cebda" target="id-9e87d47d0d4a4122a5422de036bcf113" archimateRelationship="id-0cae1c44d93e414dadf641764610991e"/>
         </child>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="Principles Viewpoint" id="id-db92769934de488c84d83a8a2429cd64"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="Misión-Vision-Valores" id="id-3e3c4df0832e48799e2f59012dc32517"/>
     </folder>
+    <folder name="1. Motivación" id="id-1c201d93b94e4d02b233574c27313a26">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="1.2. Interesados" id="id-098f919fbbe4454ea625c0941172ceae">
+        <child xsi:type="archimate:Group" id="id-c91ec4b08e3a4c8eb45c3912ef9992b9" name="Skateholders de la Organización" textAlignment="1">
+          <bounds x="48" y="84" width="901" height="145"/>
+          <child xsi:type="archimate:DiagramObject" id="id-e6bc94d3b95f40558157f89f02c70d3b" archimateElement="id-8f11a29fa7f645d0a4382ee237428004">
+            <bounds x="168" y="60" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-fadfba653d224233a9c495b0f9a427ff" archimateElement="id-77d237e8ea034bd0a24e5ec38cc4b1b8">
+            <bounds x="312" y="60" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5abc34acb8a14e91a55a020aeda1cacd" archimateElement="id-e9743d7156074586a0cf1ea15287959e">
+            <bounds x="456" y="60" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-02ca92c9c2fa446689ca5987e2e9d123" archimateElement="id-714e884a55af4fd69d68a5e733c55fa6">
+            <bounds x="24" y="60" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9c40285dd96c4618ba701b833362d7d8" archimateElement="id-886c38b3b3214f3cb6280364f6ce7ab5">
+            <bounds x="600" y="60" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a297f0954137428fad828242724ca130" archimateElement="id-affdbebac4e347db9e371ac46776750d">
+            <bounds x="744" y="60" width="120" height="55"/>
+          </child>
+        </child>
+        <child xsi:type="archimate:Group" id="id-68cee33864084654802966235534b51a" name="Motivadores para el Cambio" textAlignment="1">
+          <bounds x="48" y="240" width="900" height="140"/>
+        </child>
+        <child xsi:type="archimate:Group" id="id-14a22fef030b45e2b4888c24b1edd61b" name="Objetivos" textAlignment="1">
+          <bounds x="48" y="396" width="900" height="140"/>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="1.1. Motivación " id="id-708803e28332450dbe346700caeb2905"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="1.5. Principios" id="id-db92769934de488c84d83a8a2429cd64"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="1.3. Análisis Interesados" id="id-7eb3f3fb950e4893a899b2d3fe9e48f7"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="1.4. Objetivos" id="id-eeb5516aeb36428b8f9c24bcc1626bfd"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="1.6. Requerimientos" id="id-eb7ad7e99ba64a4989404c4efb7399cc"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="1.7. Riegos y Seguridad" id="id-24972574cec3495ca13be457f3a3b398"/>
+    </folder>
+    <folder name="2. Estrategia" id="id-d328d24d430046278c0d705741625a5a">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.1. Mapa de Valores - Estrategia" id="id-2ed0472135694570bebd37a1b0762fbf"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.2. Objetivo a Estrategia" id="id-93cf4ff933a44ed7baf99261fd45d16b"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.3. Estrategia" id="id-a2fff37d5ea94db49a06d1633bcc8784"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.4. Estrategia a Capacidad" id="id-8f118efe8f324c32b00758b8b4753841"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.5. Modelo de Negocios" id="id-81bfbe509a174b60adef04bf9281ab73"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.6. Mapa de Capacidad" id="id-b39a50d05a4a4b8ab0bbdfc6f095af65"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.7. Planificación de Capacidad" id="id-4733a095d3124bf297d123f53c1e1fe7"/>
+    </folder>
+    <folder name="3. Arquitectura de Negocio" id="id-e391d18a10cc42aab56967254c82a712">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.1. Servicios de Negocio" id="id-41dc77446682471d8076a10faa0e1c6c"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.2. Actores de Negocio" id="id-67b065c383d24736ae67607504caeb92"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.3. Roles de Negocio" id="id-5ad50f5550594d449ffe24fdc28fb889"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.4. Conceptos de Negocio" id="id-2c69592fad0c48b3baec45e024f1c36e"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.5. Procesos de Negocio" id="id-ba7f1eddad61473f8dc8dd6b45cbe737"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.6. Funciones de Negocio" id="id-02948611d10d47c8ad3086d70ce3d049"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.7. Procesos de cooperación de Negocio" id="id-e2ca4765c711428d9497f916dc3abed4"/>
+    </folder>
+    <folder name="4. Arquitectura de Aplicación" id="id-4297d5534e1f4f4baeb2df1e32f6647c">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.1. Servicios de Aplicación" id="id-fa76b9bd96bd4fe281fb2d35c5a01941"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.2. Mapa de Aplicaciones" id="id-352ed6f0748d4c52b278a6d801d64038"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.3. Funciones de las Aplicación" id="id-df03787d4ed94ea5978b47ef178aa1d2"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.4. Información" id="id-a94f8606bfa94c19a96d8ef5107fad80"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.5. Interfaces de Aplicación" id="id-a34840b6ffd847e6bac38a2bb0c6ddef"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.6. Integración de la Aplicación" id="id-8d51df2ab1a747658a64bab91f66e790"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.7. Cooperación de la Aplicación" id="id-6d0524d34e9749aab1d4d8583a759cb5"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="4.8. Vista en Capas" id="id-b288ce457819495db3c817cb9c2c2436"/>
+    </folder>
+    <folder name="5. Arquitectura de Tecnología" id="id-0cdefeb091c54b8eaa67ab7ad7825469">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="5.1. Servicios de Tecnología" id="id-be6a54008af945f69989e0e2c65b7d6d"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="5.2. Plataforma" id="id-e785e4b1283b406c8eaac815461cb995"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="5.3. Mapa de Tecnología" id="id-22926c64cd1c492cacaaf2b49bb99f6b"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="5.4. Infraestructura" id="id-b44f553cd2d94fb29be865919c9b5f67"/>
+    </folder>
+    <folder name="6. Implementación y Migración" id="id-dcc0b98bf43743e284f80057092fccd7"/>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-55b9d2de0ac8493c809c2587859b9f73"/>
   </folder>
 </archimate:model>
