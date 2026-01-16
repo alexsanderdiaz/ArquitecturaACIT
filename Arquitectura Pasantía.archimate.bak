@@ -91,8 +91,8 @@
     </folder>
     <folder name="Requerimientos" id="id-36906f1f36424c798eb9915e0d68efcc">
       <element xsi:type="archimate:Requirement" name="Control de Acceso a la Información" id="id-9323fa60b8224b0d93d7d7c4df92a704"/>
+      <element xsi:type="archimate:Requirement" name="Acceso compartido para la Asociación" id="id-1d54accebef64c7aa8c1ce6e373a9816"/>
     </folder>
-    <element xsi:type="archimate:Requirement" name="Acceso compartido para la Asociación" id="id-1d54accebef64c7aa8c1ce6e373a9816"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-5e780191c1bc4d669e5f2e063a27b7f7" type="implementation_migration"/>
   <folder name="Other" id="id-ef0d953e84fd4e31942ec4f71c1c6222" type="other"/>
@@ -155,10 +155,10 @@
       <element xsi:type="archimate:RealizationRelationship" id="id-d2f13b98104b435792fac1d587287a4f" source="id-9323fa60b8224b0d93d7d7c4df92a704" target="id-c16894142aa24c9a884c6a3246ef9e86"/>
       <element xsi:type="archimate:RealizationRelationship" id="id-8387442102f24cbe92d1951b20de811d" source="id-c16894142aa24c9a884c6a3246ef9e86" target="id-f7cc4704284c4f0b8d70453ee79b4681"/>
       <element xsi:type="archimate:SpecializationRelationship" id="id-a555b16644b64056b5fba8f8cbea0df5" source="id-f7cc4704284c4f0b8d70453ee79b4681" target="id-0ed45a94ea7e455592dfb4fb904e88d9"/>
+      <element xsi:type="archimate:AssociationRelationship" id="id-47e789dfd26145be84cb877044365c95" source="id-24aa52c712144d1e99b07e80c953099e" target="id-190742200dc54a73a102c1e15ddf91ab"/>
+      <element xsi:type="archimate:RealizationRelationship" id="id-206c9735a78c42458a30047148024e4d" source="id-1d54accebef64c7aa8c1ce6e373a9816" target="id-0ed45a94ea7e455592dfb4fb904e88d9"/>
+      <element xsi:type="archimate:RealizationRelationship" id="id-560927ec49124ed1932d93837936e735" source="id-206c43f20ee64039bfc1301e233a5855" target="id-1d54accebef64c7aa8c1ce6e373a9816"/>
     </folder>
-    <element xsi:type="archimate:AssociationRelationship" id="id-47e789dfd26145be84cb877044365c95" source="id-24aa52c712144d1e99b07e80c953099e" target="id-190742200dc54a73a102c1e15ddf91ab"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-206c9735a78c42458a30047148024e4d" source="id-1d54accebef64c7aa8c1ce6e373a9816" target="id-0ed45a94ea7e455592dfb4fb904e88d9"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-560927ec49124ed1932d93837936e735" source="id-206c43f20ee64039bfc1301e233a5855" target="id-1d54accebef64c7aa8c1ce6e373a9816"/>
   </folder>
   <folder name="Views" id="id-a459f41c6196422dbdfb9f5ef9523601" type="diagrams">
     <folder name="0. Fase Preliminar" id="id-9458037b6d484d90b69f37a80e4afc26">
