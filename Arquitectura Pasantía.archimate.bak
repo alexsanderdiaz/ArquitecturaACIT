@@ -15,14 +15,48 @@
       <element xsi:type="archimate:CourseOfAction" name="Documentación para la gestión" id="id-1248e5d940174b3c962c04aaf483c626"/>
       <element xsi:type="archimate:CourseOfAction" name="Talleres y proyectos para fortalecer la identidad campesina" id="id-9815def4fd8d45d7b51e4ea434e6cecb"/>
       <element xsi:type="archimate:CourseOfAction" name="Participación y formación política" id="id-7976f623578f4b23a4c061171901aaa5"/>
-      <element xsi:type="archimate:CourseOfAction" name="Plan de acceso y defensa del territorio" id="id-ae0b9001b42342ffb2825920ba4b486c"/>
+      <element xsi:type="archimate:CourseOfAction" name="Plan para la defensa y permanencia en el territorio" id="id-ae0b9001b42342ffb2825920ba4b486c"/>
     </folder>
     <folder name="Capacidad" id="id-9c8734dbf4c74118a561164470859032">
+      <folder name="Otros" id="id-916d5ea62212428c879e8816a1bca89d">
+        <element xsi:type="archimate:Capability" name="Operativo" id="id-9a0dee9aa62d4365bc614c89465d9c9e"/>
+        <element xsi:type="archimate:Capability" name="Gestión de la Organización" id="id-30dd4d2792dd4f3ba2ad07497c26bb50"/>
+      </folder>
       <element xsi:type="archimate:Capability" name="Capacidad Organizativa" id="id-db39b4a2f7284d32b86018a3d3904957"/>
       <element xsi:type="archimate:Capability" name="Gestión de acceso y datos" id="id-1291effb67504253a26efe067fa5ffbd"/>
       <element xsi:type="archimate:Capability" name="Gestión de la información de procesos y proyectos" id="id-93e60fb048b548d0b26391318f1237e7"/>
-      <element xsi:type="archimate:Capability" name="Gestión de procesos comunitarios y organizativos" id="id-19d5f4be00964f9ca99b8eb88b339ed2"/>
       <element xsi:type="archimate:Capability" name="Estructuración de proyectos" id="id-ea4cea771ab04eea93923695a0545938"/>
+      <element xsi:type="archimate:Capability" name="Apoyar iniciativas de emprendimiento campesino" id="id-c7775b484e2a40a081d5d457dd603414"/>
+      <element xsi:type="archimate:Capability" name="Apoyo en actividades relacionadas con el saber campesino y territorial" id="id-971d3b0081cb47c2b8d311237c708fa5"/>
+      <element xsi:type="archimate:Capability" name="Apoyo en procesos de participación popular" id="id-f4d8ae5e7c8a4d3a825ce01dd9739c4b"/>
+      <element xsi:type="archimate:Capability" name="Asesoría legal territorial" id="id-c282b661c28f40cdb5e59de1a38d27bd"/>
+      <element xsi:type="archimate:Capability" name="Convenios y alianzas sociales" id="id-d7adba68dfe24c0e99274e840ce48344"/>
+      <element xsi:type="archimate:Capability" name="Defensa jurídica" id="id-536a93d8bf4d4fae81ac6c022271f4a1"/>
+      <element xsi:type="archimate:Capability" name="Defensa y Gobernanza Territorial" id="id-933ae56886804b47a56df62c25cee0d1">
+        <documentation>Capacidad de defender y apoyar al campesinado en la permanencia en su territorio.</documentation>
+      </element>
+      <element xsi:type="archimate:Capability" name="Apoyo en el Desarrollo Productivo Campesino" id="id-cf811dd73b814e7997a3d34fbcf39985">
+        <documentation>Capacidad de apoyar y promover practicas productivas comunitarias campesinas. </documentation>
+      </element>
+      <element xsi:type="archimate:Capability" name="Estructurar financiamiento para proyectos campesinos" id="id-4c8b16c4c05340d098018f57bfa2b566"/>
+      <element xsi:type="archimate:Capability" name="Formación, Saberes, Investigación y Cultura" id="id-7ab21fec0db1475ab8fc632a4425dfb5">
+        <documentation>Capacidad de generar academia, conocimiento y conservar saberes y prácticas campesinas, apoyar en procesos de formación cultural, deportiva, ambiental y de investigación. </documentation>
+      </element>
+      <element xsi:type="archimate:Capability" name="Formalización, adjudicación y restitución de tierras" id="id-89147e53ed6f4d17b09a48164dbc190a"/>
+      <element xsi:type="archimate:Capability" name="Gestión de financiamiento a iniciativas campesinas" id="id-49cdec4ad9284e0fa186f20618c87082"/>
+      <element xsi:type="archimate:Capability" name="Gestión de Financiamiento y Alianzas" id="id-feb5d0d83f464a859becc91602aea6fe">
+        <documentation>La habilidad de captar recursos y relacionarse con otras entidades. </documentation>
+      </element>
+      <element xsi:type="archimate:Capability" name="Gestión de Procesos Comunitarios y organizativos" id="id-a1c467b6d4fd49df994a43e43496f780">
+        <documentation>La capacidad de ejecutar talleres y proyectos de diversa índole. </documentation>
+      </element>
+      <element xsi:type="archimate:Capability" name="Gestión de proyectos sociales campesinos" id="id-6ce0f014033e44ef97bbc6ba1a1a0b3f"/>
+      <element xsi:type="archimate:Capability" name="Gestión de talleres campesinos" id="id-b4e6c1e1e699416fb1f307a36eeab184"/>
+      <element xsi:type="archimate:Capability" name="Promover y apoyar investigación en contexto campesino" id="id-66cead60b2cf4ad7a8e4f8ee918b0c7d"/>
+      <element xsi:type="archimate:Capability" name="Representación campesina frente a entidades gubernamentales" id="id-071279d03300426fb1aa789c56c9c16d"/>
+      <element xsi:type="archimate:Capability" name="Representación y Participación Política" id="id-ac16f30f01034b5ea400e41ed3b338cd">
+        <documentation>La capacidad de apoyar en procesos de participación popular para tener voz en entidades gubernamentales. </documentation>
+      </element>
     </folder>
     <folder name="Recursos" id="id-23d8594be62b4550a222ebaf866ff927">
       <element xsi:type="archimate:Resource" name="Territorio" id="id-2708d9c949b44911973458dc9449f877"/>
@@ -31,8 +65,11 @@
       <element xsi:type="archimate:Resource" name="Líderes" id="id-83a49803df024dfb83aba56a03f9a470"/>
       <element xsi:type="archimate:Resource" name="Recurso Humano" id="id-98e666c04bae4f04ba2c09900678f8f5"/>
     </folder>
-    <element xsi:type="archimate:Capability" name="Gestión de la Organización" id="id-30dd4d2792dd4f3ba2ad07497c26bb50"/>
-    <element xsi:type="archimate:Capability" name="Operativo" id="id-9a0dee9aa62d4365bc614c89465d9c9e"/>
+    <element xsi:type="archimate:Resource" name="Asesoría Jurídica" id="id-b9ae55c97df4473ca9dc4672a21858dd"/>
+    <element xsi:type="archimate:Resource" name="Documentación de casos" id="id-722af2df956540c8a20f057df920a3ff"/>
+    <element xsi:type="archimate:Resource" name="Recurso humano de conocimiento" id="id-35be54c3c3184762ab9bca3d68c8935e"/>
+    <element xsi:type="archimate:Resource" name="Reconocimiento Legal (Personería jurídica)" id="id-4fdc2df00c6a45ce93816ab327d5d88b"/>
+    <element xsi:type="archimate:Resource" name="Espacios comunitarios" id="id-96736489cdce486bac9524c0de50fa50"/>
   </folder>
   <folder name="Business" id="id-c3be6c0a33344a908cd545f20da323eb" type="business">
     <folder name="Organigrama" id="id-e4c18831d3844e75a5ced6b21252a2c3">
@@ -168,9 +205,7 @@
       <element xsi:type="archimate:Assessment" name="Riesgo: Perdida de la información" id="id-7d9e4413a7fa49d8828becdefe9171e5"/>
     </folder>
     <folder name="Principios" id="id-4a307e494dfc41dfb079bbd8b2f2700d">
-      <folder name="Otros" id="id-914b39d7bacb4a679703170c3b48b714">
-        <element xsi:type="archimate:Principle" name="Directiva" id="id-0a805141c9274b9cb5108684d2319288"/>
-      </folder>
+      <folder name="Otros" id="id-914b39d7bacb4a679703170c3b48b714"/>
       <element xsi:type="archimate:Principle" name="Armonía Vital y Territorial" id="id-610c5590f7474d93ba54834f9e682f15">
         <documentation>Respeto a la vida, cuidado del medio ambiente y la tierra como hogar (no como recurso comercial). </documentation>
       </element>
@@ -204,14 +239,6 @@
         <documentation>Presencia de actores armados en el territorio</documentation>
       </element>
     </folder>
-    <element xsi:type="archimate:Requirement" name="Regla" id="id-52089d72ad6e49849ad33f1933e71538">
-      <documentation>Son los &quot;algoritmos&quot; sociales de la organización. Son estrictas. Normas&#xD;
-</documentation>
-    </element>
-    <element xsi:type="archimate:Principle" name="Política" id="id-5f838f643a1a497cabc62cc5066e6048">
-      <documentation>Es una declaración de intención filosófica o ética.&#xD;
-Toda acción territorial debe respetar la autonomía de los pueblos indígenas vecinos&quot; (Principio de Interculturalidad).</documentation>
-    </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-5e780191c1bc4d669e5f2e063a27b7f7" type="implementation_migration"/>
   <folder name="Other" id="id-ef0d953e84fd4e31942ec4f71c1c6222" type="other">
@@ -338,8 +365,6 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
         <element xsi:type="archimate:AggregationRelationship" id="id-cd41db8da2044f4187c529cf3a2d410f" source="id-1248e5d940174b3c962c04aaf483c626" target="id-4cfe992b40dd4761bbc9104f9198d7a3"/>
         <element xsi:type="archimate:AggregationRelationship" id="id-2f04771b00d540c683fc94399dfa2cb6" source="id-4cfe992b40dd4761bbc9104f9198d7a3" target="id-a9a07b6e88684f27a3cb36bb63678d0e"/>
         <element xsi:type="archimate:AggregationRelationship" id="id-54247cc982f14690ae42bf4fb9182551" source="id-93e60fb048b548d0b26391318f1237e7" target="id-ea4cea771ab04eea93923695a0545938"/>
-        <element xsi:type="archimate:AssignmentRelationship" id="id-ce22b9819373439bad0502fb619d7e8a" source="id-83a49803df024dfb83aba56a03f9a470" target="id-19d5f4be00964f9ca99b8eb88b339ed2"/>
-        <element xsi:type="archimate:AssignmentRelationship" id="id-1f3021e23f0f47e68badb897d6617514" source="id-98e666c04bae4f04ba2c09900678f8f5" target="id-19d5f4be00964f9ca99b8eb88b339ed2"/>
         <element xsi:type="archimate:AssignmentRelationship" id="id-9b3ce3a1b9cc444a94f05ce73b0f0668" source="id-98e666c04bae4f04ba2c09900678f8f5" target="id-93e60fb048b548d0b26391318f1237e7"/>
         <element xsi:type="archimate:AssignmentRelationship" id="id-a90e1f2ca57045faab6bfedc3e2c9de3" source="id-98e666c04bae4f04ba2c09900678f8f5" target="id-ea4cea771ab04eea93923695a0545938"/>
         <element xsi:type="archimate:AssignmentRelationship" id="id-fcbbd09a311b44e08fd069be90d4f369" source="id-a9e529b32ec14120ac3444c861bfe6d4" target="id-ea4cea771ab04eea93923695a0545938"/>
@@ -351,15 +376,16 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
         <element xsi:type="archimate:RealizationRelationship" id="id-933709e8633546a9aa332cdb8d704ebe" source="id-65b52a482c574c3183245425d3528705" target="id-a070546e75c84be193da9e5aee1de22c"/>
         <element xsi:type="archimate:RealizationRelationship" id="id-e3371228e6024db388f0a8d430683650" source="id-7976f623578f4b23a4c061171901aaa5" target="id-65b52a482c574c3183245425d3528705"/>
         <element xsi:type="archimate:RealizationRelationship" id="id-0fbd60f69f4d48cab90a3173d8743fcf" source="id-93e60fb048b548d0b26391318f1237e7" target="id-1248e5d940174b3c962c04aaf483c626"/>
-        <element xsi:type="archimate:RealizationRelationship" id="id-cfd7bf2d6b9348e8a8fea2df2791a919" source="id-19d5f4be00964f9ca99b8eb88b339ed2" target="id-1248e5d940174b3c962c04aaf483c626"/>
         <element xsi:type="archimate:RealizationRelationship" id="id-1ab379ef62574e06bd19d8c4e7accebf" source="id-1291effb67504253a26efe067fa5ffbd" target="id-4cfe992b40dd4761bbc9104f9198d7a3"/>
+        <element xsi:type="archimate:AggregationRelationship" id="id-31746fe884d84ba1ba9addabe1565b0d" source="id-a1c467b6d4fd49df994a43e43496f780" target="id-93e60fb048b548d0b26391318f1237e7"/>
+        <element xsi:type="archimate:AssignmentRelationship" id="id-24bb8e74d2744803a9c5ee7512771d6e" source="id-83a49803df024dfb83aba56a03f9a470" target="id-a1c467b6d4fd49df994a43e43496f780"/>
+        <element xsi:type="archimate:RealizationRelationship" id="id-68e35a3ed7564dae9d831ea30bcea091" source="id-a1c467b6d4fd49df994a43e43496f780" target="id-1248e5d940174b3c962c04aaf483c626"/>
       </folder>
       <folder name=" Modelo de Motivación de Negocio" id="id-c05500fdd630432a8ec53b2ad6970307">
         <element xsi:type="archimate:CompositionRelationship" id="id-13508dce6e824d72aac968206181b068" source="id-33f4387da9bd49bcbb776cfb405bf05d" target="id-52c921214f8f412ca8156763553274f6"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-b40bf2c9997f440bb86ef44cef0ae738" source="id-cc2060beb6b642bf94206a559f871fcc" target="id-81786d4327c24262b9715531097a619c"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-8eb5df4db6d14cbfbd33f174f8b7a23d" source="id-2c65245ad7d44418a65d414d8484bbf6" target="id-fdec46cfb4594e42bcaff54f33505b16"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-e42a35c040a24fc8a255d2317be328ae" source="id-2c65245ad7d44418a65d414d8484bbf6" target="id-9257e3b0f73945179cdf39671d34ed71"/>
-        <element xsi:type="archimate:CompositionRelationship" id="id-15b2fc7ad16045608adc2562158b618c" source="id-2c65245ad7d44418a65d414d8484bbf6" target="id-0a805141c9274b9cb5108684d2319288"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-21b01320e8ac4f139011376af1b9d94c" source="id-707d8db30f0f42759987621ae784527d" target="id-7d88eacbd3d84c10a46c7801c61649c7"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-f48f8a55d0414632864083dc560126f2" source="id-707d8db30f0f42759987621ae784527d" target="id-48e59f1bd3b341858c6ec6bbb88953d3"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-aaa92004f2b841878e18545667e33289" source="id-9257e3b0f73945179cdf39671d34ed71" target="id-8d25158c84c047ed8cf330f4c722f62a"/>
@@ -371,9 +397,32 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
         <element xsi:type="archimate:CompositionRelationship" id="id-51a16e969ef242f59a2d9209534a7a95" source="id-48e59f1bd3b341858c6ec6bbb88953d3" target="id-a070546e75c84be193da9e5aee1de22c"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-9ec4780c1cbe43e8aa46ade568540ff0" source="id-cc2060beb6b642bf94206a559f871fcc" target="id-970ec24f14d142759859adfab0b04d19"/>
         <element xsi:type="archimate:CompositionRelationship" id="id-7347e8b4d0974d9f99a6d61fd82292c8" source="id-cc2060beb6b642bf94206a559f871fcc" target="id-f26ea7b9f9aa4585ba83108d3c1b8c60"/>
-        <element xsi:type="archimate:CompositionRelationship" id="id-d2501d507fe247598befd5149eb77496" source="id-0a805141c9274b9cb5108684d2319288" target="id-5f838f643a1a497cabc62cc5066e6048"/>
+      </folder>
+      <folder name="Mapa de capacidad" id="id-fdf874d994464dd38ebe1bc5e3ab1987">
+        <element xsi:type="archimate:CompositionRelationship" id="id-d8bb2aee59464e03a60178bc089d9fef" source="id-9a0dee9aa62d4365bc614c89465d9c9e" target="id-cf811dd73b814e7997a3d34fbcf39985"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-6b64360c6e024b5789333328aa4f878a" source="id-9a0dee9aa62d4365bc614c89465d9c9e" target="id-933ae56886804b47a56df62c25cee0d1"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-3bd0696ca7404b5dbf71042e4fa3b805" source="id-9a0dee9aa62d4365bc614c89465d9c9e" target="id-7ab21fec0db1475ab8fc632a4425dfb5"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-f1dd1497c2af4a9ea578b344b74e4717" source="id-9a0dee9aa62d4365bc614c89465d9c9e" target="id-feb5d0d83f464a859becc91602aea6fe"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-ea935a98ea3549958f219c15a5c39597" source="id-9a0dee9aa62d4365bc614c89465d9c9e" target="id-a1c467b6d4fd49df994a43e43496f780"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-6dc7cb7037d84900a69f34fbf60a14e4" source="id-9a0dee9aa62d4365bc614c89465d9c9e" target="id-ac16f30f01034b5ea400e41ed3b338cd"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-05e9ebd5446143798660f3b6879d2576" source="id-933ae56886804b47a56df62c25cee0d1" target="id-c282b661c28f40cdb5e59de1a38d27bd"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-1ea66a2bfa2546afb08bbf2aaa22ffa5" source="id-933ae56886804b47a56df62c25cee0d1" target="id-536a93d8bf4d4fae81ac6c022271f4a1"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-6ef10358be9e4412a661d014dbceac56" source="id-933ae56886804b47a56df62c25cee0d1" target="id-89147e53ed6f4d17b09a48164dbc190a"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-f785964c99e14e9395f7e5282a97f5c0" source="id-a1c467b6d4fd49df994a43e43496f780" target="id-b4e6c1e1e699416fb1f307a36eeab184"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-90319215bd314c3db4c32ef5b4a750ad" source="id-a1c467b6d4fd49df994a43e43496f780" target="id-6ce0f014033e44ef97bbc6ba1a1a0b3f"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-143d4e3879f442b5b3c43e0b418fd391" source="id-feb5d0d83f464a859becc91602aea6fe" target="id-d7adba68dfe24c0e99274e840ce48344"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-db790323c8454388a26dc2e0d6566dcd" source="id-feb5d0d83f464a859becc91602aea6fe" target="id-49cdec4ad9284e0fa186f20618c87082"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-d0f983c43c5748f39b01bbf2fb4fa01e" source="id-cf811dd73b814e7997a3d34fbcf39985" target="id-c7775b484e2a40a081d5d457dd603414"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-434d3184ad994e2984a1d45c8b1f583d" source="id-cf811dd73b814e7997a3d34fbcf39985" target="id-4c8b16c4c05340d098018f57bfa2b566"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-aa3196e401a14640ada3cd5b3e86d6c5" source="id-ac16f30f01034b5ea400e41ed3b338cd" target="id-071279d03300426fb1aa789c56c9c16d"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-b1ae38d4cd89417589cd3a4dd888f459" source="id-ac16f30f01034b5ea400e41ed3b338cd" target="id-f4d8ae5e7c8a4d3a825ce01dd9739c4b"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-6ac2d642ff4a458387af2fa3fbf0a233" source="id-7ab21fec0db1475ab8fc632a4425dfb5" target="id-66cead60b2cf4ad7a8e4f8ee918b0c7d"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-a9e3a3ac771a4373a790f139e0cccc9f" source="id-7ab21fec0db1475ab8fc632a4425dfb5" target="id-971d3b0081cb47c2b8d311237c708fa5"/>
+        <element xsi:type="archimate:CompositionRelationship" id="id-04735c44cd3a4026b62028a6de0e3409" source="id-30dd4d2792dd4f3ba2ad07497c26bb50" target="id-93e60fb048b548d0b26391318f1237e7"/>
       </folder>
     </folder>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-a76a7dcd65d74ed8885f84094cc23357" source="id-722af2df956540c8a20f057df920a3ff" target="id-933ae56886804b47a56df62c25cee0d1"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-7e14b6a74b1245f4b39a482adebb9d93" source="id-b9ae55c97df4473ca9dc4672a21858dd" target="id-933ae56886804b47a56df62c25cee0d1"/>
   </folder>
   <folder name="Views" id="id-a459f41c6196422dbdfb9f5ef9523601" type="diagrams">
     <folder name="0. Fase Preliminar" id="id-9458037b6d484d90b69f37a80e4afc26">
@@ -1161,9 +1210,9 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
       <element xsi:type="archimate:ArchimateDiagramModel" name="2.1. Estrategia" id="id-a2fff37d5ea94db49a06d1633bcc8784"/>
       <element xsi:type="archimate:ArchimateDiagramModel" name="2.2. Modelo de Motivación de Negocio" id="id-81bfbe509a174b60adef04bf9281ab73">
         <child xsi:type="archimate:Group" id="id-8141607e22814bc3b016b52c64965daf" name="Modelo de Motivación de negocio (BMM)" textAlignment="1" alpha="0">
-          <bounds x="48" y="24" width="1044" height="1092"/>
+          <bounds x="48" y="48" width="1044" height="1068"/>
           <child xsi:type="archimate:Group" id="id-2ec31be5fc0e4056a0e2f191da422234" name="Evaluaciones" targetConnections="id-badd1aa37f344946a1ac43942c515171 id-11f3424ce1bd480394eab10361378fe7" textAlignment="1">
-            <bounds x="384" y="528" width="648" height="552"/>
+            <bounds x="384" y="504" width="648" height="552"/>
             <feature name="deriveElementLineColor" value="false"/>
             <child xsi:type="archimate:DiagramObject" id="id-967590d5432f4100af9c1dd99149630c" archimateElement="id-64a8d247819e4c0ba3a099704008253d">
               <bounds x="13" y="36" width="624" height="373"/>
@@ -1237,7 +1286,7 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
             </child>
           </child>
           <child xsi:type="archimate:Group" id="id-80491afb979244f796b7c9f36da70f76" name="Influenciadores" textAlignment="1" borderType="1">
-            <bounds x="24" y="648" width="288" height="276"/>
+            <bounds x="24" y="624" width="288" height="276"/>
             <feature name="deriveElementLineColor" value="false"/>
             <sourceConnection id="id-11f3424ce1bd480394eab10361378fe7" source="id-80491afb979244f796b7c9f36da70f76" target="id-2ec31be5fc0e4056a0e2f191da422234"/>
             <child xsi:type="archimate:DiagramObject" id="id-7e8d03b8a19645ad92d4cc661e83e913" archimateElement="id-33f4387da9bd49bcbb776cfb405bf05d">
@@ -1253,13 +1302,14 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
             </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-ecfa6eac1ab04fcb9f80f3f4d13b8855" textAlignment="1" archimateElement="id-2c65245ad7d44418a65d414d8484bbf6" type="1">
-            <bounds x="24" y="36" width="288" height="540"/>
+            <bounds x="24" y="144" width="288" height="337"/>
             <feature name="lineStyle" value="0"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-3032ef9e000746448246414316eb04ca" source="id-ecfa6eac1ab04fcb9f80f3f4d13b8855" target="id-79cbd387a729447982c39d484f469f8b" archimateRelationship="id-8eb5df4db6d14cbfbd33f174f8b7a23d"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-2f7060b758a0468d9dafc7bc97c4f567" source="id-ecfa6eac1ab04fcb9f80f3f4d13b8855" target="id-73db4b5db5694fdd94cd80a495ff7048" archimateRelationship="id-e42a35c040a24fc8a255d2317be328ae"/>
-            <sourceConnection xsi:type="archimate:Connection" id="id-063565e583444fbe984506bc0154f74d" source="id-ecfa6eac1ab04fcb9f80f3f4d13b8855" target="id-a7c21db98f0e4152be0272e881e9e65b" archimateRelationship="id-15b2fc7ad16045608adc2562158b618c"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-eeb64d69a2994341a43fa6e705463992" source="id-ecfa6eac1ab04fcb9f80f3f4d13b8855" target="id-1bb286ebba4b4a75afced0abec6949e8" archimateRelationship="id-1d3b358127754153a181cf82e908567d"/>
-            <sourceConnection id="id-badd1aa37f344946a1ac43942c515171" source="id-ecfa6eac1ab04fcb9f80f3f4d13b8855" target="id-2ec31be5fc0e4056a0e2f191da422234"/>
+            <sourceConnection id="id-badd1aa37f344946a1ac43942c515171" source="id-ecfa6eac1ab04fcb9f80f3f4d13b8855" target="id-2ec31be5fc0e4056a0e2f191da422234">
+              <bendpoint startY="228" endX="-540" endY="-240"/>
+            </sourceConnection>
             <child xsi:type="archimate:DiagramObject" id="id-79cbd387a729447982c39d484f469f8b" targetConnections="id-3032ef9e000746448246414316eb04ca" archimateElement="id-fdec46cfb4594e42bcaff54f33505b16">
               <bounds x="60" y="36" width="168" height="60"/>
             </child>
@@ -1274,19 +1324,9 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
                 <bounds x="32" y="36" width="192" height="73"/>
               </child>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="id-a7c21db98f0e4152be0272e881e9e65b" targetConnections="id-063565e583444fbe984506bc0154f74d" archimateElement="id-0a805141c9274b9cb5108684d2319288">
-              <bounds x="12" y="348" width="264" height="181"/>
-              <sourceConnection xsi:type="archimate:Connection" id="id-5b5651a73ce44ea197f08cffd8385355" source="id-a7c21db98f0e4152be0272e881e9e65b" target="id-c7ca1677145847afa1a6f2b9d66de707" archimateRelationship="id-d2501d507fe247598befd5149eb77496"/>
-              <child xsi:type="archimate:DiagramObject" id="id-5d0f09713519467ca86d515fffd7b17b" archimateElement="id-52089d72ad6e49849ad33f1933e71538">
-                <bounds x="72" y="36" width="120" height="55"/>
-              </child>
-              <child xsi:type="archimate:DiagramObject" id="id-c7ca1677145847afa1a6f2b9d66de707" targetConnections="id-5b5651a73ce44ea197f08cffd8385355" archimateElement="id-5f838f643a1a497cabc62cc5066e6048">
-                <bounds x="72" y="108" width="120" height="55"/>
-              </child>
-            </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-1bb286ebba4b4a75afced0abec6949e8" targetConnections="id-eeb64d69a2994341a43fa6e705463992" textAlignment="1" archimateElement="id-707d8db30f0f42759987621ae784527d" type="1">
-            <bounds x="557" y="48" width="313" height="457"/>
+            <bounds x="557" y="48" width="313" height="433"/>
             <feature name="lineStyle" value="0"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-0249b7cc9f244b13aba0309fc7ff10a4" source="id-1bb286ebba4b4a75afced0abec6949e8" target="id-165582b05d914856bec9a689a6e26578" archimateRelationship="id-21b01320e8ac4f139011376af1b9d94c"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-9866adc811d4435c90930c024afa267a" source="id-1bb286ebba4b4a75afced0abec6949e8" target="id-40bbddbeabad48e4b58968879f00b167" archimateRelationship="id-f48f8a55d0414632864083dc560126f2"/>
@@ -1294,7 +1334,7 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
               <bounds x="72" y="36" width="168" height="72"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="id-40bbddbeabad48e4b58968879f00b167" targetConnections="id-9866adc811d4435c90930c024afa267a" archimateElement="id-48e59f1bd3b341858c6ec6bbb88953d3">
-              <bounds x="24" y="156" width="264" height="276"/>
+              <bounds x="24" y="132" width="264" height="276"/>
               <sourceConnection xsi:type="archimate:Connection" id="id-c0ab8c147b134556a5f240c2ce22e15b" source="id-40bbddbeabad48e4b58968879f00b167" target="id-d643aab923524440be22df5390d9d467" archimateRelationship="id-bae97085d0c94e1caaf027ce1356f88a"/>
               <sourceConnection xsi:type="archimate:Connection" id="id-f4592092c0d34b8b9296e2866b431d81" source="id-40bbddbeabad48e4b58968879f00b167" target="id-5958711c3ad44b51973a577251fa4b1c" archimateRelationship="id-986055cbee224a05af7d1ef28db839e8"/>
               <sourceConnection xsi:type="archimate:Connection" id="id-129c67f4cd10434b87de85ed5db0c9a6" source="id-40bbddbeabad48e4b58968879f00b167" target="id-4d8f523b0cfc4bc296acf8bae568a9bc" archimateRelationship="id-51a16e969ef242f59a2d9209534a7a95"/>
@@ -1313,13 +1353,136 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="2.4. Mapa de Capacidad" id="id-b39a50d05a4a4b8ab0bbdfc6f095af65">
         <child xsi:type="archimate:DiagramObject" id="id-4ffca64087f04e198d64df1857fc4bbb" archimateElement="id-30dd4d2792dd4f3ba2ad07497c26bb50">
-          <bounds x="168" y="72" width="577" height="133"/>
+          <bounds x="24" y="24" width="817" height="133"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-73a92804134e4a728118563e0d876f91" source="id-4ffca64087f04e198d64df1857fc4bbb" target="id-bd10ca90fa434dc5b858faf941e2c3a0" archimateRelationship="id-04735c44cd3a4026b62028a6de0e3409"/>
+          <child xsi:type="archimate:DiagramObject" id="id-bd10ca90fa434dc5b858faf941e2c3a0" targetConnections="id-73a92804134e4a728118563e0d876f91" archimateElement="id-93e60fb048b548d0b26391318f1237e7">
+            <bounds x="96" y="36" width="157" height="61"/>
+          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-534ae789940f45cbb1e48e3828ea505a" archimateElement="id-9a0dee9aa62d4365bc614c89465d9c9e">
-          <bounds x="168" y="216" width="577" height="145"/>
+          <bounds x="24" y="168" width="817" height="325"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cd4c5d5c49c74de682c31221eeb90298" source="id-534ae789940f45cbb1e48e3828ea505a" target="id-a0b47947db0847e084f7e39730a97812" archimateRelationship="id-d8bb2aee59464e03a60178bc089d9fef"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-636d5d9b89124b60b2902d3504be70c4" source="id-534ae789940f45cbb1e48e3828ea505a" target="id-1095bce9507c49218c786b3b320203c7" archimateRelationship="id-6b64360c6e024b5789333328aa4f878a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fa45b4afd3964a9f80e0ce87693838d1" source="id-534ae789940f45cbb1e48e3828ea505a" target="id-873b21d2f478407391534248e45fcc71" archimateRelationship="id-3bd0696ca7404b5dbf71042e4fa3b805"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5a85c37b7fe74db5a9cc58b1e1e9f8ba" source="id-534ae789940f45cbb1e48e3828ea505a" target="id-ab6abb9ef3b949ab9b1b14e04f5b684f" archimateRelationship="id-f1dd1497c2af4a9ea578b344b74e4717"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-60ab1e34d6c04b97919b97e0d9c6b275" source="id-534ae789940f45cbb1e48e3828ea505a" target="id-fd37adfeabbc47ac9e3f190e96ac1d26" archimateRelationship="id-ea935a98ea3549958f219c15a5c39597"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-59132cb5da8942458c34e31f69d12bc6" source="id-534ae789940f45cbb1e48e3828ea505a" target="id-a970ba3026904e47ab9e75359ffae82d" archimateRelationship="id-6dc7cb7037d84900a69f34fbf60a14e4"/>
+          <child xsi:type="archimate:DiagramObject" id="id-a0b47947db0847e084f7e39730a97812" targetConnections="id-cd4c5d5c49c74de682c31221eeb90298" archimateElement="id-cf811dd73b814e7997a3d34fbcf39985">
+            <bounds x="12" y="180" width="266" height="133"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-4de31105eec74559943870f55af8f974" source="id-a0b47947db0847e084f7e39730a97812" target="id-6a6ac695bc1d4e87ba30e9557011b3ec" archimateRelationship="id-d0f983c43c5748f39b01bbf2fb4fa01e"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9807a3fa943b4c50a550b77f62532bd0" source="id-a0b47947db0847e084f7e39730a97812" target="id-3f04661c336848748d59e80ac92b3af2" archimateRelationship="id-434d3184ad994e2984a1d45c8b1f583d"/>
+            <child xsi:type="archimate:DiagramObject" id="id-6a6ac695bc1d4e87ba30e9557011b3ec" targetConnections="id-4de31105eec74559943870f55af8f974" archimateElement="id-c7775b484e2a40a081d5d457dd603414">
+              <bounds x="36" y="36" width="193" height="37"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-3f04661c336848748d59e80ac92b3af2" targetConnections="id-9807a3fa943b4c50a550b77f62532bd0" archimateElement="id-4c8b16c4c05340d098018f57bfa2b566">
+              <bounds x="36" y="84" width="193" height="40"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1095bce9507c49218c786b3b320203c7" targetConnections="id-636d5d9b89124b60b2902d3504be70c4" archimateElement="id-933ae56886804b47a56df62c25cee0d1">
+            <bounds x="12" y="30" width="266" height="139"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6dacad2c6dae4a8ca3f419f5c5bd4eeb" source="id-1095bce9507c49218c786b3b320203c7" target="id-d3d40bb3d87641ecbdf69003381e5faf" archimateRelationship="id-05e9ebd5446143798660f3b6879d2576"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-435bb5102e4e4872addad2ae54cbf4c0" source="id-1095bce9507c49218c786b3b320203c7" target="id-e87f9760b00d47a7a47ca48d5a8c1159" archimateRelationship="id-1ea66a2bfa2546afb08bbf2aaa22ffa5"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-960a2670907444b5b1e837ce7d28dfa7" source="id-1095bce9507c49218c786b3b320203c7" target="id-f3276e0838b34194ab833ae505bd5541" archimateRelationship="id-6ef10358be9e4412a661d014dbceac56"/>
+            <child xsi:type="archimate:DiagramObject" id="id-d3d40bb3d87641ecbdf69003381e5faf" targetConnections="id-6dacad2c6dae4a8ca3f419f5c5bd4eeb" archimateElement="id-c282b661c28f40cdb5e59de1a38d27bd">
+              <bounds x="12" y="24" width="121" height="37"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-e87f9760b00d47a7a47ca48d5a8c1159" targetConnections="id-435bb5102e4e4872addad2ae54cbf4c0" archimateElement="id-536a93d8bf4d4fae81ac6c022271f4a1">
+              <bounds x="144" y="24" width="97" height="37"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-f3276e0838b34194ab833ae505bd5541" targetConnections="id-960a2670907444b5b1e837ce7d28dfa7" archimateElement="id-89147e53ed6f4d17b09a48164dbc190a">
+              <bounds x="36" y="72" width="193" height="49"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-873b21d2f478407391534248e45fcc71" targetConnections="id-fa45b4afd3964a9f80e0ce87693838d1" archimateElement="id-7ab21fec0db1475ab8fc632a4425dfb5">
+            <bounds x="288" y="30" width="253" height="139"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-0b9d59a853e248fb80f30905bc6e572b" source="id-873b21d2f478407391534248e45fcc71" target="id-f86f00976cd043bc8cfb78681f5e88d9" archimateRelationship="id-6ac2d642ff4a458387af2fa3fbf0a233"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-1602bcea6a234a9ea6530724da26e123" source="id-873b21d2f478407391534248e45fcc71" target="id-d976f819c89449a6bcd5f782858dc256" archimateRelationship="id-a9e3a3ac771a4373a790f139e0cccc9f"/>
+            <child xsi:type="archimate:DiagramObject" id="id-f86f00976cd043bc8cfb78681f5e88d9" targetConnections="id-0b9d59a853e248fb80f30905bc6e572b" archimateElement="id-66cead60b2cf4ad7a8e4f8ee918b0c7d">
+              <bounds x="18" y="84" width="217" height="43"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-d976f819c89449a6bcd5f782858dc256" targetConnections="id-1602bcea6a234a9ea6530724da26e123" archimateElement="id-971d3b0081cb47c2b8d311237c708fa5">
+              <bounds x="12" y="36" width="229" height="37"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ab6abb9ef3b949ab9b1b14e04f5b684f" targetConnections="id-5a85c37b7fe74db5a9cc58b1e1e9f8ba" archimateElement="id-feb5d0d83f464a859becc91602aea6fe">
+            <bounds x="288" y="180" width="253" height="133"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-db60345a5a464740b36110b8cb3d127b" source="id-ab6abb9ef3b949ab9b1b14e04f5b684f" target="id-1d4ee7e80c2b404d994eb654ac0997cb" archimateRelationship="id-143d4e3879f442b5b3c43e0b418fd391"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-78198b58391d4048ae7d3c28a51af44c" source="id-ab6abb9ef3b949ab9b1b14e04f5b684f" target="id-49f507274933445f85bd6a0e98127329" archimateRelationship="id-db790323c8454388a26dc2e0d6566dcd"/>
+            <child xsi:type="archimate:DiagramObject" id="id-1d4ee7e80c2b404d994eb654ac0997cb" targetConnections="id-db60345a5a464740b36110b8cb3d127b" archimateElement="id-d7adba68dfe24c0e99274e840ce48344">
+              <bounds x="62" y="24" width="133" height="39"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-49f507274933445f85bd6a0e98127329" targetConnections="id-78198b58391d4048ae7d3c28a51af44c" archimateElement="id-49cdec4ad9284e0fa186f20618c87082">
+              <bounds x="38" y="72" width="181" height="49"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-fd37adfeabbc47ac9e3f190e96ac1d26" targetConnections="id-60ab1e34d6c04b97919b97e0d9c6b275" archimateElement="id-a1c467b6d4fd49df994a43e43496f780">
+            <bounds x="552" y="180" width="253" height="133"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-7fdef070e8614c4ebfa0196dc7a1bbd0" source="id-fd37adfeabbc47ac9e3f190e96ac1d26" target="id-0799fd00059644b2a6183dd97ec17a9f" archimateRelationship="id-f785964c99e14e9395f7e5282a97f5c0"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-f9de03b876d844fc9476639030c50a74" source="id-fd37adfeabbc47ac9e3f190e96ac1d26" target="id-45edd304ed58424e95441cab62ff89ae" archimateRelationship="id-90319215bd314c3db4c32ef5b4a750ad"/>
+            <child xsi:type="archimate:DiagramObject" id="id-0799fd00059644b2a6183dd97ec17a9f" targetConnections="id-7fdef070e8614c4ebfa0196dc7a1bbd0" archimateElement="id-b4e6c1e1e699416fb1f307a36eeab184">
+              <bounds x="48" y="84" width="145" height="37"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-45edd304ed58424e95441cab62ff89ae" targetConnections="id-f9de03b876d844fc9476639030c50a74" archimateElement="id-6ce0f014033e44ef97bbc6ba1a1a0b3f">
+              <bounds x="36" y="36" width="169" height="37"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a970ba3026904e47ab9e75359ffae82d" targetConnections="id-59132cb5da8942458c34e31f69d12bc6" archimateElement="id-ac16f30f01034b5ea400e41ed3b338cd">
+            <bounds x="552" y="30" width="253" height="139"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-5f3048b42a5547f0b3d8b0a104685d22" source="id-a970ba3026904e47ab9e75359ffae82d" target="id-8b16cadf7f2f4d3abc1388b2b5f909c8" archimateRelationship="id-aa3196e401a14640ada3cd5b3e86d6c5"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-41714043139a4d8ea99cecf71c5fee17" source="id-a970ba3026904e47ab9e75359ffae82d" target="id-5abcc8c0d6d54c8da55f098baaf08f61" archimateRelationship="id-b1ae38d4cd89417589cd3a4dd888f459"/>
+            <child xsi:type="archimate:DiagramObject" id="id-8b16cadf7f2f4d3abc1388b2b5f909c8" targetConnections="id-5f3048b42a5547f0b3d8b0a104685d22" archimateElement="id-071279d03300426fb1aa789c56c9c16d">
+              <bounds x="5" y="24" width="236" height="49"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-5abcc8c0d6d54c8da55f098baaf08f61" targetConnections="id-41714043139a4d8ea99cecf71c5fee17" archimateElement="id-f4d8ae5e7c8a4d3a825ce01dd9739c4b">
+              <bounds x="32" y="84" width="181" height="37"/>
+            </child>
+          </child>
         </child>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="2.8. Planificación de Capacidad" id="id-4733a095d3124bf297d123f53c1e1fe7"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.8. Realización de Capacidad" id="id-4733a095d3124bf297d123f53c1e1fe7">
+        <child xsi:type="archimate:DiagramObject" id="id-f3295599c2144437a56a27aee56dfafc" targetConnections="id-a57aa284290649c1b9e1e2ec2c6bd0ea id-03877ae2bc7e4523a55a82534adb4489" archimateElement="id-933ae56886804b47a56df62c25cee0d1">
+          <bounds x="120" y="180" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5eb390f7bf6d454fb9f757f6cef60f3a" archimateElement="id-7ab21fec0db1475ab8fc632a4425dfb5">
+          <bounds x="493" y="180" width="120" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4f877d1bcb7c4e11a30b4928c8d54619" archimateElement="id-ac16f30f01034b5ea400e41ed3b338cd">
+          <bounds x="684" y="504" width="132" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-14f9c075281146acabe54899482511e1" archimateElement="id-cf811dd73b814e7997a3d34fbcf39985">
+          <bounds x="649" y="180" width="120" height="73"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-257ebcdeae804ba1ab95b7f09d549a08" archimateElement="id-feb5d0d83f464a859becc91602aea6fe">
+          <bounds x="960" y="180" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-fa2e063b98f84f38ab1a2e78d35b8a76" targetConnections="id-e59838451cf241af8f34d67f73f8c518" archimateElement="id-a1c467b6d4fd49df994a43e43496f780">
+          <bounds x="805" y="180" width="120" height="72"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-b2ff7ab5bdb5400d94f165677883e196" archimateElement="id-83a49803df024dfb83aba56a03f9a470">
+          <bounds x="792" y="384" width="109" height="44"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e59838451cf241af8f34d67f73f8c518" source="id-b2ff7ab5bdb5400d94f165677883e196" target="id-fa2e063b98f84f38ab1a2e78d35b8a76" archimateRelationship="id-24bb8e74d2744803a9c5ee7512771d6e"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-5ca31340f3ce452ba0527e78442ce6af" archimateElement="id-b9ae55c97df4473ca9dc4672a21858dd">
+          <bounds x="216" y="300" width="102" height="47"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-03877ae2bc7e4523a55a82534adb4489" source="id-5ca31340f3ce452ba0527e78442ce6af" target="id-f3295599c2144437a56a27aee56dfafc" archimateRelationship="id-7e14b6a74b1245f4b39a482adebb9d93"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-eb87de236be04ac8813c788baf27fa51" archimateElement="id-722af2df956540c8a20f057df920a3ff">
+          <bounds x="30" y="300" width="138" height="47"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a57aa284290649c1b9e1e2ec2c6bd0ea" source="id-eb87de236be04ac8813c788baf27fa51" target="id-f3295599c2144437a56a27aee56dfafc" archimateRelationship="id-a76a7dcd65d74ed8885f84094cc23357"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ed81304f24634718868ad9e6db1259e6" archimateElement="id-35be54c3c3184762ab9bca3d68c8935e">
+          <bounds x="456" y="396" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6bce707bde554e8581fd473e0127a428" archimateElement="id-2708d9c949b44911973458dc9449f877">
+          <bounds x="468" y="60" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-338ca7e2de814bb0aea705ec4ec817c1" archimateElement="id-4fdc2df00c6a45ce93816ab327d5d88b">
+          <bounds x="612" y="409" width="157" height="61"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-61c8d5221dbd4889ba8914c1b030623f" archimateElement="id-96736489cdce486bac9524c0de50fa50">
+          <bounds x="924" y="408" width="120" height="55"/>
+        </child>
+      </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="2.3. Estrategia de Negocio" id="id-b0617441eb274c15b644d03697c21204">
         <child xsi:type="archimate:Group" id="id-f1e74d0c2ccd47a1ac5b0e42edffb456" name="Interesados" textAlignment="1" alpha="0">
           <bounds x="48" y="24" width="826" height="109"/>
@@ -1421,33 +1584,38 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-993759fc4b2a4dcdb49cc767a0a0f736" archimateElement="id-7976f623578f4b23a4c061171901aaa5">
             <bounds x="240" y="38" width="120" height="55"/>
-            <sourceConnection xsi:type="archimate:Connection" id="id-6d72c22f61154a3d88ece44a00183b63" source="id-993759fc4b2a4dcdb49cc767a0a0f736" target="id-10c085d62bd44b0581e13f93a5784211" archimateRelationship="id-89f41207c17d411faf6244874e331ee4"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-6d72c22f61154a3d88ece44a00183b63" source="id-993759fc4b2a4dcdb49cc767a0a0f736" target="id-10c085d62bd44b0581e13f93a5784211" archimateRelationship="id-89f41207c17d411faf6244874e331ee4">
+              <bendpoint startX="-1" startY="-41" endX="192" endY="84"/>
+              <bendpoint startX="-145" startY="-41" endX="48" endY="84"/>
+            </sourceConnection>
             <sourceConnection xsi:type="archimate:Connection" id="id-003ff531fd1f4c2bb25f7e7c8da1537f" source="id-993759fc4b2a4dcdb49cc767a0a0f736" target="id-2d4a6ade1c404d9db5224d30fdccf456" archimateRelationship="id-e3371228e6024db388f0a8d430683650"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-74ee0298d45b461ba0c8c1b166d11f5a" archimateElement="id-ae0b9001b42342ffb2825920ba4b486c">
-            <bounds x="48" y="38" width="133" height="55"/>
+            <bounds x="36" y="31" width="133" height="65"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-c0724598363d4f4b94e6405beacc1c98" source="id-74ee0298d45b461ba0c8c1b166d11f5a" target="id-10c085d62bd44b0581e13f93a5784211" archimateRelationship="id-61507a680f154266abdfa7c8c9b38de0"/>
           </child>
         </child>
         <child xsi:type="archimate:Group" id="id-be863623699f49c98a2ef99b65fd5a4b" name="Capacidades" textAlignment="1" alpha="0">
           <bounds x="48" y="744" width="824" height="109"/>
-          <child xsi:type="archimate:DiagramObject" id="id-a99534077def4a77bd0075b27d41a692" targetConnections="id-b9a8bb01b8d249a992a2660cb64620c4" archimateElement="id-93e60fb048b548d0b26391318f1237e7">
+          <child xsi:type="archimate:DiagramObject" id="id-a99534077def4a77bd0075b27d41a692" targetConnections="id-b9a8bb01b8d249a992a2660cb64620c4 id-9484760d26bb4f8998bcd9195d0f30de" archimateElement="id-93e60fb048b548d0b26391318f1237e7">
             <bounds x="216" y="33" width="156" height="56"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-c8e64371bf7a45f498ebeee0042a8135" source="id-a99534077def4a77bd0075b27d41a692" target="id-a2fe2dcc0ab9432fa7278928eca8fe2a" archimateRelationship="id-0fbd60f69f4d48cab90a3173d8743fcf"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-249edb87303d4467acf586a08463884b" source="id-a99534077def4a77bd0075b27d41a692" target="id-81815cd4c0d64029b6b7ada98bbcf090" archimateRelationship="id-54247cc982f14690ae42bf4fb9182551"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-c946a9024bd24e65a68f59c0bb473f42" targetConnections="id-6bfd0a8c5e804a94b5fb717b1d6c624c id-4b9c9eca7ca4461389605e9d700887e5" archimateElement="id-19d5f4be00964f9ca99b8eb88b339ed2">
-            <bounds x="24" y="33" width="147" height="55"/>
-            <sourceConnection xsi:type="archimate:Connection" id="id-bed25c1a37af4267afe2f2dc33894c0b" source="id-c946a9024bd24e65a68f59c0bb473f42" target="id-a2fe2dcc0ab9432fa7278928eca8fe2a" archimateRelationship="id-cfd7bf2d6b9348e8a8fea2df2791a919"/>
-          </child>
           <child xsi:type="archimate:DiagramObject" id="id-c1541a76124f4287b2d0617781ccd2ee" targetConnections="id-a710edb079f342fb848700287c79eb4f" archimateElement="id-1291effb67504253a26efe067fa5ffbd">
             <bounds x="624" y="36" width="121" height="49"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-86ceb634c2bc4895a9e3f81cf86a8bb1" source="id-c1541a76124f4287b2d0617781ccd2ee" target="id-bb5fc3b3535d46fc9587eaa4b8403fb6" archimateRelationship="id-1ab379ef62574e06bd19d8c4e7accebf">
-              <bendpoint startX="-132" startY="-36" endX="132" endY="75"/>
+              <bendpoint startY="-60" endX="264" endY="50"/>
+              <bendpoint startX="-264" startY="-60" endY="50"/>
             </sourceConnection>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-81815cd4c0d64029b6b7ada98bbcf090" targetConnections="id-249edb87303d4467acf586a08463884b id-2a98034c618140d69b6033482b3256b6 id-bca54f4bd2e5410ea2b4ef0081714d43" archimateElement="id-ea4cea771ab04eea93923695a0545938">
-            <bounds x="420" y="33" width="120" height="55"/>
+            <bounds x="420" y="33" width="120" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-aa4edef6dc7947f186828600af52ae4d" targetConnections="id-97b59d50f13d4da8b6425d4ccf8eef57" archimateElement="id-a1c467b6d4fd49df994a43e43496f780">
+            <bounds x="36" y="33" width="144" height="55"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-37214272c59545a5a6b44b4c560bf421" source="id-aa4edef6dc7947f186828600af52ae4d" target="id-a2fe2dcc0ab9432fa7278928eca8fe2a" archimateRelationship="id-68e35a3ed7564dae9d831ea30bcea091"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-9484760d26bb4f8998bcd9195d0f30de" source="id-aa4edef6dc7947f186828600af52ae4d" target="id-a99534077def4a77bd0075b27d41a692" archimateRelationship="id-31746fe884d84ba1ba9addabe1565b0d"/>
           </child>
         </child>
         <child xsi:type="archimate:Group" id="id-490a1c82228040198781d895cbe12df4" name="Recursos" textAlignment="1" alpha="0">
@@ -1458,7 +1626,7 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-0119d50613864242b00a9cf077d4b700" archimateElement="id-83a49803df024dfb83aba56a03f9a470">
             <bounds x="48" y="50" width="108" height="41"/>
-            <sourceConnection xsi:type="archimate:Connection" id="id-6bfd0a8c5e804a94b5fb717b1d6c624c" source="id-0119d50613864242b00a9cf077d4b700" target="id-c946a9024bd24e65a68f59c0bb473f42" archimateRelationship="id-ce22b9819373439bad0502fb619d7e8a"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-97b59d50f13d4da8b6425d4ccf8eef57" source="id-0119d50613864242b00a9cf077d4b700" target="id-aa4edef6dc7947f186828600af52ae4d" archimateRelationship="id-24bb8e74d2744803a9c5ee7512771d6e"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-4afe5e6ec6e74bfcb1ba852e07b2e6e9" archimateElement="id-a9e529b32ec14120ac3444c861bfe6d4">
             <bounds x="432" y="48" width="120" height="48"/>
@@ -1466,9 +1634,11 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-4a0f56621b364b2380c1c610329f4750" archimateElement="id-98e666c04bae4f04ba2c09900678f8f5">
             <bounds x="240" y="47" width="108" height="48"/>
-            <sourceConnection xsi:type="archimate:Connection" id="id-4b9c9eca7ca4461389605e9d700887e5" source="id-4a0f56621b364b2380c1c610329f4750" target="id-c946a9024bd24e65a68f59c0bb473f42" archimateRelationship="id-1f3021e23f0f47e68badb897d6617514"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-b9a8bb01b8d249a992a2660cb64620c4" source="id-4a0f56621b364b2380c1c610329f4750" target="id-a99534077def4a77bd0075b27d41a692" archimateRelationship="id-9b3ce3a1b9cc444a94f05ce73b0f0668"/>
-            <sourceConnection xsi:type="archimate:Connection" id="id-2a98034c618140d69b6033482b3256b6" source="id-4a0f56621b364b2380c1c610329f4750" target="id-81815cd4c0d64029b6b7ada98bbcf090" archimateRelationship="id-a90e1f2ca57045faab6bfedc3e2c9de3"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-2a98034c618140d69b6033482b3256b6" source="id-4a0f56621b364b2380c1c610329f4750" target="id-81815cd4c0d64029b6b7ada98bbcf090" archimateRelationship="id-a90e1f2ca57045faab6bfedc3e2c9de3">
+              <bendpoint startX="30" startY="-47" endX="-156" endY="84"/>
+              <bendpoint startX="174" startY="-47" endX="-12" endY="84"/>
+            </sourceConnection>
           </child>
         </child>
         <child xsi:type="archimate:Group" id="id-1e7a67e7d4e24ae29aa90dc9605e3c88" name="Tácticas" textAlignment="1" alpha="0">
@@ -1480,7 +1650,7 @@ Toda acción territorial debe respetar la autonomía de los pueblos indígenas v
             <bounds x="348" y="30" width="144" height="57"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-71954578c37d40f6b5a93150d360a8d2" source="id-bb5fc3b3535d46fc9587eaa4b8403fb6" target="id-e8cdaa4cb1444bb7a209c0f0254fd4cb" archimateRelationship="id-2f04771b00d540c683fc94399dfa2cb6"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-a2fe2dcc0ab9432fa7278928eca8fe2a" targetConnections="id-c8e64371bf7a45f498ebeee0042a8135 id-bed25c1a37af4267afe2f2dc33894c0b" archimateElement="id-1248e5d940174b3c962c04aaf483c626">
+          <child xsi:type="archimate:DiagramObject" id="id-a2fe2dcc0ab9432fa7278928eca8fe2a" targetConnections="id-c8e64371bf7a45f498ebeee0042a8135 id-37214272c59545a5a6b44b4c560bf421" archimateElement="id-1248e5d940174b3c962c04aaf483c626">
             <bounds x="108" y="38" width="145" height="41"/>
             <sourceConnection id="id-0bd7fc3750664db2b9400d913a151a8e" source="id-a2fe2dcc0ab9432fa7278928eca8fe2a" target="id-21c687d7e20a488582dfc268751b8810">
               <bendpoint startX="24" startY="-43" endX="-211" endY="90"/>
