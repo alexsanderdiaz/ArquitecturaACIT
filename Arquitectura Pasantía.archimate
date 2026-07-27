@@ -337,21 +337,23 @@
       <folder name="Otros" id="id-e5020556cba24a3f94c9cdf8e64724ad">
         <element xsi:type="archimate:Goal" name="Objetivos Deseados" id="id-48e59f1bd3b341858c6ec6bbb88953d3"/>
       </folder>
-      <element xsi:type="archimate:Goal" name="Lograr una Gobernanza Territorial Intercultural" id="id-a070546e75c84be193da9e5aee1de22c">
-        <documentation>Busca construir un &quot;poder popular campesino&quot; e intercultural que permita decidir el destino del territorio sin ser desplazados. Crear un modelo de decisión donde los procesos no-étnicos tengan igual peso y representación. </documentation>
+      <element xsi:type="archimate:Goal" name="Consolidación de una gobernanza territorial intercultural" id="id-a070546e75c84be193da9e5aee1de22c">
+        <documentation>Fortalecer un modelo de gobernanza territorial basado en la participación democrática, el diálogo intercultural y el reconocimiento equitativo de los diferentes actores del territorio, garantizando la incidencia del campesinado en la toma de decisiones sobre el desarrollo territorial.</documentation>
       </element>
-      <element xsi:type="archimate:Goal" name="Fortalecer la Identidad y Cultural Campesina" id="id-dbf8879bd1f64892a418becee051dfb1">
-        <documentation>Se enfoca en el fortalecimiento de tradiciones (música, danza, gastronomía y deportes) para evitar que la identidad se diluya o se generalice. Se busca recuperar el orgullo del término &quot;campesino&quot;. </documentation>
+      <element xsi:type="archimate:Goal" name="Fortalecimiento de la identidad y la cultura campesina" id="id-dbf8879bd1f64892a418becee051dfb1">
+        <documentation>Preservar, fortalecer y promover la identidad campesina mediante la protección de los saberes, las prácticas culturales, la memoria histórica y las expresiones sociales que fortalecen el sentido de pertenencia y la permanencia en el territorio. </documentation>
       </element>
-      <element xsi:type="archimate:Goal" name="Consolidar un Territorio Social para la permanencia" id="id-d4f41a9dd22f482d919c1bdd2a6dcac7">
-        <documentation>La tierra no se defiende bajo una lógica capitalista de &quot;propiedad privada&quot;, sino como un espacio para &quot;vivir y convivir con la tierra&quot;. El objetivo debe ser proteger la permanencia en el territorio. </documentation>
+      <element xsi:type="archimate:Goal" name="Consolidación de un territorio para la permanencia campesina" id="id-d4f41a9dd22f482d919c1bdd2a6dcac7">
+        <documentation>Promover un modelo de desarrollo territorial que garantice la permanencia digna de las comunidades campesinas, fortaleciendo la seguridad jurídica sobre la tierra, la función social del territorio y la sostenibilidad de los medios de vida rurales.</documentation>
       </element>
-      <element xsi:type="archimate:Goal" name="Dar reconocimiento al campesino como sujeto cultural de derechos" id="id-190742200dc54a73a102c1e15ddf91ab">
-        <documentation>Reconocimiento de una cosmovisión propia que el Estado ignora para que el campesino sea visto como un sujeto cultural de derechos y no solo un agente productivo. Reparación social a través de este cambio de estatus.</documentation>
+      <element xsi:type="archimate:Goal" name="Reconocimiento del Campesino como sujeto cultural de derechos" id="id-190742200dc54a73a102c1e15ddf91ab">
+        <documentation>Alcanzar el reconocimiento del campesinado como sujeto colectivo de derechos, con identidad, cultura y formas propias de organización, fortaleciendo su participación política y su incidencia en la formulación de políticas públicas y en la gestión del territorio.</documentation>
       </element>
-      <element xsi:type="archimate:Goal" name="Garantizar la integridad y acceso colectivo a la información" id="id-0ed45a94ea7e455592dfb4fb904e88d9"/>
-      <element xsi:type="archimate:Goal" name="Impulsar el reconocimiento de la información de la ACIT" id="id-f7cc4704284c4f0b8d70453ee79b4681">
-        <documentation>Que la información almacenada sea reconocida como información, documentación y registros de la ACIT</documentation>
+      <element xsi:type="archimate:Goal" name="Garantizar la soberanía, integridad y acceso a la información" id="id-0ed45a94ea7e455592dfb4fb904e88d9">
+        <documentation>Asegurar la protección, integridad, disponibilidad y acceso colectivo a la información institucional y territorial, promoviendo su administración por parte de la propia organización y fortaleciendo la autonomía en la gestión del conocimiento.</documentation>
+      </element>
+      <element xsi:type="archimate:Goal" name="Fortalecer la gestión y el reconocimiento de la información territorial" id="id-f7cc4704284c4f0b8d70453ee79b4681">
+        <documentation>Consolidar la información generada por la ACIT como un activo estratégico para la organización, fortaleciendo su uso en los procesos de planificación, gestión territorial, formulación de proyectos y toma de decisiones. </documentation>
       </element>
       <element xsi:type="archimate:Goal" name="Misión: Organización, Defensa y Poder Popular" id="id-fdec46cfb4594e42bcaff54f33505b16">
         <documentation>Organizar, fortalecer y representar al campesinado de Inzá mediante procesos de formación, participación y desarrollo comunitario que contribuyan a la defensa del territorio, el fortalecimiento de la economía campesina y la construcción del poder popular.&#xD;
@@ -367,24 +369,30 @@
           <documentation>Factores que pueden causar cambios en la Organización.</documentation>
         </element>
       </folder>
-      <element xsi:type="archimate:Driver" name="Visibilización del Campesino" id="id-bb0038f5a3834271b966acd804740656">
-        <documentation>La falta de un marco legal que reconozca al campesino como sujeto de derechos específicos en Colombia, necesidad de romper esa visión limitada para ser reconocidos como sujetos de cultura y derechos.</documentation>
+      <element xsi:type="archimate:Driver" name="Reconocimiento del campesinado como sujeto de derechos" id="id-bb0038f5a3834271b966acd804740656">
+        <documentation>La necesidad de lograr el reconocimiento político, social y jurídico del campesinado como sujeto colectivo de derechos, fortaleciendo su participación en la formulación de políticas públicas y en la toma de decisiones que afectan el territorio.</documentation>
       </element>
-      <element xsi:type="archimate:Driver" name="Reafirmación de la Identidad y Cultura Campesina" id="id-3aad8a5f0b5340bebf3d0d530e7b290f">
-        <documentation>El riesgo de perder los saberes y prácticas culturales propias. Inspirado en procesos como Radio Sutatenza, existe un impulso por reapropiarse del término &quot;campesino&quot; frente a la &quot;infantilización&quot; histórica.</documentation>
+      <element xsi:type="archimate:Driver" name="Fortalecimiento de la identidad y la cultura campesina" id="id-3aad8a5f0b5340bebf3d0d530e7b290f">
+        <documentation>La preservación y transmisión de los saberes, prácticas, valores e identidad campesina como elementos fundamentales para garantizar la permanencia cultural, fortalecer el tejido social y consolidar el reconocimiento del campesinado como sujeto histórico y político.</documentation>
       </element>
-      <element xsi:type="archimate:Driver" name="Equilibrio del Poder Territorial y Representación" id="id-1f0304220d7b49458edbc10af99347ca">
-        <documentation>Existe una brecha de representación y derechos reconocidos entre comunidades indígenas (reconocidas étnicamente) y campesinas. Se quiere impulsar la búsqueda de equilibrio en la gestión del territorio. </documentation>
+      <element xsi:type="archimate:Driver" name="Fortalecimiento de la gobernanza y la representación territorial" id="id-1f0304220d7b49458edbc10af99347ca">
+        <documentation>La búsqueda de una participación efectiva del campesinado en los espacios de decisión territorial, promoviendo condiciones de representación equitativas que permitan incidir en la planificación, administración y defensa del territorio.</documentation>
       </element>
-      <element xsi:type="archimate:Driver" name="Seguridad y Autonomía en la Tenencia de la Tierra" id="id-d51be6e18e584a75ae5252c73e090919">
-        <documentation>La defensa de la propiedad no desde un sentido capitalista, sino social: &quot;esta tierra es mía para vivir y trabajar&quot;</documentation>
+      <element xsi:type="archimate:Driver" name="Seguridad jurídica y autonomía sobre la tierra" id="id-d51be6e18e584a75ae5252c73e090919">
+        <documentation>La necesidad de garantizar el acceso, la permanencia y la seguridad jurídica sobre la tierra, promoviendo un modelo de tenencia basado en su función social, el arraigo territorial y el derecho de las familias campesinas a vivir y producir dignamente en el territorio.</documentation>
       </element>
-      <element xsi:type="archimate:Driver" name="Integridad Física y Territorial" id="id-dc7564228305418d90b2e8f7f87fcf21"/>
-      <element xsi:type="archimate:Driver" name="Soberanía de la Información" id="id-97fc014b8b0340f4aac1956f50d2f715"/>
-      <element xsi:type="archimate:Driver" name="Falta de infraestructura tecnológica" id="id-52c921214f8f412ca8156763553274f6">
-        <documentation>Influencia Interna</documentation>
+      <element xsi:type="archimate:Driver" name="Protección del territorio y del liderazgo campesino" id="id-dc7564228305418d90b2e8f7f87fcf21">
+        <documentation>La necesidad de fortalecer las capacidades organizativas para la defensa del territorio, la permanencia campesina y la protección de los líderes y comunidades frente a las diferentes amenazas que afectan su integridad y sus procesos organizativos.</documentation>
       </element>
-      <element xsi:type="archimate:Driver" name="Conflictos Interculturales" id="id-830c97aa14274d639b8e6cab70c4372b"/>
+      <element xsi:type="archimate:Driver" name="Autonomía y soberanía de la información territorial" id="id-97fc014b8b0340f4aac1956f50d2f715">
+        <documentation>La necesidad de garantizar que la información generada por las comunidades campesinas sea gestionada, protegida y utilizada por la propia organización como un recurso estratégico para la toma de decisiones, la planificación territorial y el fortalecimiento de la autonomía organizativa.</documentation>
+      </element>
+      <element xsi:type="archimate:Driver" name="Fortalecimiento de la infraestructura organizativa y comunitaria" id="id-52c921214f8f412ca8156763553274f6">
+        <documentation>La necesidad de consolidar espacios físicos, tecnológicos y comunitarios que fortalezcan los procesos organizativos, educativos, culturales, productivos y de comunicación impulsados por la ACIT.</documentation>
+      </element>
+      <element xsi:type="archimate:Driver" name="Fortalecimiento del diálogo intercultural" id="id-830c97aa14274d639b8e6cab70c4372b">
+        <documentation>La necesidad de promover mecanismos de diálogo, concertación y construcción colectiva entre las diferentes comunidades presentes en el territorio, favoreciendo relaciones de respeto mutuo y la gestión pacífica de los conflictos interculturales.</documentation>
+      </element>
     </folder>
     <folder name="Resultados" id="id-9c7717d68f284786950ea4394c5cff4e">
       <folder name="Otros" id="id-b8d9c34df9564b22a24c3f88cf103848">
@@ -410,17 +418,41 @@
         <element xsi:type="archimate:Assessment" name="Internos" id="id-4c091122f2e342aca7db2c9c8a16a8b0"/>
         <element xsi:type="archimate:Assessment" name="Oportunidades" id="id-6068bb5ca9794119bfc0f7adfdbd6352"/>
       </folder>
-      <element xsi:type="archimate:Assessment" name="Debilidad: Brecha de representación y recursos frente a grupos étnicos" id="id-c9bc3ed54f7247dca4c5138e0790e3f8"/>
-      <element xsi:type="archimate:Assessment" name="Amenaza: Desplazamiento estatal" id="id-24aa52c712144d1e99b07e80c953099e"/>
-      <element xsi:type="archimate:Assessment" name="Amenaza: Olvido de tradiciones y prácticas culturales propias" id="id-dfab696f94a84f9f9efb7814b24dcafb"/>
-      <element xsi:type="archimate:Assessment" name="Debilidad: Desigualdad en el reconocimiento de derechos" id="id-4a7b8cd1a7b84d6592d5e52160b074e9"/>
-      <element xsi:type="archimate:Assessment" name="Fortaleza: Tradiciones culturales marcadas" id="id-9d5803e51bb64e8eb04d328fd26d798c"/>
-      <element xsi:type="archimate:Assessment" name="Oportunidad: Interculturalidad en el territorio" id="id-08fbf5cb65294ab3bd2b8a15593aaea2"/>
+      <element xsi:type="archimate:Assessment" name="Debilidad: Participación desigual en la gobernanza territorial" id="id-c9bc3ed54f7247dca4c5138e0790e3f8">
+        <documentation>Derivada de diferencias en el reconocimiento jurídico y en el acceso a mecanismos de representación institucional.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Amenaza: Presiones sobre la permanencia en el territorio" id="id-24aa52c712144d1e99b07e80c953099e">
+        <documentation>Las presiones institucionales, económicas y los conflictos sobre el uso del territorio representan un riesgo para la permanencia de las comunidades campesinas y el fortalecimiento de su proyecto territorial.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Amenaza: Pérdida del patrimonio cultural campesino" id="id-dfab696f94a84f9f9efb7814b24dcafb">
+        <documentation>La disminución en la transmisión de los saberes, prácticas y expresiones culturales campesinas pone en riesgo la preservación de la identidad colectiva.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Debilidad: Reconocimiento limitado del campesinado como sujeto de derechos" id="id-4a7b8cd1a7b84d6592d5e52160b074e9">
+        <documentation>Reduce su capacidad de incidencia política y el acceso equitativo a mecanismos de protección y desarrollo territorial.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Fortaleza: Identidad y organización campesina" id="id-9d5803e51bb64e8eb04d328fd26d798c">
+        <documentation>La sólida identidad organizativa y cultural del campesinado constituye la base para la defensa del territorio, la participación comunitaria y la preservación de los saberes propios.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Oportunidad: Fortalecimiento del diálogo intercultural" id="id-08fbf5cb65294ab3bd2b8a15593aaea2">
+        <documentation>La diversidad cultural del territorio representa una oportunidad para fortalecer procesos de diálogo, concertación y gobernanza intercultural que favorezcan la construcción colectiva del desarrollo territorial.</documentation>
+      </element>
       <element xsi:type="archimate:Assessment" name="Riesgo: Ataques Cibernéticos" id="id-7c6f1baa76d94b8f9ae96cdb11b9153a"/>
       <element xsi:type="archimate:Assessment" name="Riesgo: Robo de información sensible" id="id-3f02bdfdaafe4efd900c7d5a61fdce0a"/>
       <element xsi:type="archimate:Assessment" name="Vulnerabilidad: Datos Centralizados" id="id-cb520bf3432a4fb497334fd0270d62b3"/>
       <element xsi:type="archimate:Assessment" name="Vulnerabilidad: Información Dispersa" id="id-16a4db501bb943a798e319c851240686"/>
       <element xsi:type="archimate:Assessment" name="Riesgo: Perdida de la información" id="id-7d9e4413a7fa49d8828becdefe9171e5"/>
+      <element xsi:type="archimate:Assessment" name="Amenaza: Conflictos sobre el uso del territorio" id="id-b32e286b67004bd599d412d95792363e">
+        <documentation>Las disputas por el acceso y uso del suelo, así como las presiones derivadas de intereses externos, pueden afectar la permanencia de las comunidades campesinas.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Debilidad: Procesos de información parcialmente sistematizados" id="id-42ba134e970749c78d69777a6435afcb">
+        <documentation>Gran parte de la información institucional y territorial aún se administra mediante procedimientos manuales y herramientas dispersas, dificultando su consulta, actualización y preservación.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Fortaleza: Organización comunitaria consolidada" id="id-b0606b7c62094d4bb2ebf9bbcc8cb387">
+        <documentation>La ACIT cuenta con una estructura organizativa sólida, conformada por la Directiva Central, las subdirectivas zonales, los comités transversales y las Juntas de Acción Comunal Veredales, que facilita la articulación del trabajo comunitario.</documentation>
+      </element>
+      <element xsi:type="archimate:Assessment" name="Oportunidad: Avances en el reconocimiento de los derechos campesinos" id="id-a3acff5990ec4396b53ad1a7e806a9ba">
+        <documentation>Los recientes avances normativos y el reconocimiento progresivo del campesinado como sujeto de especial protección representan una oportunidad para fortalecer la incidencia política y territorial de la ACIT.</documentation>
+      </element>
     </folder>
     <folder name="Principios" id="id-4a307e494dfc41dfb079bbd8b2f2700d">
       <folder name="Otros" id="id-914b39d7bacb4a679703170c3b48b714"/>
@@ -434,7 +466,7 @@
         <documentation>Construcción de poder popular, decisión sobre el territorio y ejercicio de la interculturalidad.</documentation>
       </element>
       <element xsi:type="archimate:Principle" name="Pedagogía del Pensamiento Campesino" id="id-6d77d320a0064d6f97c4542bab5f1e2f">
-        <documentation>Educación propia, recuperación de saberes, legado de Radio Sutatenza y formación para la lucha. </documentation>
+        <documentation>Educación propia, recuperación de saberes y formación para la defensa. </documentation>
       </element>
       <element xsi:type="archimate:Principle" name="La información como bien común y no propiedad individual" id="id-c16894142aa24c9a884c6a3246ef9e86"/>
     </folder>
@@ -772,6 +804,13 @@
         <folder name="Asministrativos" id="id-b28cd71452274400a996a4332d80df5f"/>
       </folder>
     </folder>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e9459080e8c241b5915007eef6455052" source="id-6068bb5ca9794119bfc0f7adfdbd6352" target="id-a3acff5990ec4396b53ad1a7e806a9ba"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-763a3074cef84a86acc2d28b47f60037" source="id-7274f557257841a3933ca035275ece31" target="id-b32e286b67004bd599d412d95792363e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4a8e551baaf04712ae68b5081a70b644" source="id-d73b029216244d4e9599875d60f4c668" target="id-b0606b7c62094d4bb2ebf9bbcc8cb387"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-aff96664c9da447f9846a3aa961aa56f" source="id-e34232ffbbfb4ff4bb53b53ded927d75" target="id-42ba134e970749c78d69777a6435afcb"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-a66893b25c8a4856a1a7d39430b457d0" source="id-d51be6e18e584a75ae5252c73e090919" target="id-b32e286b67004bd599d412d95792363e"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-ed3624370e7645889b1d09995e5b8742" source="id-a3acff5990ec4396b53ad1a7e806a9ba" target="id-bb0038f5a3834271b966acd804740656"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-9baa97120f2143828b7d642c816fbad2" source="id-b0606b7c62094d4bb2ebf9bbcc8cb387" target="id-1f0304220d7b49458edbc10af99347ca"/>
   </folder>
   <folder name="Views" id="id-a459f41c6196422dbdfb9f5ef9523601" type="diagrams">
     <folder name="0. Fase Preliminar" id="id-9458037b6d484d90b69f37a80e4afc26">
@@ -804,7 +843,7 @@
           <bounds x="252" y="372" width="169" height="61"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-62500019558145e680de8d0653f4d177" targetConnections="id-a399f5ff70954a578447d495ab2a5112" archimateElement="id-d4f41a9dd22f482d919c1bdd2a6dcac7">
-          <bounds x="444" y="372" width="157" height="61"/>
+          <bounds x="444" y="372" width="181" height="61"/>
         </child>
         <child xsi:type="archimate:Group" id="id-680154583d054fe9955d3a077f1f0857" name="Valores Clave de la Organización" textAlignment="1" alpha="0">
           <bounds x="456" y="180" width="181" height="109"/>
@@ -864,7 +903,7 @@
             <sourceConnection xsi:type="archimate:Connection" id="id-195d84e87fec42f59a8b7e47f4644c9e" source="id-57717619f21543b99ab1c4b046025e7b" target="id-7a08b00e661e4c1a8781bb71b05faa11" archimateRelationship="id-a83128ef3fd5499f87d871e498654309"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-85e67259c1d5441b9e097d783a0e2240" targetConnections="id-6b1f04aa2ab045f88e6cc21213c53fa0" archimateElement="id-bb0038f5a3834271b966acd804740656">
-            <bounds x="60" y="48" width="124" height="55"/>
+            <bounds x="48" y="48" width="133" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-fd0489aae5aa46c9b53497b89d36e9d3" source="id-85e67259c1d5441b9e097d783a0e2240" target="id-a6cb827dbcba4e52b4fa733c436019e5" archimateRelationship="id-77699c3f7ee146808d5f12a50b765b60"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-0adf5714e72649e4ada0e7fc18232025" targetConnections="id-978e8551324c472896fac362652b5d93 id-4cd14113f7874101bdd480fb352363e0 id-d799dfd0e7e340a9ad882285d70f6445" archimateElement="id-d51be6e18e584a75ae5252c73e090919">
@@ -894,37 +933,37 @@
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="1.1. Motivación " id="id-708803e28332450dbe346700caeb2905">
         <child xsi:type="archimate:DiagramObject" id="id-aef7879f156b49919286d6886ca5989c" archimateElement="id-8f11a29fa7f645d0a4382ee237428004">
-          <bounds x="96" y="48" width="120" height="55"/>
+          <bounds x="48" y="24" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-12a707553d3740f891633a17ba9e1c17" source="id-aef7879f156b49919286d6886ca5989c" target="id-354c1d890c8c49d7b17ebced9c48248a" archimateRelationship="id-c28581fd9223447ab507e55a30480303"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-354c1d890c8c49d7b17ebced9c48248a" targetConnections="id-12a707553d3740f891633a17ba9e1c17" archimateElement="id-bb0038f5a3834271b966acd804740656">
-          <bounds x="89" y="156" width="133" height="49"/>
+          <bounds x="41" y="108" width="133" height="49"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-32566596e46e4342917596a3c21c1586" source="id-354c1d890c8c49d7b17ebced9c48248a" target="id-c2fa91642416401a8928a11db30654a9" archimateRelationship="id-9994078e6a164c2fbf42f505d84267d8"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-398764ba2a9d4220ab99bcad4836e5bb" source="id-354c1d890c8c49d7b17ebced9c48248a" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-77699c3f7ee146808d5f12a50b765b60"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c2fa91642416401a8928a11db30654a9" targetConnections="id-32566596e46e4342917596a3c21c1586" archimateElement="id-4a7b8cd1a7b84d6592d5e52160b074e9">
-          <bounds x="83" y="264" width="145" height="73"/>
+          <bounds x="35" y="180" width="145" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b229abcf233846dfbe0b260ccd6da926" source="id-c2fa91642416401a8928a11db30654a9" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-14b4673ad143478e82408c3322c0720a"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9a4f71382bef42658396cd05312ab7e7" targetConnections="id-b229abcf233846dfbe0b260ccd6da926 id-398764ba2a9d4220ab99bcad4836e5bb id-53b17799d21d42bcb7967ecafc88b8ca id-cc3c13e8d6094ac38a87bf13d0ea7be6 id-5d49af3d494f4b88a543f4c26fd1a76b" archimateElement="id-190742200dc54a73a102c1e15ddf91ab">
-          <bounds x="336" y="263" width="157" height="76"/>
+          <bounds x="252" y="179" width="157" height="76"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-956a9a6bf85b431a82de480bf3cd8fe0" targetConnections="id-98708913c3db4aecb2efbf6a27010ebf" archimateElement="id-0240580e8aba414d93625c6a33411de2">
-          <bounds x="588" y="273" width="120" height="55"/>
+          <bounds x="480" y="197" width="120" height="40"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-53b17799d21d42bcb7967ecafc88b8ca" source="id-956a9a6bf85b431a82de480bf3cd8fe0" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-83ac495bef284c42ba1252425f3a5b69"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a7e5eeb8e6ca42ed9c01b958e8620035" targetConnections="id-243b0c74572c4cd7979157ff502d7e15" archimateElement="id-11215fd6c9304bb590466fc88a921539">
-          <bounds x="588" y="408" width="120" height="55"/>
+          <bounds x="480" y="306" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-cc3c13e8d6094ac38a87bf13d0ea7be6" source="id-a7e5eeb8e6ca42ed9c01b958e8620035" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-602439f9a73c40d4b8802aed751aac24"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-98708913c3db4aecb2efbf6a27010ebf" source="id-a7e5eeb8e6ca42ed9c01b958e8620035" target="id-956a9a6bf85b431a82de480bf3cd8fe0" archimateRelationship="id-7caf94faf0394766aadf7c25c24103e0"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-06d7155a7adc4753b8dd28374e3bc3ed" targetConnections="id-9380f98d63cb499dbc74a48755b64bcb" archimateElement="id-d9d3eb19212344f8b04646ee22622fe6">
-          <bounds x="342" y="408" width="145" height="55"/>
+          <bounds x="258" y="306" width="145" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-243b0c74572c4cd7979157ff502d7e15" source="id-06d7155a7adc4753b8dd28374e3bc3ed" target="id-a7e5eeb8e6ca42ed9c01b958e8620035" archimateRelationship="id-ad63182c86fc4858866b88c8a71731f1"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-5d49af3d494f4b88a543f4c26fd1a76b" source="id-06d7155a7adc4753b8dd28374e3bc3ed" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-4d5814d7071b4239bc35dc60b751d136"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9d6693fb940146f6b2b5a2da486b7353" archimateElement="id-db39b4a2f7284d32b86018a3d3904957">
-          <bounds x="355" y="528" width="120" height="55"/>
+          <bounds x="271" y="408" width="120" height="49"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9380f98d63cb499dbc74a48755b64bcb" source="id-9d6693fb940146f6b2b5a2da486b7353" target="id-06d7155a7adc4753b8dd28374e3bc3ed" archimateRelationship="id-20bff2dac36a4e439c1ff1300376f550"/>
         </child>
       </element>
@@ -968,7 +1007,7 @@
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="1.3. Análisis Interesados" id="id-7eb3f3fb950e4893a899b2d3fe9e48f7">
         <child xsi:type="archimate:Group" id="id-0ccee69542834beda0e0b4a25b357234" name="Interesados de la Organización" textAlignment="1">
-          <bounds x="95" y="48" width="865" height="132"/>
+          <bounds x="120" y="36" width="865" height="132"/>
           <child xsi:type="archimate:DiagramObject" id="id-d075ae923a3d4c709bb8f91ff15c75cd" archimateElement="id-8f11a29fa7f645d0a4382ee237428004">
             <bounds x="24" y="48" width="120" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-35776fd0647a464eb64ed9bdf5d0f604" source="id-d075ae923a3d4c709bb8f91ff15c75cd" target="id-9dccb77049b44d10ab347eccc5a8731d" archimateRelationship="id-c28581fd9223447ab507e55a30480303"/>
@@ -1001,13 +1040,13 @@
           </child>
         </child>
         <child xsi:type="archimate:Group" id="id-37eff5f06a024d1994f21a1e2456911c" name="Motivadores para el cambio" textAlignment="1">
-          <bounds x="96" y="192" width="864" height="132"/>
-          <child xsi:type="archimate:DiagramObject" id="id-c7e0291db920458c921a547a662328a5" targetConnections="id-ba87d6e5fb36429a8317fc8a3f5c77aa id-4ff8d33ec6c54ec2b4c70c6a42a10858" archimateElement="id-1f0304220d7b49458edbc10af99347ca">
-            <bounds x="228" y="48" width="144" height="55"/>
+          <bounds x="121" y="180" width="864" height="132"/>
+          <child xsi:type="archimate:DiagramObject" id="id-c7e0291db920458c921a547a662328a5" targetConnections="id-ba87d6e5fb36429a8317fc8a3f5c77aa id-4ff8d33ec6c54ec2b4c70c6a42a10858 id-895ea8849328492c8fc7f6a05139ed1f" archimateElement="id-1f0304220d7b49458edbc10af99347ca">
+            <bounds x="228" y="48" width="156" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-b83a5b3c00ae4df9b1214178b99d0e3a" source="id-c7e0291db920458c921a547a662328a5" target="id-41105b87393f401985c6c443f1c92ee3" archimateRelationship="id-8daf230865364f71871ea8ca71c6f01a"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-9dccb77049b44d10ab347eccc5a8731d" targetConnections="id-35776fd0647a464eb64ed9bdf5d0f604" archimateElement="id-bb0038f5a3834271b966acd804740656">
-            <bounds x="48" y="48" width="132" height="55"/>
+          <child xsi:type="archimate:DiagramObject" id="id-9dccb77049b44d10ab347eccc5a8731d" targetConnections="id-35776fd0647a464eb64ed9bdf5d0f604 id-196d6b1780734562ac0170b488263e74" archimateElement="id-bb0038f5a3834271b966acd804740656">
+            <bounds x="48" y="48" width="144" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-28b017f5ab694db493034742813a3445" source="id-9dccb77049b44d10ab347eccc5a8731d" target="id-c1cca493e9a847d1955ececbc4e65423" archimateRelationship="id-9994078e6a164c2fbf42f505d84267d8"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-f6b5eeb4db204f069a69b0e47d155fab" targetConnections="id-95997a86d6c546ceb39e56e8c81ece40 id-edee077c029b43e384021c9825012bb3 id-96112702149345c283009f7efdef5a36" archimateElement="id-d51be6e18e584a75ae5252c73e090919">
@@ -1017,9 +1056,10 @@
               <bendpoint startX="-65" startY="82" endX="64" endY="-70"/>
               <bendpoint startX="-101" startY="106" endX="28" endY="-46"/>
             </sourceConnection>
+            <sourceConnection xsi:type="archimate:Connection" id="id-924330085c424decba5aa4b6592214c5" source="id-f6b5eeb4db204f069a69b0e47d155fab" target="id-e242081dcd8c4aa39202c142054c0c69" archimateRelationship="id-a66893b25c8a4856a1a7d39430b457d0"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-9fc79547a2454644aa9decbfbfa30bd8" targetConnections="id-2d082a06e6e24907b2a6474564d9a5a7 id-c5361ed83f6b45d99c2ac6180697e35c" archimateElement="id-3aad8a5f0b5340bebf3d0d530e7b290f">
-            <bounds x="648" y="48" width="144" height="55"/>
+            <bounds x="648" y="48" width="156" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-63fe922ad6df429fa4dbb47dee0a6b3e" source="id-9fc79547a2454644aa9decbfbfa30bd8" target="id-540f2da4ba594a009f8be2d41996dcc0" archimateRelationship="id-89541a4e2d684703bee62066ffe33b37">
               <bendpoint startX="60" startY="82" endX="-40" endY="-70"/>
               <bendpoint startX="72" startY="106" endX="-28" endY="-46"/>
@@ -1028,24 +1068,35 @@
           </child>
         </child>
         <child xsi:type="archimate:Group" id="id-01ada8173bd44f2ca30d9ae871afffe6" name="Evaluaciones de los Motivadores" textAlignment="1">
-          <bounds x="72" y="336" width="936" height="132"/>
+          <bounds x="18" y="324" width="1033" height="216"/>
           <child xsi:type="archimate:DiagramObject" id="id-41105b87393f401985c6c443f1c92ee3" targetConnections="id-b83a5b3c00ae4df9b1214178b99d0e3a" archimateElement="id-c9bc3ed54f7247dca4c5138e0790e3f8">
-            <bounds x="180" y="48" width="144" height="72"/>
+            <bounds x="228" y="48" width="156" height="72"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-c1cca493e9a847d1955ececbc4e65423" targetConnections="id-28b017f5ab694db493034742813a3445" archimateElement="id-4a7b8cd1a7b84d6592d5e52160b074e9">
-            <bounds x="12" y="48" width="156" height="72"/>
+            <bounds x="12" y="48" width="180" height="72"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-c9ce471ad31942c28b432a100f1a9a47" targetConnections="id-59316664df5a434b9cbc9e5fb1f8be1d" archimateElement="id-08fbf5cb65294ab3bd2b8a15593aaea2">
-            <bounds x="336" y="56" width="136" height="55"/>
+            <bounds x="444" y="48" width="136" height="72"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-6a8083c8a738473fadc2ef54961ea9d9" targetConnections="id-8ee94a5665de40b2be163186acfc93b0" archimateElement="id-24aa52c712144d1e99b07e80c953099e">
-            <bounds x="480" y="56" width="134" height="55"/>
+            <bounds x="540" y="132" width="134" height="72"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-540f2da4ba594a009f8be2d41996dcc0" targetConnections="id-63fe922ad6df429fa4dbb47dee0a6b3e" archimateElement="id-9d5803e51bb64e8eb04d328fd26d798c">
-            <bounds x="768" y="56" width="155" height="55"/>
+            <bounds x="876" y="56" width="145" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-b236c1bb666a4478890682cdc1135914" targetConnections="id-15dd3a92acab4049a06287aff930b191" archimateElement="id-dfab696f94a84f9f9efb7814b24dcafb">
-            <bounds x="624" y="48" width="136" height="72"/>
+            <bounds x="780" y="132" width="145" height="61"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e242081dcd8c4aa39202c142054c0c69" targetConnections="id-924330085c424decba5aa4b6592214c5" archimateElement="id-b32e286b67004bd599d412d95792363e">
+            <bounds x="660" y="54" width="144" height="60"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-80269c6c7c664779b6e68e04e923cfaf" archimateElement="id-a3acff5990ec4396b53ad1a7e806a9ba">
+            <bounds x="96" y="132" width="168" height="72"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-196d6b1780734562ac0170b488263e74" source="id-80269c6c7c664779b6e68e04e923cfaf" target="id-9dccb77049b44d10ab347eccc5a8731d" archimateRelationship="id-ed3624370e7645889b1d09995e5b8742"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-40e619efabad434097bd4c124394a290" archimateElement="id-b0606b7c62094d4bb2ebf9bbcc8cb387">
+            <bounds x="336" y="132" width="120" height="72"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-895ea8849328492c8fc7f6a05139ed1f" source="id-40e619efabad434097bd4c124394a290" target="id-c7e0291db920458c921a547a662328a5" archimateRelationship="id-9baa97120f2143828b7d642c816fbad2"/>
           </child>
         </child>
       </element>
@@ -1091,14 +1142,14 @@
         <child xsi:type="archimate:Group" id="id-31843205d47744e1b22c65154439d6bd" name="Mortivadores" textAlignment="1" alpha="0">
           <bounds x="203" y="180" width="827" height="120"/>
           <child xsi:type="archimate:DiagramObject" id="id-1bf7d53b6e8442e28db728234280b4c1" targetConnections="id-e5bfa8fbe9b543fda6f8871c5efccdc1 id-3ae6937c5a374a82b9503e48a7c5ceb1" archimateElement="id-1f0304220d7b49458edbc10af99347ca">
-            <bounds x="216" y="48" width="144" height="54"/>
+            <bounds x="228" y="48" width="181" height="54"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-e481cc98222743f9b19f804f8e238a6d" source="id-1bf7d53b6e8442e28db728234280b4c1" target="id-376a8ec264634e419f7a6806e5e8e6a0" archimateRelationship="id-8daf230865364f71871ea8ca71c6f01a">
               <bendpoint startX="-34" startY="70" endX="24" endY="-65"/>
               <bendpoint startX="-46" startY="82" endX="12" endY="-53"/>
             </sourceConnection>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-e447dc6fe36048828c9c83282181f54f" targetConnections="id-5625d96116ac495a8ebe106f6182e371 id-2df3e87b9d5c4d0bb8e3dbb69d7c59ec id-397f2a8d636441fba1ff707db1034ed8" archimateElement="id-d51be6e18e584a75ae5252c73e090919">
-            <bounds x="408" y="48" width="156" height="54"/>
+            <bounds x="432" y="48" width="145" height="54"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-4121dfc7ddf44c3d950cdee8e8f55b96" source="id-e447dc6fe36048828c9c83282181f54f" target="id-af9f1a52fb424dfd9fd74800b15d1589" archimateRelationship="id-1384f9a0d8e2470db96c0f45940f81f5"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-dcf3a806c3ab45bc8208dfd8b84208b0" source="id-e447dc6fe36048828c9c83282181f54f" target="id-68e1148bec46478b8cb42376e1601cd7" archimateRelationship="id-b27fefa40c4841ad91588f2ed2734410">
               <bendpoint startX="-64" startY="70" endX="55" endY="-65"/>
@@ -1106,7 +1157,7 @@
             </sourceConnection>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-6c775d0a38b24e7086ecb990676bb418" targetConnections="id-384a78cc51b3448fba27f17bef425ad7" archimateElement="id-bb0038f5a3834271b966acd804740656">
-            <bounds x="36" y="47" width="132" height="55"/>
+            <bounds x="36" y="47" width="157" height="55"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-e472037d845f4aa4995934e0eace618d" source="id-6c775d0a38b24e7086ecb990676bb418" target="id-53b19216fe204986b24d8c47da616cc0" archimateRelationship="id-9994078e6a164c2fbf42f505d84267d8"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-ee4dc48845bd4516848e68521ba0f8b9" targetConnections="id-99ede23022144142a2c11af46e3d3766 id-406ff76657e542cf82ee2a1426a3bc09" archimateElement="id-3aad8a5f0b5340bebf3d0d530e7b290f">
@@ -1336,17 +1387,17 @@
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="1.7. Riegos y Seguridad" id="id-24972574cec3495ca13be457f3a3b398">
         <child xsi:type="archimate:DiagramObject" id="id-f7adc599e3414784a3510a8b9a03224c" archimateElement="id-dc7564228305418d90b2e8f7f87fcf21">
-          <bounds x="91" y="49" width="120" height="55"/>
+          <bounds x="72" y="49" width="157" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a5695872deac45bd937a605b88562f0e" source="id-f7adc599e3414784a3510a8b9a03224c" target="id-eeaf66ef9ae4415db98567c9ad7ce4f8" archimateRelationship="id-45013f227489409e9956335097f639b8"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c2d042b4f0e44ad098a2250ce4ab3006" archimateElement="id-97fc014b8b0340f4aac1956f50d2f715">
-          <bounds x="258" y="53" width="133" height="47"/>
+          <bounds x="258" y="48" width="163" height="52"/>
           <sourceConnection id="id-c81291408fb148c593603a78ace0202f" source="id-c2d042b4f0e44ad098a2250ce4ab3006" target="id-4991270385384e75a94ed76948ccc022">
             <bendpoint startX="-24" startY="37" endX="-115" endY="-63"/>
           </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-eeaf66ef9ae4415db98567c9ad7ce4f8" targetConnections="id-a5695872deac45bd937a605b88562f0e id-c988949a85634c73bce48f5b67085dd5" archimateElement="id-24aa52c712144d1e99b07e80c953099e">
-          <bounds x="84" y="144" width="133" height="60"/>
+          <bounds x="60" y="144" width="157" height="60"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-94ff4863998147aabdb76eec8eb40daf" source="id-eeaf66ef9ae4415db98567c9ad7ce4f8" target="id-905a97a2a6434e1fbfc1b9ae006e91e9" archimateRelationship="id-42db3e28a2f245929b393a2f726de1d2">
             <bendpoint startX="30" startY="93" endX="23" endY="-99"/>
           </sourceConnection>
@@ -1372,7 +1423,7 @@
           </child>
         </child>
         <child xsi:type="archimate:Group" id="id-4991270385384e75a94ed76948ccc022" name="Vulnerabilidades" targetConnections="id-c81291408fb148c593603a78ace0202f" textAlignment="1" alpha="0">
-          <bounds x="258" y="128" width="315" height="97"/>
+          <bounds x="258" y="128" width="499" height="97"/>
           <sourceConnection id="id-a2de81965d734d9eb3e63a9d128ee302" source="id-4991270385384e75a94ed76948ccc022" target="id-2a8fafd111bd44b69f699264c3297dc9">
             <bendpoint startX="-115" startY="69" endX="-115" endY="-60"/>
           </sourceConnection>
@@ -1382,12 +1433,15 @@
           <child xsi:type="archimate:DiagramObject" id="id-0edf5354452f4a9ca6e6796c7ff119d9" archimateElement="id-cb520bf3432a4fb497334fd0270d62b3">
             <bounds x="24" y="24" width="127" height="55"/>
           </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9310df4274f7418288a571323555f55a" archimateElement="id-42ba134e970749c78d69777a6435afcb">
+            <bounds x="312" y="24" width="181" height="55"/>
+          </child>
         </child>
         <child xsi:type="archimate:Group" id="id-58e20a3d62b7468ba18dd4c3d4ef69f6" name="ISO 27001" lineWidth="2" textAlignment="1" alpha="0">
           <bounds x="468" y="360" width="372" height="210"/>
           <feature name="lineStyle" value="1"/>
           <child xsi:type="archimate:DiagramObject" id="id-8f43d11ec3714ac1911141e10d7dc4c4" targetConnections="id-93046c8c6b094d0ab2f1533636b02f83 id-c3d18b8f30bc42698f24088db7c06f30" archimateElement="id-f7cc4704284c4f0b8d70453ee79b4681">
-            <bounds x="24" y="24" width="148" height="73"/>
+            <bounds x="24" y="24" width="157" height="73"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-bf8c511ccca44f6785bfd2a989f83578" source="id-8f43d11ec3714ac1911141e10d7dc4c4" target="id-85eefc6a2ebf455ab8ca17c546928d2d" archimateRelationship="id-a555b16644b64056b5fba8f8cbea0df5"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-510b35cd13d54488998e473602a1f42f" archimateElement="id-9323fa60b8224b0d93d7d7c4df92a704">
@@ -1419,55 +1473,71 @@
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="1.8. Análisis DOFA" id="id-2d323b6697344686880b88379434875c">
         <child xsi:type="archimate:DiagramObject" id="id-5809dfc3629146a684abd53fa973e5d2" archimateElement="id-64a8d247819e4c0ba3a099704008253d">
-          <bounds x="36" y="36" width="637" height="397"/>
+          <bounds x="36" y="36" width="625" height="481"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-431e3adc9f634d049c4a6f7a09a30f3f" source="id-5809dfc3629146a684abd53fa973e5d2" target="id-e8d7e15b5fc44b24a10c4539a981a57f" archimateRelationship="id-498cc52122104166ac1e769902a0bb8b"/>
           <child xsi:type="archimate:DiagramObject" id="id-e8d7e15b5fc44b24a10c4539a981a57f" targetConnections="id-431e3adc9f634d049c4a6f7a09a30f3f" archimateElement="id-2051a2459b684aecafe682828802617f">
-            <bounds x="12" y="24" width="613" height="361"/>
+            <bounds x="12" y="24" width="601" height="445"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-605461c887ca4eff87e73ef6a99aa3e4" source="id-e8d7e15b5fc44b24a10c4539a981a57f" target="id-05b359f808c244688c005ecbb62b332c" archimateRelationship="id-7364eeac20d14924abf6fedbd4bf7bc6"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-81c4ca11d8994b7aa2c324b9fd80fe51" source="id-e8d7e15b5fc44b24a10c4539a981a57f" target="id-a2f67c291eb14cd29309461bcb62f0ab" archimateRelationship="id-b73bd27f82bc40eebc86f6669e659745"/>
             <child xsi:type="archimate:DiagramObject" id="id-05b359f808c244688c005ecbb62b332c" targetConnections="id-605461c887ca4eff87e73ef6a99aa3e4" archimateElement="id-4c091122f2e342aca7db2c9c8a16a8b0">
-              <bounds x="12" y="24" width="588" height="157"/>
+              <bounds x="12" y="24" width="577" height="193"/>
               <sourceConnection xsi:type="archimate:Connection" id="id-4874315135544647829369e73d5e2e20" source="id-05b359f808c244688c005ecbb62b332c" target="id-136a916649c741728bef70234f3d61d7" archimateRelationship="id-8bfcaabc1e08492db7d5895a2408a6c4"/>
               <sourceConnection xsi:type="archimate:Connection" id="id-4af3f2f31e2f4e6795b173000c3d2f67" source="id-05b359f808c244688c005ecbb62b332c" target="id-0d856c41b93949efa608662b013ac8f6" archimateRelationship="id-9f92ac960f32456bb561457ed5f8d812"/>
               <child xsi:type="archimate:DiagramObject" id="id-136a916649c741728bef70234f3d61d7" targetConnections="id-4874315135544647829369e73d5e2e20" archimateElement="id-d73b029216244d4e9599875d60f4c668">
-                <bounds x="12" y="24" width="180" height="120"/>
+                <bounds x="12" y="24" width="169" height="157"/>
                 <sourceConnection xsi:type="archimate:Connection" id="id-0f3186fbbc4748bb93a03f2f917e4917" source="id-136a916649c741728bef70234f3d61d7" target="id-18bdae541bf344bdac924a6fedfea884" archimateRelationship="id-55af5782eaac4ad68f736c7053d3ad7a"/>
+                <sourceConnection xsi:type="archimate:Connection" id="id-df8a989be95c4b1fa7f96b182e0bdc6c" source="id-136a916649c741728bef70234f3d61d7" target="id-2dc3276a8b11427fa7b2f7bf76d186a4" archimateRelationship="id-4a8e551baaf04712ae68b5081a70b644"/>
                 <child xsi:type="archimate:DiagramObject" id="id-18bdae541bf344bdac924a6fedfea884" targetConnections="id-0f3186fbbc4748bb93a03f2f917e4917" archimateElement="id-9d5803e51bb64e8eb04d328fd26d798c">
-                  <bounds x="12" y="36" width="156" height="60"/>
+                  <bounds x="12" y="25" width="145" height="60"/>
+                </child>
+                <child xsi:type="archimate:DiagramObject" id="id-2dc3276a8b11427fa7b2f7bf76d186a4" targetConnections="id-df8a989be95c4b1fa7f96b182e0bdc6c" archimateElement="id-b0606b7c62094d4bb2ebf9bbcc8cb387">
+                  <bounds x="25" y="96" width="120" height="55"/>
                 </child>
               </child>
               <child xsi:type="archimate:DiagramObject" id="id-0d856c41b93949efa608662b013ac8f6" targetConnections="id-4af3f2f31e2f4e6795b173000c3d2f67" archimateElement="id-e34232ffbbfb4ff4bb53b53ded927d75">
-                <bounds x="204" y="23" width="372" height="120"/>
+                <bounds x="192" y="24" width="373" height="157"/>
                 <sourceConnection xsi:type="archimate:Connection" id="id-b1f4a863dbe5448b86e0dc5760c80641" source="id-0d856c41b93949efa608662b013ac8f6" target="id-4610d49331994e06987c62c08556ac26" archimateRelationship="id-fd7cded154c140f980dde7be255a1024"/>
                 <sourceConnection xsi:type="archimate:Connection" id="id-a82439e9e34b4b389be09abdf95fb4b3" source="id-0d856c41b93949efa608662b013ac8f6" target="id-fc492504ff9c48dd85df1ad9fa70427a" archimateRelationship="id-3401af9e51a749748cb3d923773436ef"/>
+                <sourceConnection xsi:type="archimate:Connection" id="id-c48a8f3219e743b89bc3ab90b4528ee9" source="id-0d856c41b93949efa608662b013ac8f6" target="id-4f4358f66ee64f7d984182511ffb69a5" archimateRelationship="id-aff96664c9da447f9846a3aa961aa56f"/>
                 <child xsi:type="archimate:DiagramObject" id="id-4610d49331994e06987c62c08556ac26" targetConnections="id-b1f4a863dbe5448b86e0dc5760c80641" archimateElement="id-4a7b8cd1a7b84d6592d5e52160b074e9">
-                  <bounds x="24" y="34" width="156" height="72"/>
+                  <bounds x="60" y="96" width="259" height="44"/>
                 </child>
                 <child xsi:type="archimate:DiagramObject" id="id-fc492504ff9c48dd85df1ad9fa70427a" targetConnections="id-a82439e9e34b4b389be09abdf95fb4b3" archimateElement="id-c9bc3ed54f7247dca4c5138e0790e3f8">
-                  <bounds x="204" y="32" width="145" height="76"/>
+                  <bounds x="12" y="25" width="169" height="53"/>
+                </child>
+                <child xsi:type="archimate:DiagramObject" id="id-4f4358f66ee64f7d984182511ffb69a5" targetConnections="id-c48a8f3219e743b89bc3ab90b4528ee9" archimateElement="id-42ba134e970749c78d69777a6435afcb">
+                  <bounds x="186" y="24" width="181" height="55"/>
                 </child>
               </child>
             </child>
             <child xsi:type="archimate:DiagramObject" id="id-a2f67c291eb14cd29309461bcb62f0ab" targetConnections="id-81c4ca11d8994b7aa2c324b9fd80fe51" archimateElement="id-28ea37fef65646fa8388390445cf3860">
-              <bounds x="12" y="192" width="588" height="156"/>
+              <bounds x="12" y="228" width="577" height="205"/>
               <sourceConnection xsi:type="archimate:Connection" id="id-92595f11b5b648b9834bb5f02236ca70" source="id-a2f67c291eb14cd29309461bcb62f0ab" target="id-a47805d9cbd946debbeef29fe1eda690" archimateRelationship="id-d82f53a285a44b63ab59663de355feaf"/>
               <sourceConnection xsi:type="archimate:Connection" id="id-29bfa7b999fd4911b34773143af192df" source="id-a2f67c291eb14cd29309461bcb62f0ab" target="id-44cb54d4491e489b9370285bc763b440" archimateRelationship="id-47699d725c914416a52637f15b4351f8"/>
               <child xsi:type="archimate:DiagramObject" id="id-a47805d9cbd946debbeef29fe1eda690" targetConnections="id-92595f11b5b648b9834bb5f02236ca70" archimateElement="id-6068bb5ca9794119bfc0f7adfdbd6352">
-                <bounds x="24" y="24" width="169" height="120"/>
+                <bounds x="12" y="24" width="205" height="169"/>
                 <sourceConnection xsi:type="archimate:Connection" id="id-4e141825c88a49d990a22c492199665e" source="id-a47805d9cbd946debbeef29fe1eda690" target="id-7e14068cbe264272ba76bd5a23b26806" archimateRelationship="id-24b80b37be944b6099c60fa67cbf4be6"/>
+                <sourceConnection xsi:type="archimate:Connection" id="id-26f10672e1d74574b1ab938bed4d13ea" source="id-a47805d9cbd946debbeef29fe1eda690" target="id-955c178623024589991f509ad740e589" archimateRelationship="id-e9459080e8c241b5915007eef6455052"/>
                 <child xsi:type="archimate:DiagramObject" id="id-7e14068cbe264272ba76bd5a23b26806" targetConnections="id-4e141825c88a49d990a22c492199665e" archimateElement="id-08fbf5cb65294ab3bd2b8a15593aaea2">
-                  <bounds x="12" y="36" width="144" height="67"/>
+                  <bounds x="12" y="24" width="181" height="61"/>
+                </child>
+                <child xsi:type="archimate:DiagramObject" id="id-955c178623024589991f509ad740e589" targetConnections="id-26f10672e1d74574b1ab938bed4d13ea" archimateElement="id-a3acff5990ec4396b53ad1a7e806a9ba">
+                  <bounds x="12" y="96" width="181" height="61"/>
                 </child>
               </child>
               <child xsi:type="archimate:DiagramObject" id="id-44cb54d4491e489b9370285bc763b440" targetConnections="id-29bfa7b999fd4911b34773143af192df" archimateElement="id-7274f557257841a3933ca035275ece31">
-                <bounds x="216" y="24" width="360" height="120"/>
+                <bounds x="228" y="24" width="337" height="169"/>
                 <sourceConnection xsi:type="archimate:Connection" id="id-f11b483cb31047d781161ecf8a608e53" source="id-44cb54d4491e489b9370285bc763b440" target="id-c2acf1579348407eb6b100b968d5fe04" archimateRelationship="id-529c26ee92384ac9a25b58f1d0268b1c"/>
                 <sourceConnection xsi:type="archimate:Connection" id="id-44764d0a96d64bf3a2400990017f2a0b" source="id-44cb54d4491e489b9370285bc763b440" target="id-fc797bf700b94c92aab71ef4ee17b590" archimateRelationship="id-c6e3a56ca22b4e1583a9da82cb9c5805"/>
+                <sourceConnection xsi:type="archimate:Connection" id="id-b928f6a1884e41ccaa6488776dccf377" source="id-44cb54d4491e489b9370285bc763b440" target="id-626a462462924ae2933d6c6a4c69ff36" archimateRelationship="id-763a3074cef84a86acc2d28b47f60037"/>
                 <child xsi:type="archimate:DiagramObject" id="id-c2acf1579348407eb6b100b968d5fe04" targetConnections="id-f11b483cb31047d781161ecf8a608e53" archimateElement="id-24aa52c712144d1e99b07e80c953099e">
-                  <bounds x="24" y="41" width="133" height="60"/>
+                  <bounds x="12" y="24" width="157" height="60"/>
                 </child>
                 <child xsi:type="archimate:DiagramObject" id="id-fc797bf700b94c92aab71ef4ee17b590" targetConnections="id-44764d0a96d64bf3a2400990017f2a0b" archimateElement="id-dfab696f94a84f9f9efb7814b24dcafb">
-                  <bounds x="180" y="37" width="168" height="68"/>
+                  <bounds x="180" y="24" width="144" height="60"/>
+                </child>
+                <child xsi:type="archimate:DiagramObject" id="id-626a462462924ae2933d6c6a4c69ff36" targetConnections="id-b928f6a1884e41ccaa6488776dccf377" archimateElement="id-b32e286b67004bd599d412d95792363e">
+                  <bounds x="108" y="96" width="144" height="55"/>
                 </child>
               </child>
             </child>
@@ -2628,85 +2698,85 @@
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="3.3. Mapa de Macroprocesos" id="id-ba7f1eddad61473f8dc8dd6b45cbe737">
         <child xsi:type="archimate:Group" id="id-86ffca5165cf4080bf28cc14d31d10e8" name="Procesos Misionales" textAlignment="1">
-          <bounds x="31" y="204" width="774" height="408"/>
-          <child xsi:type="archimate:Group" id="id-1ce9e045448347519e08c857e7f73efc" name="Gestión territorial y ordenamiento social de la propiedad" textAlignment="1">
-            <bounds x="24" y="36" width="348" height="240"/>
-            <child xsi:type="archimate:DiagramObject" id="id-64e4c3b08005412a9539fd0756da86bc" archimateElement="id-2f0385247e7a403b96525c67ac1eaf91">
-              <bounds x="9" y="36" width="186" height="49"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-391826e22fd64b329d76d46a7e250f2c" archimateElement="id-577f022c5093477984c557ff38a27458">
-              <bounds x="204" y="36" width="120" height="55"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-7dd25cc7e0b047a1a20ae8992b0f16bc" archimateElement="id-bb0c1999a30f44b9b6e9dc5ad20b3998">
-              <bounds x="12" y="96" width="142" height="59"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-a92a5e0cc256488b8291129cd93401da" archimateElement="id-2120f67da3ff486fbe1b9b329dda3ccc">
-              <bounds x="189" y="168" width="120" height="55"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-6da3a51d7d91428cbbd337ec33a3ac4b" archimateElement="id-485c27e4e2ca45d08f4622cbae5e06e4">
-              <bounds x="161" y="98" width="176" height="55"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-40d7f890c50c44e3897aa9d977dd50c4" archimateElement="id-7e4bf778244348bf9ab89c96000d4db0">
-              <bounds x="9" y="168" width="167" height="55"/>
-            </child>
-          </child>
-          <child xsi:type="archimate:Group" id="id-f6fd691051cc4b4690df16eb16680e5e" name="Desarrollo productivo" textAlignment="1">
-            <bounds x="192" y="288" width="348" height="108"/>
+          <bounds x="31" y="204" width="774" height="360"/>
+          <child xsi:type="archimate:Group" id="id-f6fd691051cc4b4690df16eb16680e5e" name="Desarrollo productivo" textAlignment="1" borderType="1">
+            <bounds x="384" y="250" width="348" height="93"/>
             <child xsi:type="archimate:DiagramObject" id="id-a1fb239b0714409692e3d91270f90d8a" archimateElement="id-37a3993605624a128fd2a5c609abe717">
-              <bounds x="12" y="36" width="159" height="55"/>
+              <bounds x="12" y="22" width="159" height="55"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="id-8ea97d4224dd48de8d5319f7d87270ee" archimateElement="id-0202642e585f49d79c82681419512423">
-              <bounds x="180" y="36" width="139" height="55"/>
+              <bounds x="180" y="22" width="139" height="55"/>
             </child>
           </child>
-          <child xsi:type="archimate:Group" id="id-4cb50cb2b3084f0d81a8b3c78a2de29b" name="Educación, Cultura y bienestar comunitario" textAlignment="1">
-            <bounds x="384" y="60" width="372" height="216"/>
-            <child xsi:type="archimate:DiagramObject" id="id-f6f7433132f94b1b967baac581cbb372" archimateElement="id-5ebfc03952604e7098af9f40291087bb">
-              <bounds x="12" y="36" width="157" height="55"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-1338ff794fc54113820065ce3efc37bb" archimateElement="id-62b4989a2d7d418e9a9dd0198efbbab8">
-              <bounds x="180" y="36" width="180" height="55"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-f4e5dbcee4c543bf912fa571762e98a5" archimateElement="id-78e53b1f2a3e47f88d49123e56e8098a">
-              <bounds x="206" y="96" width="127" height="56"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-3879bc403e254aba8020c029c157d921" archimateElement="id-b469c874a8c54ac1a3b5ea8bb2317db6">
-              <bounds x="12" y="96" width="176" height="55"/>
-            </child>
-            <child xsi:type="archimate:DiagramObject" id="id-f00d6a01dfe34ab78b7f83d8720799b2" archimateElement="id-3147417ebc1145ed83a8d535f287b263">
-              <bounds x="96" y="156" width="175" height="42"/>
-            </child>
+          <child xsi:type="archimate:DiagramModelReference" id="id-49e69b7f33a240c49325fc1bb4aafd23" model="id-2495950095544e42a8249e92edb1a43c">
+            <bounds x="12" y="34" width="360" height="234"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-64e4c3b08005412a9539fd0756da86bc" archimateElement="id-2f0385247e7a403b96525c67ac1eaf91">
+            <bounds x="24" y="64" width="186" height="49"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-391826e22fd64b329d76d46a7e250f2c" archimateElement="id-577f022c5093477984c557ff38a27458">
+            <bounds x="219" y="64" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7dd25cc7e0b047a1a20ae8992b0f16bc" archimateElement="id-bb0c1999a30f44b9b6e9dc5ad20b3998">
+            <bounds x="27" y="124" width="142" height="59"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a92a5e0cc256488b8291129cd93401da" archimateElement="id-2120f67da3ff486fbe1b9b329dda3ccc">
+            <bounds x="204" y="196" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6da3a51d7d91428cbbd337ec33a3ac4b" archimateElement="id-485c27e4e2ca45d08f4622cbae5e06e4">
+            <bounds x="176" y="126" width="176" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-40d7f890c50c44e3897aa9d977dd50c4" archimateElement="id-7e4bf778244348bf9ab89c96000d4db0">
+            <bounds x="24" y="196" width="167" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramModelReference" id="id-5973942638d3461fb2291d50c019cc19" model="id-b5baf5127f504e3bbf4f6aaadce04dfd">
+            <bounds x="384" y="34" width="373" height="201"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f6f7433132f94b1b967baac581cbb372" archimateElement="id-5ebfc03952604e7098af9f40291087bb">
+            <bounds x="396" y="64" width="157" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3879bc403e254aba8020c029c157d921" archimateElement="id-b469c874a8c54ac1a3b5ea8bb2317db6">
+            <bounds x="396" y="124" width="176" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f4e5dbcee4c543bf912fa571762e98a5" archimateElement="id-78e53b1f2a3e47f88d49123e56e8098a">
+            <bounds x="600" y="124" width="127" height="56"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-f00d6a01dfe34ab78b7f83d8720799b2" archimateElement="id-3147417ebc1145ed83a8d535f287b263">
+            <bounds x="480" y="184" width="175" height="42"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1338ff794fc54113820065ce3efc37bb" archimateElement="id-62b4989a2d7d418e9a9dd0198efbbab8">
+            <bounds x="564" y="64" width="181" height="55"/>
           </child>
         </child>
-        <child xsi:type="archimate:Group" id="id-1843c020c0ac4562be2fe88a5e6acb3f" name="Procesos Estratégicos" textAlignment="1">
-          <bounds x="324" y="29" width="324" height="163"/>
-          <child xsi:type="archimate:DiagramObject" id="id-3bcdab9ff8cf405fbbd6cad141ca1520" archimateElement="id-5447ce48edb744f9a9424f6488a8a7e1">
-            <bounds x="12" y="36" width="143" height="44"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-cc36b51ed924479590bd0b4d178ff126" archimateElement="id-24a0554ad928478f8ecba1af25689bc8">
-            <bounds x="144" y="97" width="168" height="54"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-3f9b92a072ce491ba6b3b1787a3ec947" archimateElement="id-8aa199525c16477bafc94eccf374ef95">
-            <bounds x="12" y="96" width="120" height="55"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-e8e1157e4e124c5e9a924ad3c044c41e" archimateElement="id-9607b9c5e0704bfa9cfb0f97a0367217">
-            <bounds x="162" y="36" width="150" height="44"/>
-          </child>
-        </child>
-        <child xsi:type="archimate:Group" id="id-55dafad873194fc0848193b63dcc42eb" name="Procesos Administrativos" textAlignment="1">
-          <bounds x="31" y="24" width="282" height="168"/>
+        <child xsi:type="archimate:Group" id="id-55dafad873194fc0848193b63dcc42eb" name="Procesos Administrativos" textAlignment="1" borderType="1">
+          <bounds x="31" y="30" width="282" height="156"/>
           <child xsi:type="archimate:DiagramObject" id="id-3d5dca7fae4146cc90aa90cf43d3be0c" archimateElement="id-6ebf8341e59744eaa15fbc4333e10246">
-            <bounds x="23" y="36" width="114" height="55"/>
+            <bounds x="23" y="24" width="114" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-dc58f836234945d681d34a9b2f045f38" archimateElement="id-bfa214cec3244518b0c1d85ef4027ca4">
-            <bounds x="147" y="36" width="108" height="55"/>
+            <bounds x="147" y="24" width="108" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-05f072f79c5e45a68c3db2433a9bb585" archimateElement="id-e2a82962bf084bf880cdd7e1bd29ed47">
-            <bounds x="12" y="106" width="136" height="54"/>
+            <bounds x="12" y="94" width="136" height="54"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-b3ce5ce9421c4f03a16ea73c12c6b0cd" archimateElement="id-b7bc7ca1473e4069bd0973160b8d265e">
-            <bounds x="156" y="104" width="112" height="58"/>
+            <bounds x="156" y="92" width="112" height="58"/>
           </child>
+        </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-7ab88b2624534737b69eb39299137b44" model="id-c2d93ef3068a4a33b3eddab28bc26bae">
+          <bounds x="324" y="28" width="324" height="160"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3bcdab9ff8cf405fbbd6cad141ca1520" archimateElement="id-5447ce48edb744f9a9424f6488a8a7e1">
+          <bounds x="336" y="56" width="143" height="44"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3f9b92a072ce491ba6b3b1787a3ec947" archimateElement="id-8aa199525c16477bafc94eccf374ef95">
+          <bounds x="336" y="116" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e8e1157e4e124c5e9a924ad3c044c41e" archimateElement="id-9607b9c5e0704bfa9cfb0f97a0367217">
+          <bounds x="486" y="56" width="150" height="44"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cc36b51ed924479590bd0b4d178ff126" archimateElement="id-24a0554ad928478f8ecba1af25689bc8">
+          <bounds x="468" y="117" width="168" height="54"/>
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="3.7. Funciones de Negocio" id="id-02948611d10d47c8ad3086d70ce3d049"/>
@@ -2832,8 +2902,9 @@
           </child>
         </child>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="3.5. Procesos Misionales" id="id-2495950095544e42a8249e92edb1a43c"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.5. Procesos de Gestión territorial" id="id-2495950095544e42a8249e92edb1a43c"/>
       <element xsi:type="archimate:ArchimateDiagramModel" name="3.4. Procesos Estratégicos" id="id-c2d93ef3068a4a33b3eddab28bc26bae"/>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.6. Procesos de Educación, cultura y bienestar" id="id-b5baf5127f504e3bbf4f6aaadce04dfd"/>
     </folder>
     <folder name="4. Arquitectura de Aplicación" id="id-4297d5534e1f4f4baeb2df1e32f6647c">
       <element xsi:type="archimate:ArchimateDiagramModel" name="4.1. Servicios de Aplicación" id="id-fa76b9bd96bd4fe281fb2d35c5a01941"/>
