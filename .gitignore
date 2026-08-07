@@ -1,0 +1,9 @@
+﻿# Copias de seguridad de Archi
+*.archimate.bak
+*.bak
+
+# Archivos temporales
+*.tmp
+*~
+Thumbs.db
+.DS_Store
