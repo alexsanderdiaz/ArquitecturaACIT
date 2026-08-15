@@ -247,17 +247,17 @@
             <element xsi:type="archimate:BusinessProcess" name="Usar recursos y acciones constitucionales" id="id-8f8e7476be654c2799b6589cd8f45277"/>
           </folder>
           <folder name="Educaciónm, cultura y bienestar" id="id-5250ba9905364feca3b669dbbb50e0dc">
-            <element xsi:type="archimate:BusinessProcess" name="Desarrollar procesos de formación política y comunitaria" id="id-5ebfc03952604e7098af9f40291087bb">
-              <documentation>Proceso orientado al fortalecimiento de las capacidades organizativas y de liderazgo del campesinado mediante espacios permanentes de formación.</documentation>
+            <element xsi:type="archimate:BusinessProcess" name="Desarrollar formación política y organizativa campesina" id="id-5ebfc03952604e7098af9f40291087bb">
+              <documentation>Comprende la identificación de necesidades de formación política y organizativa, la construcción de contenidos a partir de los principios, trayectoria y apuestas de la ACIT, y el desarrollo de espacios pedagógicos orientados a fortalecer la comprensión crítica del territorio, los derechos campesinos, la organización, la participación y la acción colectiva. Busca que los conocimientos técnicos o especializados sean interpretados desde las necesidades históricas y principios políticos de la organización.</documentation>
             </element>
-            <element xsi:type="archimate:BusinessProcess" name="Fomentar el bienestar e integración comunitaria" id="id-3147417ebc1145ed83a8d535f287b263">
-              <documentation>Proceso mediante el cual se desarrollan actividades deportivas, recreativas y culturales que fortalecen la convivencia, la identidad campesina y el tejido social de las comunidades.</documentation>
+            <element xsi:type="archimate:BusinessProcess" name="Sistematizar y producir conocimiento campesino" id="id-3147417ebc1145ed83a8d535f287b263">
+              <documentation>Comprende la recuperación, organización, documentación, análisis y producción colectiva de conocimientos derivados de la trayectoria, experiencias, investigaciones, conversaciones y prácticas de la organización campesina, con el propósito de preservar su memoria, generar conocimiento propio y fortalecer la capacidad investigativa de la ACIT sobre sus realidades territoriales, políticas, organizativas y culturales.</documentation>
             </element>
-            <element xsi:type="archimate:BusinessProcess" name="Gestionar procesos comunitarios para la conservación del territorio" id="id-b469c874a8c54ac1a3b5ea8bb2317db6">
-              <documentation>Proceso mediante el cual la ACIT fortalece la relación entre el campesinado y el territorio mediante acciones de educación ambiental, conservación de los ecosistemas, restauración ecológica, monitoreo comunitario y promoción de prácticas agroecológicas que contribuyen al cuidado de la biodiversidad y al reconocimiento del campesinado como sujeto ambiental.</documentation>
+            <element xsi:type="archimate:BusinessProcess" name="Desarrollar procesos comunitarios de formación temática" id="id-b469c874a8c54ac1a3b5ea8bb2317db6">
+              <documentation>Comprende el diseño y ejecución de procesos pedagógicos especializados promovidos por los diferentes comités, proyectos y espacios organizativos de la ACIT, mediante los cuales se fortalecen conocimientos y capacidades comunitarias en ámbitos como comunicación popular, ambiente, deporte, derechos, género, producción y otras áreas vinculadas a las necesidades del territorio.</documentation>
             </element>
-            <element xsi:type="archimate:BusinessProcess" name="Gestionar el conocimiento y la comunicación comunitaria" id="id-62b4989a2d7d418e9a9dd0198efbbab8">
-              <documentation>Proceso mediante el cual se genera, organiza, preserva y difunde el conocimiento construido por la organización y las comunidades, fortaleciendo la comunicación comunitaria y la memoria territorial.</documentation>
+            <element xsi:type="archimate:BusinessProcess" name="Desarrollar formación técnica y cualificación para el trabajo campesino" id="id-62b4989a2d7d418e9a9dd0198efbbab8">
+              <documentation>Comprende la identificación de necesidades de cualificación técnica de las comunidades, la articulación con instituciones educativas y entidades de formación, la gestión y divulgación de ofertas y el desarrollo de procesos formativos relacionados con actividades agrícolas, comerciales, de servicios, transformación de productos y otras competencias aplicables a la economía y vida campesina.</documentation>
             </element>
             <element xsi:type="archimate:BusinessProcess" name="Espacios de capacitación" id="id-11cf2f5b24e9426487c8b63af0367342"/>
             <element xsi:type="archimate:BusinessProcess" name="Formación política" id="id-b5254f41e8414e90a182b2edbcfc363e"/>
@@ -285,11 +285,8 @@
             <element xsi:type="archimate:BusinessProcess" name="Restauración de nacimientos de agua" id="id-ed544c6d60424619ac2d5cc4ba79c55a"/>
           </folder>
           <folder name="Desarrollo productivo" id="id-7cf0760760cd47448dda393fd167dadd">
-            <element xsi:type="archimate:BusinessProcess" name="Fortalecer las iniciativas productivas campesinas" id="id-37a3993605624a128fd2a5c609abe717">
-              <documentation>Agrupa las acciones de acompañamiento a iniciativas productivas familiares, comunitarias y asociativas relacionadas con la producción agroecológica, la transformación de alimentos y la prestación de servicios vinculados al territorio. Busca mejorar las capacidades organizativas, técnicas y económicas de las familias campesinas, promover condiciones dignas de trabajo e ingreso y fortalecer alternativas económicas compatibles con la permanencia en el territorio.</documentation>
-            </element>
-            <element xsi:type="archimate:BusinessProcess" name="Transformación y comercialización de productos campesinos." id="id-0202642e585f49d79c82681419512423">
-              <documentation>Proceso orientado a fortalecer los canales de comercialización y distribución de productos campesinos, promoviendo mercados solidarios y mecanismos de venta directa.</documentation>
+            <element xsi:type="archimate:BusinessProcess" name="Transformar productos campesinos y generar valor agregado" id="id-37a3993605624a128fd2a5c609abe717">
+              <documentation>Comprende los procesos de acondicionamiento, procesamiento y transformación de productos agrícolas y agroalimentarios para ampliar sus posibilidades de uso, conservación y comercialización. Incluye experiencias de transformación de café, alimentos, plantas, especias y otros productos derivados de la producción campesina.</documentation>
             </element>
           </folder>
         </folder>
@@ -410,36 +407,67 @@
     <element xsi:type="archimate:BusinessEvent" name="Siembra de frailejones" id="id-e3efb279c87244d284d3e24226cbca5c"/>
     <element xsi:type="archimate:BusinessEvent" name="Siembra de árboles" id="id-86ae1e2685054b72b8559d4d11649357"/>
     <element xsi:type="archimate:BusinessProcess" name="Articular procesos con escuelas territoriales" id="id-5e8ab24b58bf40719a80aafb6d71fe50"/>
-    <element xsi:type="archimate:BusinessProcess" name="Fortalecimiento de sistemas agroecológicos campesinos" id="id-90891222e02d40eb878ae6bbb9fe32f6">
-      <documentation>Comprende la implementación, acompañamiento y consolidación de sistemas de producción campesina basados en la agroecología, la agricultura orgánica, la diversificación de cultivos y el manejo sostenible del suelo, el agua y la biodiversidad. Incluye la transición hacia prácticas agroecológicas, la producción de alimentos de pancoger, la elaboración de abonos orgánicos y el uso de microorganismos de montaña, entre otras prácticas que disminuyan la dependencia de insumos externos.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Fortalecer sistemas productivos campesinos mediante prácticas agroecológicas" id="id-90891222e02d40eb878ae6bbb9fe32f6">
+      <documentation>Comprende el acompañamiento y fortalecimiento de los sistemas productivos familiares y comunitarios mediante prácticas como la diversificación y asociación de cultivos, producción orgánica, manejo sostenible del suelo y el agua, elaboración de abonos e insumos naturales, integración agrícola y pecuaria y transición progresiva hacia formas de producción agroecológica.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Conservación e intercambio comunitario de semillas y saberes campesinos" id="id-11cd1ed2c216447ca1795d95fc1133b1">
-      <documentation>Incluye la identificación, recuperación, selección, reproducción, conservación y propagación de semillas nativas, criollas y tradicionales, así como la creación y fortalecimiento de casas comunitarias de semillas. También comprende los encuentros e intercambios mediante los cuales las familias, personas mayores, docentes, mujeres, jóvenes y productores transmiten los conocimientos relacionados con la siembra, el cuidado, el uso y la adaptación de las semillas al territorio.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Conservar e intercambiar semillas y saberes agroalimentarios" id="id-11cd1ed2c216447ca1795d95fc1133b1">
+      <documentation>Comprende la identificación, recuperación, reproducción, conservación, propagación e intercambio de semillas nativas, criollas y tradicionales, así como la transmisión de los conocimientos campesinos asociados a su cultivo, manejo y uso. Incluye prácticas familiares y comunitarias, casas de semillas e intercambios de saberes entre generaciones y productores.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Promoción de la soberanía alimentaria" id="id-30a8adc1fc5c43e7adc317ec0a211502">
-      <documentation>Comprende las acciones destinadas a fortalecer la capacidad de las comunidades para decidir qué alimentos producir, cómo producirlos, cómo distribuirlos y cómo consumirlos, de acuerdo con sus necesidades, conocimientos y condiciones territoriales. Incluye la producción diversificada de alimentos, el autoconsumo familiar y comunitario, la protección de las semillas, la alimentación saludable y la visibilización del campesinado como actor fundamental para garantizar la alimentación de la sociedad.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Promover la autonomía y soberanía alimentaria campesina" id="id-30a8adc1fc5c43e7adc317ec0a211502">
+      <documentation>Comprende las acciones orientadas a fortalecer la capacidad de las familias y comunidades para producir, seleccionar, intercambiar, preparar y consumir alimentos propios, saludables y culturalmente pertinentes, promoviendo las huertas, el autoconsumo, la diversidad alimentaria y la recuperación de prácticas campesinas relacionadas con la alimentación.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Restauración ecológica" id="id-1df4e1b4f9364c0d947ed94a22cc9af7">
-      <documentation>Comprende las acciones comunitarias dirigidas a recuperar ecosistemas, suelos, bosques, nacimientos de agua y áreas afectadas por procesos de degradación. Incluye la siembra de árboles y especies nativas, la propagación de frailejones, la restauración de suelos, la recuperación de coberturas vegetales y el establecimiento de acciones de seguimiento para favorecer la recuperación de las funciones ecológicas del territorio.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Identificar, monitorear y proteger la biodiversidad" id="id-45b209758a854bf3a4a497f3629b3574">
+      <documentation>Comprende el reconocimiento, registro, seguimiento y protección de especies de flora y fauna y de los hábitats presentes en el territorio, articulando el conocimiento campesino con actividades de observación, recorridos territoriales y acciones comunitarias orientadas a conservar especies, polinizadores y ecosistemas de importancia ambiental.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Gestión comunitaria del agua" id="id-45b209758a854bf3a4a497f3629b3574">
-      <documentation>Incluye la identificación, protección, recuperación y seguimiento de nacimientos, quebradas, ríos, lagunas, páramos y demás fuentes hídricas del territorio. Comprende recorridos comunitarios, jornadas de restauración, procesos de sensibilización y acuerdos colectivos para el cuidado del agua, reconociéndola como un bien común indispensable para la vida, la producción campesina y la permanencia de las comunidades.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Conservar y restaurar ecosistemas estratégicos" id="id-ac1e3fc9c902448aaf16d423e3b34520">
+      <documentation>Comprende la identificación y recuperación de áreas de importancia ambiental o afectadas por procesos de degradación mediante reforestación, siembra y propagación de especies nativas, restauración de suelos y coberturas, protección de nacimientos y acciones comunitarias de conservación de bosques, montañas, páramos y corredores ecológicos.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Educación ambiental comunitaria" id="id-ac1e3fc9c902448aaf16d423e3b34520">
-      <documentation>Agrupa los procesos de formación, sensibilización y construcción colectiva de conocimientos relacionados con el cuidado de la naturaleza y el territorio. Incluye charlas, campañas, muralismo, recorridos ambientales, encuentros comunitarios, actividades escolares y diálogos intergeneracionales dirigidos a niños, niñas, jóvenes, familias, líderes y lideresas campesinas.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Comercializar productos mediante circuitos campesinos y solidarios" id="id-6c1f47d064374782a44dfc6e91dfd349">
+      <documentation>Comprende la organización de mecanismos para el intercambio, distribución y comercialización de productos campesinos mediante mercados locales, venta directa, tiendas comunitarias, ferias, circuitos cortos y otras alternativas que procuren reducir la intermediación, mejorar los ingresos familiares y fortalecer las relaciones entre productores y consumidores.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Transformación y comercialización de productos campesinos" id="id-6c1f47d064374782a44dfc6e91dfd349">
-      <documentation>Incluye los procesos mediante los cuales los productos agrícolas y agroecológicos son acondicionados, transformados, almacenados, intercambiados y comercializados, procurando conservar su valor cultural, ambiental y alimentario. Comprende mercados campesinos, ferias, intercambios solidarios, circuitos cortos de comercialización y escenarios de articulación entre el campo y la ciudad que permitan reducir intermediarios y visibilizar el aporte de la producción campesina.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Gestionar comunitariamente las fuentes y sistemas de agua" id="id-d73b27b58643496ea3c739f8da54cc34">
+      <documentation>Comprende la identificación, protección, mantenimiento y seguimiento de nacimientos, quebradas, lagunas, redes comunitarias de abastecimiento y demás fuentes hídricas, así como la construcción de acuerdos colectivos para su uso, conservación y recuperación y la atención comunitaria de afectaciones sobre el recurso hídrico.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Protección de la biodiversidad" id="id-009005514ac3420192b235e2bf63e3bf">
-      <documentation>Comprende las acciones destinadas a reconocer, conservar y recuperar las especies de flora y fauna, sus hábitats y los corredores ecológicos que conectan los diferentes ecosistemas del territorio. Incluye la protección de aves, abejas nativas, polinizadores, orquídeas, árboles nativos y otras especies, así como la documentación de conocimientos comunitarios y el desarrollo de prácticas productivas que favorezcan la diversidad biológica.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Fortalecer capacidades para gestionar procesos de formación comunitaria" id="id-dca506f018a148b0b24ab483290d42f0">
+      <documentation>Comprende la identificación y aprovechamiento de capacidades técnicas, profesionales y pedagógicas existentes entre integrantes de la organización, así como su articulación para formular proyectos, establecer alianzas y desarrollar nuevas iniciativas de formación dirigidas a las comunidades.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Reconocimiento y apropiación comunitaria del territorio" id="id-d73b27b58643496ea3c739f8da54cc34">
-      <documentation>Comprende recorridos, ejercicios de observación, cartografía comunitaria y espacios de diálogo mediante los cuales las comunidades identifican las características, potencialidades, problemáticas y lugares de importancia ambiental del territorio. Busca fortalecer el sentido de pertenencia, la memoria territorial y la participación de las comunidades en las decisiones relacionadas con el uso, la protección y la defensa de los ecosistemas.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Crear y fortalecer iniciativas de economía social y solidaria" id="id-c603e4d44a4443b5ac60bed76c26f519">
+      <documentation>Comprende la organización, acompañamiento y consolidación de iniciativas económicas colectivas basadas en la cooperación, reciprocidad, solidaridad y toma comunitaria de decisiones, incluyendo grupos de ahorro y crédito, fondos solidarios, tiendas y panaderías comunitarias, parcelas colectivas, asociaciones productivas y otras formas de economía campesina organizada.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Formación de cuidadores y cuidadoras del territorio" id="id-109ca99695304a119e289ade7198c6ba">
-      <documentation>Incluye los procesos organizativos y educativos dirigidos a vincular a niños, niñas, jóvenes y demás integrantes de la comunidad con el cuidado de montañas, páramos, fuentes hídricas, bosques y especies. Comprende iniciativas como cuidadores de la montaña, guardianes de aves y juntanzas por el agua, promoviendo responsabilidades comunitarias y la transmisión generacional de saberes ambientales.</documentation>
+    <element xsi:type="archimate:BusinessProcess" name="Identificar y priorizar problemáticas y reivindicaciones colectivas" id="id-f65f5938712849ac900a2c399330779a">
+      <documentation>Comprende la identificación, análisis y priorización de necesidades, problemáticas y reivindicaciones que afectan a las comunidades campesinas, a partir de espacios de deliberación como las Juntas de Acción Comunal, subdirectivas, comités, Junta Directiva y otros escenarios organizativos. Considera su urgencia, alcance colectivo, contexto político y viabilidad para definir cuáles asuntos requieren acción de la organización.</documentation>
     </element>
+    <element xsi:type="archimate:BusinessProcess" name="Definir estrategias de acción política y organizativa" id="id-89473636381f41eb8958433f3b719d27">
+      <documentation>Comprende el análisis del contexto político, institucional y organizativo y la definición colectiva de las estrategias mediante las cuales la ACIT responderá a las problemáticas priorizadas, incluyendo gestión institucional, movilización social, acciones jurídicas, cooperación, articulación con organizaciones aliadas o combinación de diferentes mecanismos.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Gestionar incidencia y articulación política e institucional" id="id-36412e5eb4ce4a65a0159a5cc3351da9">
+      <documentation>Comprende la representación de las reivindicaciones y propuestas campesinas ante entidades públicas, espacios de concertación y otros actores institucionales, mediante reuniones, mesas de negociación, agendas de interlocución, participación en escenarios de incidencia y seguimiento a compromisos adquiridos.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Gestionar alianzas y redes de cooperación" id="id-a255f36ad71145039656e90016e19fba">
+      <documentation>Comprende la identificación, activación, construcción y mantenimiento de relaciones con organizaciones sociales, profesionales solidarios, universidades, ONG, entidades de cooperación y otros actores aliados que puedan aportar capacidades técnicas, jurídicas, políticas, académicas o financieras a las iniciativas de la ACIT.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Formular y gestionar proyectos comunitarios" id="id-3e0da5f81fc743ce9b84f7446d193c9a">
+      <documentation>Comprende la estructuración de iniciativas y proyectos a partir de necesidades comunitarias priorizadas, incluyendo la formulación técnica y financiera, búsqueda de fuentes de financiación, presentación ante cooperantes o entidades, formalización mediante convenios o contratos y seguimiento a su ejecución.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Caracterizar población, predios y dinámicas territoriales" id="id-bdef16baf0644e9e8bd4f5027c4221a3">
+      <documentation>Comprende la recolección, validación, organización y análisis de información sobre población, predios, formas de tenencia, identidad campesina, usos del suelo y demás características territoriales necesarias para sustentar procesos de planificación, acceso a tierras, defensa territorial, formulación de proyectos y toma de decisiones.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Gestionar el acceso, formalización y adquisición de tierras" id="id-6e65e77a61e949e3a0319a502934ca15">
+      <documentation>Comprende la identificación y evaluación de predios requeridos por familias, comunidades u organización, el análisis de su viabilidad jurídica, ambiental, agronómica y productiva, y la gestión de los procedimientos necesarios para su adjudicación, formalización, compra, entrega o adquisición colectiva.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Formular y actualizar instrumentos de planificación territorial campesina" id="id-276b42ffc8584c44a8e0a31d46f72a82">
+      <documentation>Comprende la construcción participativa de diagnósticos, análisis y propuestas para orientar el ordenamiento y desarrollo del territorio campesino mediante instrumentos como el Plan de Desarrollo Sostenible de la Zona de Reserva Campesina, integrando componentes territoriales, ambientales, económicos, productivos, sociales e históricos.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Implementar y hacer seguimiento a la planificación territorial campesina" id="id-f5ffab6552774b94a283af349a51f37d">
+      <documentation>Comprende la coordinación, seguimiento y evaluación de las acciones definidas en los instrumentos de planificación territorial campesina, articulando a los diferentes comités, comunidades, proyectos y actores responsables de desarrollar sus componentes.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Gestionar conflictos territoriales e interculturales" id="id-babb0950bc1743b5bfff40bd933f9118">
+      <documentation>Comprende la identificación, caracterización, documentación y análisis de conflictos relacionados con el uso, ocupación, identidad y reconocimiento del territorio, así como el desarrollo de acciones comunitarias, políticas e institucionales orientadas a su prevención, tratamiento, concertación o resolución.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Defender jurídicamente derechos y reivindicaciones territoriales" id="id-b7df8eed0d374aa0a15dc2cd137454b0">
+      <documentation>Comprende la identificación y análisis jurídico de afectaciones, incumplimientos o reivindicaciones relacionadas con la tierra y el territorio, la definición de la estrategia jurídica aplicable y la formulación, presentación y seguimiento de actuaciones administrativas o judiciales orientadas a proteger los derechos e intereses de las comunidades campesinas.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Documentar y sustentar la defensa del territorio" id="id-db0b17b426374faaaf9550051618b76e"/>
   </folder>
   <folder name="Application" id="id-a452fff539a3475aac404e8c02aff8f4" type="application">
     <element xsi:type="archimate:DataObject" name="Información ACIT" id="id-206c43f20ee64039bfc1301e233a5855"/>
@@ -511,7 +539,7 @@
           <documentation>Factores que pueden causar cambios en la Organización.</documentation>
         </element>
       </folder>
-      <element xsi:type="archimate:Driver" name="Reconocimiento del campesinado como sujeto político de derechos y de especial protección constitucional" id="id-bb0038f5a3834271b966acd804740656">
+      <element xsi:type="archimate:Driver" name="Reconocimiento del campesinado como sujeto político de derechos" id="id-bb0038f5a3834271b966acd804740656">
         <documentation>La necesidad de lograr el reconocimiento político, social y jurídico del campesinado como sujeto colectivo de derechos, fortaleciendo su participación en la formulación de políticas públicas y en la toma de decisiones que afectan el territorio.</documentation>
       </element>
       <element xsi:type="archimate:Driver" name="Fortalecimiento de la identidad y la cultura campesina" id="id-3aad8a5f0b5340bebf3d0d530e7b290f">
@@ -1190,37 +1218,37 @@
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="1.1. Motivación " id="id-708803e28332450dbe346700caeb2905">
         <child xsi:type="archimate:DiagramObject" id="id-aef7879f156b49919286d6886ca5989c" archimateElement="id-8f11a29fa7f645d0a4382ee237428004">
-          <bounds x="66" y="24" width="120" height="55"/>
+          <bounds x="66" y="36" width="120" height="43"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-12a707553d3740f891633a17ba9e1c17" source="id-aef7879f156b49919286d6886ca5989c" target="id-354c1d890c8c49d7b17ebced9c48248a" archimateRelationship="id-c28581fd9223447ab507e55a30480303"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-354c1d890c8c49d7b17ebced9c48248a" targetConnections="id-12a707553d3740f891633a17ba9e1c17" archimateElement="id-bb0038f5a3834271b966acd804740656">
-          <bounds x="50" y="108" width="179" height="97"/>
+          <bounds x="36" y="120" width="179" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-32566596e46e4342917596a3c21c1586" source="id-354c1d890c8c49d7b17ebced9c48248a" target="id-c2fa91642416401a8928a11db30654a9" archimateRelationship="id-9994078e6a164c2fbf42f505d84267d8"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-398764ba2a9d4220ab99bcad4836e5bb" source="id-354c1d890c8c49d7b17ebced9c48248a" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-77699c3f7ee146808d5f12a50b765b60"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c2fa91642416401a8928a11db30654a9" targetConnections="id-32566596e46e4342917596a3c21c1586" archimateElement="id-4a7b8cd1a7b84d6592d5e52160b074e9">
-          <bounds x="35" y="216" width="182" height="75"/>
+          <bounds x="35" y="233" width="182" height="75"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b229abcf233846dfbe0b260ccd6da926" source="id-c2fa91642416401a8928a11db30654a9" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-14b4673ad143478e82408c3322c0720a"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9a4f71382bef42658396cd05312ab7e7" targetConnections="id-b229abcf233846dfbe0b260ccd6da926 id-398764ba2a9d4220ab99bcad4836e5bb id-53b17799d21d42bcb7967ecafc88b8ca id-cc3c13e8d6094ac38a87bf13d0ea7be6 id-5d49af3d494f4b88a543f4c26fd1a76b" archimateElement="id-190742200dc54a73a102c1e15ddf91ab">
           <bounds x="271" y="216" width="157" height="109"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-956a9a6bf85b431a82de480bf3cd8fe0" targetConnections="id-98708913c3db4aecb2efbf6a27010ebf" archimateElement="id-0240580e8aba414d93625c6a33411de2">
-          <bounds x="480" y="233" width="120" height="40"/>
+          <bounds x="480" y="251" width="120" height="40"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-53b17799d21d42bcb7967ecafc88b8ca" source="id-956a9a6bf85b431a82de480bf3cd8fe0" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-83ac495bef284c42ba1252425f3a5b69"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a7e5eeb8e6ca42ed9c01b958e8620035" targetConnections="id-243b0c74572c4cd7979157ff502d7e15" archimateElement="id-11215fd6c9304bb590466fc88a921539">
-          <bounds x="480" y="336" width="133" height="55"/>
+          <bounds x="473" y="387" width="133" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-cc3c13e8d6094ac38a87bf13d0ea7be6" source="id-a7e5eeb8e6ca42ed9c01b958e8620035" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-602439f9a73c40d4b8802aed751aac24"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-98708913c3db4aecb2efbf6a27010ebf" source="id-a7e5eeb8e6ca42ed9c01b958e8620035" target="id-956a9a6bf85b431a82de480bf3cd8fe0" archimateRelationship="id-7caf94faf0394766aadf7c25c24103e0"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-06d7155a7adc4753b8dd28374e3bc3ed" targetConnections="id-9380f98d63cb499dbc74a48755b64bcb" archimateElement="id-d9d3eb19212344f8b04646ee22622fe6">
-          <bounds x="271" y="360" width="145" height="109"/>
+          <bounds x="277" y="360" width="145" height="109"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-243b0c74572c4cd7979157ff502d7e15" source="id-06d7155a7adc4753b8dd28374e3bc3ed" target="id-a7e5eeb8e6ca42ed9c01b958e8620035" archimateRelationship="id-ad63182c86fc4858866b88c8a71731f1"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-5d49af3d494f4b88a543f4c26fd1a76b" source="id-06d7155a7adc4753b8dd28374e3bc3ed" target="id-9a4f71382bef42658396cd05312ab7e7" archimateRelationship="id-4d5814d7071b4239bc35dc60b751d136"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9d6693fb940146f6b2b5a2da486b7353" archimateElement="id-db39b4a2f7284d32b86018a3d3904957">
-          <bounds x="284" y="492" width="120" height="49"/>
+          <bounds x="290" y="504" width="120" height="49"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9380f98d63cb499dbc74a48755b64bcb" source="id-9d6693fb940146f6b2b5a2da486b7353" target="id-06d7155a7adc4753b8dd28374e3bc3ed" archimateRelationship="id-20bff2dac36a4e439c1ff1300376f550"/>
         </child>
       </element>
@@ -2972,79 +3000,79 @@
         <child xsi:type="archimate:Group" id="id-86ffca5165cf4080bf28cc14d31d10e8" name="Procesos Misionales" textAlignment="1">
           <bounds x="31" y="216" width="1470" height="649"/>
           <child xsi:type="archimate:DiagramModelReference" id="id-4f96800c05254544967f2db6297e20f8" model="id-ac9ee397b59c40b59ef3fc8cbb3e36ee">
-            <bounds x="50" y="312" width="668" height="276"/>
+            <bounds x="31" y="317" width="563" height="121"/>
           </child>
           <child xsi:type="archimate:DiagramModelReference" id="id-49e69b7f33a240c49325fc1bb4aafd23" model="id-2495950095544e42a8249e92edb1a43c">
-            <bounds x="12" y="34" width="337" height="263"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-391826e22fd64b329d76d46a7e250f2c" archimateElement="id-577f022c5093477984c557ff38a27458">
-            <bounds x="202" y="64" width="120" height="55"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-7dd25cc7e0b047a1a20ae8992b0f16bc" archimateElement="id-bb0c1999a30f44b9b6e9dc5ad20b3998">
-            <bounds x="27" y="124" width="142" height="69"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-a92a5e0cc256488b8291129cd93401da" archimateElement="id-2120f67da3ff486fbe1b9b329dda3ccc">
-            <bounds x="180" y="126" width="154" height="55"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-6da3a51d7d91428cbbd337ec33a3ac4b" archimateElement="id-485c27e4e2ca45d08f4622cbae5e06e4">
-            <bounds x="96" y="216" width="176" height="55"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-40d7f890c50c44e3897aa9d977dd50c4" archimateElement="id-7e4bf778244348bf9ab89c96000d4db0">
-            <bounds x="27" y="64" width="167" height="55"/>
+            <bounds x="12" y="34" width="529" height="263"/>
           </child>
           <child xsi:type="archimate:DiagramModelReference" id="id-5973942638d3461fb2291d50c019cc19" model="id-b5baf5127f504e3bbf4f6aaadce04dfd">
-            <bounds x="360" y="34" width="373" height="159"/>
+            <bounds x="660" y="372" width="373" height="219"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-f6f7433132f94b1b967baac581cbb372" archimateElement="id-5ebfc03952604e7098af9f40291087bb">
-            <bounds x="372" y="64" width="157" height="55"/>
+            <bounds x="672" y="402" width="157" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-3879bc403e254aba8020c029c157d921" archimateElement="id-b469c874a8c54ac1a3b5ea8bb2317db6">
-            <bounds x="372" y="124" width="176" height="55"/>
+            <bounds x="672" y="462" width="176" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-f00d6a01dfe34ab78b7f83d8720799b2" archimateElement="id-3147417ebc1145ed83a8d535f287b263">
-            <bounds x="556" y="124" width="162" height="55"/>
+            <bounds x="856" y="462" width="162" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-1338ff794fc54113820065ce3efc37bb" archimateElement="id-62b4989a2d7d418e9a9dd0198efbbab8">
-            <bounds x="540" y="64" width="181" height="55"/>
+            <bounds x="840" y="402" width="181" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramModelReference" id="id-4f1be17a30c442c596ea74ddb2ba7f01" model="id-f35b15d0906347ceaaea1fa04eaf6e8d">
-            <bounds x="744" y="36" width="480" height="312"/>
+            <bounds x="936" y="96" width="517" height="223"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-0b51a314af0741ffa53d7347e27c72c3" archimateElement="id-90891222e02d40eb878ae6bbb9fe32f6">
-            <bounds x="768" y="72" width="156" height="84"/>
+            <bounds x="948" y="134" width="169" height="71"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-b05719152fc24e06a727b12b9e7b3ed8" archimateElement="id-11cd1ed2c216447ca1795d95fc1133b1">
-            <bounds x="936" y="66" width="120" height="95"/>
+            <bounds x="1128" y="134" width="145" height="71"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-70a4395f8b6d4cee98e1e3f2a5f35518" archimateElement="id-30a8adc1fc5c43e7adc317ec0a211502">
-            <bounds x="780" y="178" width="120" height="92"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-96a707a920af463683ba4f482780b272" archimateElement="id-1df4e1b4f9364c0d947ed94a22cc9af7">
-            <bounds x="83" y="444" width="120" height="60"/>
+            <bounds x="1284" y="134" width="157" height="71"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-f948d1293917458f972a1889e1d573db" archimateElement="id-45b209758a854bf3a4a497f3629b3574">
-            <bounds x="528" y="396" width="156" height="50"/>
+            <bounds x="432" y="351" width="157" height="53"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-ed4119de260c446eb2181853c2cfb74e" archimateElement="id-ac1e3fc9c902448aaf16d423e3b34520">
-            <bounds x="321" y="347" width="120" height="62"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-8ea97d4224dd48de8d5319f7d87270ee" archimateElement="id-0202642e585f49d79c82681419512423">
-            <bounds x="792" y="276" width="139" height="55"/>
+            <bounds x="264" y="351" width="156" height="54"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-a1fb239b0714409692e3d91270f90d8a" archimateElement="id-37a3993605624a128fd2a5c609abe717">
-            <bounds x="960" y="276" width="159" height="55"/>
+            <bounds x="960" y="216" width="157" height="73"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-c275bc4af47144e7a3115efd54cd8d6f" archimateElement="id-6c1f47d064374782a44dfc6e91dfd349">
-            <bounds x="936" y="180" width="145" height="72"/>
-          </child>
-          <child xsi:type="archimate:DiagramObject" id="id-e29360000cc74f2d82b90d35786306da" archimateElement="id-009005514ac3420192b235e2bf63e3bf">
-            <bounds x="422" y="478" width="120" height="55"/>
+            <bounds x="1128" y="216" width="169" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-67c4d07cfc6a4ab1af0b94006dfec7c0" archimateElement="id-d73b27b58643496ea3c739f8da54cc34">
-            <bounds x="83" y="354" width="157" height="79"/>
+            <bounds x="64" y="350" width="189" height="56"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="id-62b8c0c4cc084c15bbb54670ad6dc48c" archimateElement="id-109ca99695304a119e289ade7198c6ba">
-            <bounds x="253" y="446" width="120" height="83"/>
+          <child xsi:type="archimate:DiagramObject" id="id-53b997950a9d49039481748cbd8c5db0" archimateElement="id-dca506f018a148b0b24ab483290d42f0">
+            <bounds x="759" y="518" width="176" height="65"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-650f9249f72c4601a7f359f8e781a51b" archimateElement="id-c603e4d44a4443b5ac60bed76c26f519">
+            <bounds x="1303" y="216" width="138" height="74"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d182e196b91b4d2987ad8eb7a7448661" archimateElement="id-bdef16baf0644e9e8bd4f5027c4221a3">
+            <bounds x="24" y="74" width="156" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-db34b5c2f19246b9ac0af0936e995691" archimateElement="id-6e65e77a61e949e3a0319a502934ca15">
+            <bounds x="192" y="74" width="120" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0ef4bdc0fbcf43c586948fa235a53801" archimateElement="id-276b42ffc8584c44a8e0a31d46f72a82">
+            <bounds x="31" y="144" width="142" height="69"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-35b5fb1a28724846b1d8a561b4d5a96d" archimateElement="id-f5ffab6552774b94a283af349a51f37d">
+            <bounds x="168" y="147" width="168" height="73"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-12fa5fe7318d45ae99ed76ca76a503b5" archimateElement="id-babb0950bc1743b5bfff40bd933f9118">
+            <bounds x="324" y="68" width="164" height="67"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3973f13e41d1437eb0300489d4772973" archimateElement="id-b7df8eed0d374aa0a15dc2cd137454b0">
+            <bounds x="348" y="147" width="176" height="79"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-613ffd734cba402f88a629434d57721c" archimateElement="id-db0b17b426374faaaf9550051618b76e">
+            <bounds x="204" y="221" width="154" height="63"/>
           </child>
         </child>
         <child xsi:type="archimate:Group" id="id-55dafad873194fc0848193b63dcc42eb" name="Procesos Administrativos" textAlignment="1" borderType="1">
@@ -3063,20 +3091,50 @@
           </child>
         </child>
         <child xsi:type="archimate:DiagramModelReference" id="id-7ab88b2624534737b69eb39299137b44" model="id-c2d93ef3068a4a33b3eddab28bc26bae">
-          <bounds x="324" y="28" width="277" height="160"/>
+          <bounds x="324" y="28" width="565" height="177"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3f9b92a072ce491ba6b3b1787a3ec947" archimateElement="id-8aa199525c16477bafc94eccf374ef95">
-          <bounds x="336" y="56" width="109" height="55"/>
+          <bounds x="1044" y="67" width="109" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e8e1157e4e124c5e9a924ad3c044c41e" archimateElement="id-9607b9c5e0704bfa9cfb0f97a0367217">
-          <bounds x="456" y="56" width="133" height="55"/>
+          <bounds x="1164" y="67" width="133" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cc36b51ed924479590bd0b4d178ff126" archimateElement="id-24a0554ad928478f8ecba1af25689bc8">
-          <bounds x="360" y="120" width="205" height="49"/>
+          <bounds x="1068" y="131" width="205" height="49"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a023556638494fb7bae18d60ba1fb094" archimateElement="id-f65f5938712849ac900a2c399330779a">
+          <bounds x="336" y="60" width="181" height="60"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7b0850371c2745549c9976171a70f136" archimateElement="id-89473636381f41eb8958433f3b719d27">
+          <bounds x="528" y="62" width="162" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ecb6ae2ebe3c4fb5b5f04cd8fdcdf735" archimateElement="id-36412e5eb4ce4a65a0159a5cc3351da9">
+          <bounds x="342" y="131" width="169" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d731107fb54542efb24c3a9d0ef7c3c5" archimateElement="id-a255f36ad71145039656e90016e19fba">
+          <bounds x="516" y="131" width="157" height="50"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-38d79fad57a94cdc812a2c5d774236c6" archimateElement="id-3e0da5f81fc743ce9b84f7446d193c9a">
+          <bounds x="684" y="128" width="145" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7dd25cc7e0b047a1a20ae8992b0f16bc" archimateElement="id-bb0c1999a30f44b9b6e9dc5ad20b3998">
+          <bounds x="1587" y="178" width="142" height="69"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-6da3a51d7d91428cbbd337ec33a3ac4b" archimateElement="id-485c27e4e2ca45d08f4622cbae5e06e4">
+          <bounds x="1656" y="258" width="176" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-40d7f890c50c44e3897aa9d977dd50c4" archimateElement="id-7e4bf778244348bf9ab89c96000d4db0">
+          <bounds x="1587" y="118" width="167" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a92a5e0cc256488b8291129cd93401da" archimateElement="id-2120f67da3ff486fbe1b9b329dda3ccc">
+          <bounds x="1740" y="180" width="154" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-391826e22fd64b329d76d46a7e250f2c" archimateElement="id-577f022c5093477984c557ff38a27458">
+          <bounds x="1762" y="118" width="120" height="55"/>
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="3.8. Funciones de Negocio" id="id-02948611d10d47c8ad3086d70ce3d049"/>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="3.5. Procesos de Gestión territorial" id="id-2495950095544e42a8249e92edb1a43c">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.5. Gestión y defensa territorial" id="id-2495950095544e42a8249e92edb1a43c">
         <child xsi:type="archimate:DiagramObject" id="id-0044bd60e4af48458352fc81d0090049" targetConnections="id-ec9fc5e7d5bf4a92a6350f0fc0612903" archimateElement="id-7e4bf778244348bf9ab89c96000d4db0">
           <bounds x="252" y="180" width="660" height="109"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-583fc5a28d8e41deb32ace5f07371306" source="id-0044bd60e4af48458352fc81d0090049" target="id-16e17a019a1d487dbaa3fca5aac928e9" archimateRelationship="id-e576b37623d64b049ec761583229cbb9"/>
@@ -3299,7 +3357,7 @@
           <sourceConnection xsi:type="archimate:Connection" id="id-b7fc4e72db98409ca923dbcd62eb5c1b" source="id-ef4f2818a26744e39e95dac139a6e701" target="id-b70d018aa0054799be21fbe4d8767849" archimateRelationship="id-d245cbcd4a4f418f90dde94201b63eaa"/>
         </child>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="3.4. Procesos Estratégicos" id="id-c2d93ef3068a4a33b3eddab28bc26bae">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.4. Direccionamiento y gestión estratégica" id="id-c2d93ef3068a4a33b3eddab28bc26bae">
         <child xsi:type="archimate:DiagramObject" id="id-8aad19c641b545b7a2fc1fa475df19c1" targetConnections="id-1d41e2780f7f4d6cac6613a558db50f9 id-11de5ec127fb4c6bb1f398cdc3c38d80" archimateElement="id-24a0554ad928478f8ecba1af25689bc8">
           <bounds x="372" y="216" width="949" height="97"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-adfdd4c9258c44aea24d44bbcd6dad00" source="id-8aad19c641b545b7a2fc1fa475df19c1" target="id-acc0e4a7b534468491e674b644064934" archimateRelationship="id-b71e841a79114a509cdc986844799879"/>
@@ -3495,7 +3553,7 @@
 - Histórico</content>
         </child>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="3.6. Procesos de Educación, cultura y bienestar" id="id-b5baf5127f504e3bbf4f6aaadce04dfd">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="3.6. Educación, cultura y bienestar comunitario" id="id-b5baf5127f504e3bbf4f6aaadce04dfd">
         <child xsi:type="archimate:DiagramObject" id="id-a5a9c8495b3a4ab6bbeedfdc03534791" archimateElement="id-b469c874a8c54ac1a3b5ea8bb2317db6">
           <bounds x="24" y="216" width="1009" height="409"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-e9193bcc7ffd43b7b2db2ee965d79685" source="id-a5a9c8495b3a4ab6bbeedfdc03534791" target="id-384ae6989dc04ff2ac5769c1919e6fb9" archimateRelationship="id-a1e41ee9f56045f694e1be8ae076196a"/>
