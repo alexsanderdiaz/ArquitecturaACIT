@@ -3460,13 +3460,13 @@ se lograrán los objetivos?</content>
           <bounds x="883" y="208" width="172" height="45"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-675e5497481c4e588b12cb355ccd8d9c" source="id-4d6609d31ef64f608bd9b07e03b6a626" target="id-2697b63dc1034f5aba2a8322c84a2d7d" archimateRelationship="id-6594d23dec4c4d4fa26e6ed5d31750e9"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-760976920e75424c96cbb6c47cae9010" targetConnections="id-57b86ddc1310484cadf55b806ba6f0f1 id-6ad379b1b3784456850556766448acff id-e2c14412060640c28398db53234ce4c0 id-372414aadc634d2db3218adb2650fc0d id-8a1b15f2ecc04339ac810dad79351250 id-c657be2dae11452f9101c08431bf6e15 id-d9c41965c3144b848b30b83539c3f8c9 id-f259b579a994470a97f047063f870f59 id-14da8700c3574954a35aff25ee73352d id-06ca9e1c11384a4797cd3b2e5b9db7a6" fillColor="#fee1b6" archimateElement="id-c0df3a10b3994ea9aa073b4e8a869d34">
+        <child xsi:type="archimate:DiagramObject" id="id-760976920e75424c96cbb6c47cae9010" targetConnections="id-57b86ddc1310484cadf55b806ba6f0f1 id-6ad379b1b3784456850556766448acff id-e2c14412060640c28398db53234ce4c0 id-372414aadc634d2db3218adb2650fc0d id-8a1b15f2ecc04339ac810dad79351250 id-c657be2dae11452f9101c08431bf6e15 id-d9c41965c3144b848b30b83539c3f8c9 id-f259b579a994470a97f047063f870f59 id-14da8700c3574954a35aff25ee73352d id-06ca9e1c11384a4797cd3b2e5b9db7a6" archimateElement="id-c0df3a10b3994ea9aa073b4e8a869d34">
           <bounds x="276" y="259" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-ef011184690b4b009324c7e8468756c5" targetConnections="id-b8ef508bfa4a419789b27aab12e952a6 id-98c52f2e58f04d38bb1af27a15b48a7a id-75d4af7a3db143729268ab8c442f1bda" fillColor="#fee1b6" archimateElement="id-0dedb906de064a90bae7c44205ff250d">
+        <child xsi:type="archimate:DiagramObject" id="id-ef011184690b4b009324c7e8468756c5" targetConnections="id-b8ef508bfa4a419789b27aab12e952a6 id-98c52f2e58f04d38bb1af27a15b48a7a id-75d4af7a3db143729268ab8c442f1bda" archimateElement="id-0dedb906de064a90bae7c44205ff250d">
           <bounds x="648" y="415" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-2697b63dc1034f5aba2a8322c84a2d7d" targetConnections="id-675e5497481c4e588b12cb355ccd8d9c id-e0405863ae4e492aa5389a740afd7c91 id-c8357382479d40419ec9e9f5c91dc3b1" fillColor="#fee1b6" archimateElement="id-dc0da77b71b94d789b5a2830f484ba98">
+        <child xsi:type="archimate:DiagramObject" id="id-2697b63dc1034f5aba2a8322c84a2d7d" targetConnections="id-675e5497481c4e588b12cb355ccd8d9c id-e0405863ae4e492aa5389a740afd7c91 id-c8357382479d40419ec9e9f5c91dc3b1" archimateElement="id-dc0da77b71b94d789b5a2830f484ba98">
           <bounds x="707" y="214" width="97" height="34"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-0032f5b66683436e9493470fe783351e" source="id-2697b63dc1034f5aba2a8322c84a2d7d" target="id-7a4984c6420b4f6a815d73154afd08f7" archimateRelationship="id-38d8cdaac33d435fb9a4ff7309b4ca34">
             <bendpoint startX="12" startY="47" endX="-204" endY="-51"/>
@@ -3474,7 +3474,7 @@ se lograrán los objetivos?</content>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="id-7ceae5d4949947789776ac3664eb99cb" source="id-2697b63dc1034f5aba2a8322c84a2d7d" target="id-f458c9ecc2a949b0b2d5fb5734428d15" archimateRelationship="id-fff61e0f0c674e938911925a1c769d66"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-5945676d4afe465584caabce195672f3" fillColor="#fee1b6" archimateElement="id-4b21f9c90e9d488c94be45803c9c4522">
+        <child xsi:type="archimate:DiagramObject" id="id-5945676d4afe465584caabce195672f3" archimateElement="id-4b21f9c90e9d488c94be45803c9c4522">
           <bounds x="696" y="301" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-aad8a10a52e54a87a95ea11106526142" source="id-5945676d4afe465584caabce195672f3" target="id-7a4984c6420b4f6a815d73154afd08f7" archimateRelationship="id-34708de783ab4d0abe3522d43ddf3a66"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-fa58408eba3f43f3b71a806b31c66df5" source="id-5945676d4afe465584caabce195672f3" target="id-6f7c74685fbb4cd3a91e3091c2842e65" archimateRelationship="id-06f66aa5affc45b8b4f8704bc70efe98">
@@ -3485,14 +3485,14 @@ se lograrán los objetivos?</content>
             <bendpoint startX="-156" startY="-39" endX="46" endY="55"/>
           </sourceConnection>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-22cd8d2f83c3491a8e05a92fc19eb173" fillColor="#fee1b6" archimateElement="id-2d1d034be676465b9d8b0a85163e2b87">
+        <child xsi:type="archimate:DiagramObject" id="id-22cd8d2f83c3491a8e05a92fc19eb173" archimateElement="id-2d1d034be676465b9d8b0a85163e2b87">
           <bounds x="480" y="127" width="108" height="43"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-5540185cfcbc404cabaa10375a12447f" source="id-22cd8d2f83c3491a8e05a92fc19eb173" target="id-c6953fe42d034333977f9c15ec288b39" archimateRelationship="id-c2a1ab4f452b4d4d842eb50b7c3890df">
             <bendpoint startX="7" startY="46" endX="192" endY="72"/>
             <bendpoint startX="-161" startY="46" endX="24" endY="72"/>
           </sourceConnection>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-34d2cd8dd11e4686981aef889179206a" targetConnections="id-4eeba8b2b75c4269aad05e108df4b5db id-de9edb759f7b436db5a38e1bdfdb54f1" fillColor="#fee1b6" archimateElement="id-38f30d2ac4bc4d92acfba8c95a285351">
+        <child xsi:type="archimate:DiagramObject" id="id-34d2cd8dd11e4686981aef889179206a" targetConnections="id-4eeba8b2b75c4269aad05e108df4b5db id-de9edb759f7b436db5a38e1bdfdb54f1" archimateElement="id-38f30d2ac4bc4d92acfba8c95a285351">
           <bounds x="842" y="505" width="120" height="55"/>
         </child>
         <child xsi:type="archimate:Note" id="id-41b970a9e09c4718beb0e29ea0edb2cc" textAlignment="1">
@@ -4011,7 +4011,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
         <child xsi:type="archimate:DiagramObject" id="id-810d51cd502d47d999cd8154de0cc62d" targetConnections="id-09e0e7255cfb4bf2951b9ab165be5d12" archimateElement="id-a27a7f66729a4d38b89f71448395a89c">
           <bounds x="840" y="845" width="156" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-871bbd9d0fa04a63bdb1c49004ff409d" fillColor="#fff2aa" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
+        <child xsi:type="archimate:DiagramObject" id="id-871bbd9d0fa04a63bdb1c49004ff409d" fillColor="#ffee8a" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
           <bounds x="1416" y="404" width="120" height="71"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-0fc5b18bae8e4a2381563a0bc44e797c" source="id-871bbd9d0fa04a63bdb1c49004ff409d" target="id-bcfbd1276188447bbe0f621695af8b83" archimateRelationship="id-af118ed5f60e48b6a3488c464178ccdc">
             <bendpoint startX="12" startY="-258" endX="775" endY="24"/>
@@ -4032,7 +4032,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="3.4. Mapa de procesos misionales" id="id-e6ee96f53e3d4a90ae558af7f8a7fb01">
-        <child xsi:type="archimate:DiagramObject" id="id-732a46bbe7074a45a678caae9809b72e" fillColor="#ffde9f" archimateElement="id-703132cb4f7348f89ee849fd8e050b27">
+        <child xsi:type="archimate:DiagramObject" id="id-732a46bbe7074a45a678caae9809b72e" archimateElement="id-703132cb4f7348f89ee849fd8e050b27">
           <bounds x="564" y="36" width="157" height="121"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-6b79902fa2c84b8b8a1df9cb0c7d27af" source="id-732a46bbe7074a45a678caae9809b72e" target="id-ac89bf6fe80144f2888e173b59f7f65d" archimateRelationship="id-260b6cffb1ea4a15954a321e22cdd02c"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-d4013643700341eeb4eded346399add5" source="id-732a46bbe7074a45a678caae9809b72e" target="id-9e65cf0f049b46fc90c76037b0ebc249" archimateRelationship="id-7e169129e67148ed98cb09d218230f8e">
@@ -4052,7 +4052,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
             <bounds x="12" y="36" width="133" height="73"/>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-ea2fa9ac39d54cd69aa4fc156d340f8b" fillColor="#ffde9f" archimateElement="id-a27ef16ad7ab4e8492b27200bf099c7b">
+        <child xsi:type="archimate:DiagramObject" id="id-ea2fa9ac39d54cd69aa4fc156d340f8b" archimateElement="id-a27ef16ad7ab4e8492b27200bf099c7b">
           <bounds x="863" y="144" width="194" height="109"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-ba5022c9d0194e08953641d0d1dbce39" source="id-ea2fa9ac39d54cd69aa4fc156d340f8b" target="id-b52dc7ab43df4405ac5156960af50372" archimateRelationship="id-45d78fbf1a1d4090ad2f7e132ae09c8c">
             <bendpoint startX="36" startY="162" endX="18" endY="-183"/>
@@ -4067,7 +4067,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
             <bounds x="12" y="36" width="169" height="61"/>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-d9515940daf2453c9d09d01fcfa14381" fillColor="#ffde9f" archimateElement="id-fcb0aaebb03741909101259d3694f6d9">
+        <child xsi:type="archimate:DiagramObject" id="id-d9515940daf2453c9d09d01fcfa14381" archimateElement="id-fcb0aaebb03741909101259d3694f6d9">
           <bounds x="540" y="313" width="156" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7b35bed7f7a34f8a8c1b1a18de028aea" source="id-d9515940daf2453c9d09d01fcfa14381" target="id-abb738593ab945fbab527ac160335565" archimateRelationship="id-89659200be3e491f8eab8d0a9ce33584"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-ebbb2f0b7dac47ce8a8125b440a7cda0" source="id-d9515940daf2453c9d09d01fcfa14381" target="id-e010767eab444413b63409dc11e7afb6" archimateRelationship="id-5b68dd34559047f6837bd1dcad3b2f59"/>
@@ -4079,7 +4079,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
             <bendpoint startX="43" startY="56" endX="-132" endY="7"/>
           </sourceConnection>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-5d282d4e454848f7b8a22a460100e078" fillColor="#ffde9f" archimateElement="id-805cbb1e2c7348db8890c5f43c8889a4">
+        <child xsi:type="archimate:DiagramObject" id="id-5d282d4e454848f7b8a22a460100e078" archimateElement="id-805cbb1e2c7348db8890c5f43c8889a4">
           <bounds x="42" y="601" width="331" height="157"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-28d2a28be3714a35aa358a9e064bec9c" source="id-5d282d4e454848f7b8a22a460100e078" target="id-8b2ce95a166b40348c60bb90c55c27cc" archimateRelationship="id-fe57a031a76447f28960a605dd596c5f"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-8f7d7ce1958d4301872bfdd61473268b" source="id-5d282d4e454848f7b8a22a460100e078" target="id-33ca13dec11e4c1bb1d2e4ece2cf522a" archimateRelationship="id-1c7eefdd0f2d4248a91fe4a225909541"/>
@@ -4098,7 +4098,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
             <bounds x="156" y="24" width="169" height="55"/>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-6440662df8844437a831a9a1974ec369" fillColor="#ffde9f" archimateElement="id-ba46db8a1b00434195336c08ad3ad9b7">
+        <child xsi:type="archimate:DiagramObject" id="id-6440662df8844437a831a9a1974ec369" archimateElement="id-ba46db8a1b00434195336c08ad3ad9b7">
           <bounds x="36" y="166" width="385" height="148"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-5d33c40b06ae4bee9def0a46490336ad" source="id-6440662df8844437a831a9a1974ec369" target="id-983893ba102548b1b5a16e8c93d00572" archimateRelationship="id-b032f6ef3a4943f29f412ef6a260b6c9"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-073f5f962c9046d4bcd4a631054f7da6" source="id-6440662df8844437a831a9a1974ec369" target="id-fd1fe69827604c869d704e23469cfa24" archimateRelationship="id-8aa205cf58db44d8970ed4f2215f6a76"/>
@@ -4127,7 +4127,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
             <bounds x="276" y="84" width="99" height="55"/>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-f822f5ab744947269b3eaf1b672a0736" fillColor="#ffde9f" archimateElement="id-bc0b3735526b4028aea5dcc1e982c2e9">
+        <child xsi:type="archimate:DiagramObject" id="id-f822f5ab744947269b3eaf1b672a0736" archimateElement="id-bc0b3735526b4028aea5dcc1e982c2e9">
           <bounds x="144" y="441" width="354" height="145"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-867356fbb52e419c8e7e83051ffafb6b" source="id-f822f5ab744947269b3eaf1b672a0736" target="id-3340a835172b4dc89c6cf410f184a12b" archimateRelationship="id-9e66e4bf72e34a2e8088533d7a581db5"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-1f27c0a3cce641548377089009d10131" source="id-f822f5ab744947269b3eaf1b672a0736" target="id-f85eef62c7954b2fbdeb83f5f095118a" archimateRelationship="id-6773df53c9db4a5d97a5e8ae96fbb4c7"/>
@@ -4146,7 +4146,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
             <bounds x="192" y="84" width="152" height="55"/>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-5b9f88bf884a4954b7f049e3be04f616" fillColor="#ffde9f" archimateElement="id-5a5200b5059745a38f60cdf793d38efb">
+        <child xsi:type="archimate:DiagramObject" id="id-5b9f88bf884a4954b7f049e3be04f616" archimateElement="id-5a5200b5059745a38f60cdf793d38efb">
           <bounds x="863" y="432" width="106" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-382cb8a16c554536a7bbfc2eadaa8bab" source="id-5b9f88bf884a4954b7f049e3be04f616" target="id-ebba43af0d5f4795851fb626110a0f12" archimateRelationship="id-5a996da96ea54a6484bcbc4ef11aaa9f">
             <bendpoint startX="-16" startY="-74" endX="120" endY="-5"/>
@@ -4157,7 +4157,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="id-d931ddcb70f14505b41ae7324e540555" source="id-5b9f88bf884a4954b7f049e3be04f616" target="id-aac90507bc46439f811a15a6e49f1f32" archimateRelationship="id-c43a2296de2948d28e7b4157e5588c8d"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-f7d4cc6fba26472bb2b73bdac0634f2f" fillColor="#ffde9f" archimateElement="id-a43584c4e86b4bc6adfb2ea0de0d3faf">
+        <child xsi:type="archimate:DiagramObject" id="id-f7d4cc6fba26472bb2b73bdac0634f2f" archimateElement="id-a43584c4e86b4bc6adfb2ea0de0d3faf">
           <bounds x="649" y="516" width="156" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-6445ee70a41a44aaadd82dec08a7edd6" source="id-f7d4cc6fba26472bb2b73bdac0634f2f" target="id-b52dc7ab43df4405ac5156960af50372" archimateRelationship="id-bc117410d3b349b090716cdfeb185e42"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-f193241db56d4e72a30ec9a8df96dedb" source="id-f7d4cc6fba26472bb2b73bdac0634f2f" target="id-42ac91460b874f5581af32bea843f125" archimateRelationship="id-642b417867f0412cbd90106290514d88">
@@ -4165,7 +4165,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
             <bendpoint startX="-198" startY="-158" endX="108" endY="-5"/>
           </sourceConnection>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-9dcb66bb98c94662ab79d1dacf9e47be" fillColor="#ffde9f" archimateElement="id-81b4129b1d204786bf7b2f59bb5de177">
+        <child xsi:type="archimate:DiagramObject" id="id-9dcb66bb98c94662ab79d1dacf9e47be" archimateElement="id-81b4129b1d204786bf7b2f59bb5de177">
           <bounds x="1008" y="289" width="192" height="103"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-571ecbd90ff245b6a8e695a76546986e" source="id-9dcb66bb98c94662ab79d1dacf9e47be" target="id-1658d621038c4fafabee515745926e41" archimateRelationship="id-a978960ba80d478884dc95b3b75c757f"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-46a1afb496e24221a87026e8a52b81dd" source="id-9dcb66bb98c94662ab79d1dacf9e47be" target="id-e989a547fddc4746af3a2714eab79773" archimateRelationship="id-4fc7cc0213af4464ac92a9b09a3c489f">
@@ -4216,7 +4216,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
           <bounds x="386" y="601" width="190" height="96"/>
           <content>Las funciones de la organización agrupan y gestionan los recursos, conocimientos y herramientas necesarios para que los procesos puedan ejecutarse.</content>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-32c9938d5b324a89978d0fcca94ce01a" fillColor="#ffde9f" archimateElement="id-23fb6f5ec5e74dc8951f302aed706d04">
+        <child xsi:type="archimate:DiagramObject" id="id-32c9938d5b324a89978d0fcca94ce01a" archimateElement="id-23fb6f5ec5e74dc8951f302aed706d04">
           <bounds x="204" y="363" width="97" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-edbf1712863243868c7e814bac83999f" source="id-32c9938d5b324a89978d0fcca94ce01a" target="id-983893ba102548b1b5a16e8c93d00572" archimateRelationship="id-2d15184754de47f88304ea06442db2ba">
             <bendpoint startY="-53" endX="103" endY="60"/>
@@ -4225,7 +4225,7 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-86f9a353019f4be08f62260093a393e8" source="id-32c9938d5b324a89978d0fcca94ce01a" target="id-3340a835172b4dc89c6cf410f184a12b" archimateRelationship="id-9bb49c8e7f6649a98009ac5e3fc84c7f"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-43ff8a159f6449a7893671b125853e58" source="id-32c9938d5b324a89978d0fcca94ce01a" target="id-42ac91460b874f5581af32bea843f125" archimateRelationship="id-e601b1469a7541d5a45097e4f5cf3e15"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-9d660b5d1cdb45fcaabe68f0cc725e2c" fillColor="#ffde9f" archimateElement="id-c2845f15aefc4664bb1f727870f04c24">
+        <child xsi:type="archimate:DiagramObject" id="id-9d660b5d1cdb45fcaabe68f0cc725e2c" archimateElement="id-c2845f15aefc4664bb1f727870f04c24">
           <bounds x="48" y="366" width="121" height="49"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9025b632c9ca499e91038a6e2ac18b40" source="id-9d660b5d1cdb45fcaabe68f0cc725e2c" target="id-983893ba102548b1b5a16e8c93d00572" archimateRelationship="id-212cf7cfe8d4470eb63be9e4fb6ac202">
             <bendpoint startY="-53" endX="-41" endY="60"/>
@@ -4508,7 +4508,7 @@ La función soporta o asiste al proceso.</content>
           <bounds x="572" y="22" width="185" height="62"/>
           <content>La vista representa el modelo de procesos relacionados con la gestión territorial</content>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-fa4d73e3ad9442a28a070fa26a23a409" fillColor="#fff0b5" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
+        <child xsi:type="archimate:DiagramObject" id="id-fa4d73e3ad9442a28a070fa26a23a409" fillColor="#ffe991" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
           <bounds x="1560" y="379" width="120" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a26c43a60b5f46bb99500e9b3478f717" source="id-fa4d73e3ad9442a28a070fa26a23a409" target="id-6a866b3b8c814ff097135acebe4dd38c" archimateRelationship="id-32a35742b53743e6a461b80867267da5">
             <bendpoint startX="24" startY="-258" endX="907" endY="12"/>
@@ -4573,7 +4573,7 @@ La función soporta o asiste al proceso.</content>
           <bounds x="803" y="266" width="122" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-02accdd9d8a94ee4b619ac048f3e35bf" source="id-cde7df27c7bf484a96955dba803c97e1" target="id-c92040725a174747b9f9c6f68cbf3ac9" archimateRelationship="id-baf7a56b01734699ac13bc587880b448"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-c92040725a174747b9f9c6f68cbf3ac9" targetConnections="id-f905000d68ac453fa93342545817a973 id-4c696666f4ad47a5bb3ae2bfd9e817f9 id-e4cc9388a956401681e407327b747856 id-02accdd9d8a94ee4b619ac048f3e35bf id-b187f259964b4c8b8b4bfb10342bf7a8" fillColor="#fef7c2" archimateElement="id-7d92d686941b418aa4cb4cbf20a2e18b">
+        <child xsi:type="archimate:DiagramObject" id="id-c92040725a174747b9f9c6f68cbf3ac9" targetConnections="id-f905000d68ac453fa93342545817a973 id-4c696666f4ad47a5bb3ae2bfd9e817f9 id-e4cc9388a956401681e407327b747856 id-02accdd9d8a94ee4b619ac048f3e35bf id-b187f259964b4c8b8b4bfb10342bf7a8" fillColor="#ffffb5" archimateElement="id-7d92d686941b418aa4cb4cbf20a2e18b">
           <bounds x="53" y="60" width="1141" height="97"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7bd694b82bc1496583fe9c27ae62960b" source="id-c92040725a174747b9f9c6f68cbf3ac9" target="id-55f3a917766641f1bd97117bd656407b" archimateRelationship="id-f7dc97c9e45d4d3a885a12bb5c39cba5"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-abe998f3bf0c4cd2871768b48a8de716" source="id-c92040725a174747b9f9c6f68cbf3ac9" target="id-50ed51a4dbfa4f65a23b70514109dad6" archimateRelationship="id-cf46febf3ee54f7a80708be16de74833"/>
@@ -4673,7 +4673,7 @@ La función soporta o asiste al proceso.</content>
           <bounds x="48" y="281" width="132" height="42"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-265fd1c97b7544fcbcee9563859c80b8" source="id-6c38364a6a63451595f52305210d752a" target="id-2cf27729815d497cbd5af31da6d975e6" archimateRelationship="id-f23109ae6a36454e9d396f27c11b3610"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-c23638ca104b430485e0822458291fbe" fillColor="#fff0b5" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
+        <child xsi:type="archimate:DiagramObject" id="id-c23638ca104b430485e0822458291fbe" fillColor="#ffea93" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
           <bounds x="1032" y="312" width="120" height="72"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-d9add06f312b473a94c2a795d7c16db3" targetConnections="id-6b16bc8a0f3e433e855e581532b0393a" source="id-c23638ca104b430485e0822458291fbe" target="id-df6a1031409b42c5a927273bf955980d" archimateRelationship="id-8d08fe2c9ed448eb9e0c926153ab345f">
             <bendpoint startX="-24" startY="84" endX="595" endY="36"/>
@@ -4702,7 +4702,7 @@ La función soporta o asiste al proceso.</content>
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="3.8. Procesos agroecológicos y productivos" id="id-3e97996f3bac4d69b78d5b9a48acd4bc">
-        <child xsi:type="archimate:DiagramObject" id="id-bc19d226fb454b67a8bd470920dc88f3" targetConnections="id-3956f1473b0d470ca1b0cba3d8836eb5 id-56d4011a1a624824a30d9c4f3641bdc7 id-d9de94fd090a432abb162a7f9030b86a id-85141a874b0541e79c7a7851d50c4b79" fillColor="#ffe4a8" archimateElement="id-0ae2d62e4a7c438b8de85d5314b9bbe4">
+        <child xsi:type="archimate:DiagramObject" id="id-bc19d226fb454b67a8bd470920dc88f3" targetConnections="id-3956f1473b0d470ca1b0cba3d8836eb5 id-56d4011a1a624824a30d9c4f3641bdc7 id-d9de94fd090a432abb162a7f9030b86a id-85141a874b0541e79c7a7851d50c4b79" fillColor="#ffef93" archimateElement="id-0ae2d62e4a7c438b8de85d5314b9bbe4">
           <bounds x="48" y="84" width="1249" height="85"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-366ef9439ef840948d073d174c194a93" source="id-bc19d226fb454b67a8bd470920dc88f3" target="id-594d19f07fbe4bcc9cadfca9515465f9" archimateRelationship="id-8e69c61f82d847cc8fc5e3754cc7796b"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-0c2fd6bfdc8b48f1962b14cb59f34beb" source="id-bc19d226fb454b67a8bd470920dc88f3" target="id-4ce8fc4de19f42ee9c6cfa522f47e78c" archimateRelationship="id-d6d93157390147549e46729968d3c6db"/>
@@ -4750,7 +4750,7 @@ La función soporta o asiste al proceso.</content>
             <sourceConnection xsi:type="archimate:Connection" id="id-e6040ebf5e06462c89495ff6752d3ece" source="id-e69aff1f028946f0961ae52050562ba2" target="id-5a02b29e5ea34d6bba4403d7e316fff8" archimateRelationship="id-49f29208cc1b4664b954769ca6f38d05"/>
           </child>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-c172ebee8aff42139872739e4c205af1" targetConnections="id-c0803b11c41b42a2b39c9229a3a5c478 id-c0ee3003969445f3ab0f0ca63d907917 id-5508100f21744868a89e02b31f2a57c5 id-b6efb6e5da354086942628f1cc173f84" fillColor="#ffe4a8" archimateElement="id-d93a6186548144198bcdfea5b875c74f">
+        <child xsi:type="archimate:DiagramObject" id="id-c172ebee8aff42139872739e4c205af1" targetConnections="id-c0803b11c41b42a2b39c9229a3a5c478 id-c0ee3003969445f3ab0f0ca63d907917 id-5508100f21744868a89e02b31f2a57c5 id-b6efb6e5da354086942628f1cc173f84" fillColor="#ffef93" archimateElement="id-d93a6186548144198bcdfea5b875c74f">
           <bounds x="180" y="276" width="973" height="85"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-184fea9bb81b4bb8a652f7e22e4377c6" source="id-c172ebee8aff42139872739e4c205af1" target="id-f4138dd28ba74431a1497f69d002bc1e" archimateRelationship="id-fb0627d31ce94907a36f972425e5f7fd"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-755742b1a5494fad8b5ff32c80d049fc" source="id-c172ebee8aff42139872739e4c205af1" target="id-5904de44aee74e66ba2a06dc2d8c8f07" archimateRelationship="id-cd27107fb0944b09ba3f1ac08373a876"/>
@@ -4817,7 +4817,7 @@ La función soporta o asiste al proceso.</content>
           <sourceConnection xsi:type="archimate:Connection" id="id-3956f1473b0d470ca1b0cba3d8836eb5" source="id-2c6e1ab9204a4a8eaf213918d7970faa" target="id-bc19d226fb454b67a8bd470920dc88f3" archimateRelationship="id-58bac76d3c934432b28d30dfbd7ca414"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-c0ee3003969445f3ab0f0ca63d907917" source="id-2c6e1ab9204a4a8eaf213918d7970faa" target="id-c172ebee8aff42139872739e4c205af1" archimateRelationship="id-3c0cadde6e9040938d4e916ee571bed2"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-1f8a1324a28a47ef962ab333121e8340" fillColor="#fff4b5" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
+        <child xsi:type="archimate:DiagramObject" id="id-1f8a1324a28a47ef962ab333121e8340" fillColor="#ffef93" archimateElement="id-36dd89a3d347441098f0295e95350a1b">
           <bounds x="984" y="192" width="180" height="56"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-85141a874b0541e79c7a7851d50c4b79" source="id-1f8a1324a28a47ef962ab333121e8340" target="id-bc19d226fb454b67a8bd470920dc88f3" archimateRelationship="id-ccd3bd93138342b2b9e5d17751948ccc"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b6efb6e5da354086942628f1cc173f84" source="id-1f8a1324a28a47ef962ab333121e8340" target="id-c172ebee8aff42139872739e4c205af1" archimateRelationship="id-80001f6b4fd14a4ba512b9cf26ed8994"/>
