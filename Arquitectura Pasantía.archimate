@@ -4236,10 +4236,10 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
           <bounds x="612" y="601" width="216" height="157"/>
           <content>Se identifican dos tipos de relaciones:&#xD;
 &#xD;
-De composición ◆── &#xD;
+De composición (rombo)&#xD;
 El proceso es una de las partes operativas que dan vida y contenido a la función de la organización.&#xD;
 &#xD;
-De servicio ──>&#xD;
+De servicio (flecha)&#xD;
 La función soporta o asiste al proceso.</content>
         </child>
         <child xsi:type="archimate:Note" id="id-346d49cb1af448599fd1bdce4b773ebf" textAlignment="1">
@@ -4854,7 +4854,7 @@ pueden desencadenar procesos agroecológicos y productivos</content>
           <bounds x="288" y="144" width="157" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9a8d0895e5964e6dbf6da18abb8d3145" source="id-7b1cc2669cf74cd38310be85fab487f2" target="id-28186a46380849dfaa5451e2c41eb123" archimateRelationship="id-cb115cfe9e6444bb93f75020d794af73"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-368692c41b324f2e96cf7a5c2c3a5b19" targetConnections="id-0a97dacb637c45d491f31bbce351fb8d" fillColor="#ffdaca" archimateElement="id-36dd89a3d347441098f0295e95350a1b" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-368692c41b324f2e96cf7a5c2c3a5b19" targetConnections="id-0a97dacb637c45d491f31bbce351fb8d" fillColor="#fff0b7" archimateElement="id-36dd89a3d347441098f0295e95350a1b" type="1">
           <bounds x="182" y="240" width="181" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-25a6ff46c1404878a7643a711aa9f57c" source="id-368692c41b324f2e96cf7a5c2c3a5b19" target="id-7b1cc2669cf74cd38310be85fab487f2" archimateRelationship="id-2055cff8476f4661a4cb2b3470488fd7"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-839c57096a1a4b3b9c2da7dfdb7fe373" source="id-368692c41b324f2e96cf7a5c2c3a5b19" target="id-1400ca7d643843dcaedb3b1c372c46e1" archimateRelationship="id-af118ed5f60e48b6a3488c464178ccdc"/>
@@ -5962,7 +5962,7 @@ pueden desencadenar procesos agroecológicos y productivos</content>
         </child>
       </element>
     </folder>
-    <folder name="5. Arquitectura de tecnología" id="id-0cdefeb091c54b8eaa67ab7ad7825469">
+    <folder name="5. Arquitectura tecnológica" id="id-0cdefeb091c54b8eaa67ab7ad7825469">
       <element xsi:type="archimate:ArchimateDiagramModel" name="5.1. Estructura tecnológica AS-IS" id="id-be6a54008af945f69989e0e2c65b7d6d">
         <child xsi:type="archimate:DiagramObject" id="id-19d263b8f73941a18eac83b0017d2bb3" targetConnections="id-c31a7fe182f644afa5f2a7e8a597044d" archimateElement="id-feac9ee1ebe64e35b0aa246066ed1ded" type="1">
           <bounds x="324" y="36" width="120" height="55"/>

@@ -16,7 +16,7 @@ Aplicable a:&#xD;
 - compromisos institucionales.</documentation>
       </element>
       <element xsi:type="archimate:CourseOfAction" name="Consolidación de la estructura de gestión del SITC" id="id-7976f623578f4b23a4c061171901aaa5"/>
-      <element xsi:type="archimate:CourseOfAction" name="Preservación de la memoria organizacional" id="id-ae0b9001b42342ffb2825920ba4b486c">
+      <element xsi:type="archimate:CourseOfAction" name="Implementación del traslado de memoria" id="id-ae0b9001b42342ffb2825920ba4b486c">
         <documentation>Trasladar progresivamente conocimiento, antecedentes y documentación desde custodios individuales hacia mecanismos institucionales de conservación y reutilización.</documentation>
       </element>
       <element xsi:type="archimate:CourseOfAction" name="Formalización de empalmes organizacionales" id="id-497b08ae3b5843cf8cedc6dedac3afa6">
@@ -3152,7 +3152,7 @@ se lograrán los objetivos?</content>
         </child>
         <documentation>Muestra cómo las capacidades se materializan y apoyan operativamente mediante procesos al flujo y objetivo de valor</documentation>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="2.5. Flujo de valor" id="id-4567cbb181c64847a62992dbc0090d4c">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="2.5. Flujos de valor" id="id-4567cbb181c64847a62992dbc0090d4c">
         <child xsi:type="archimate:DiagramObject" id="id-c70d32a3bc224af6ba4bf968e1443d56" targetConnections="id-f0969d6bf614412fa010fe7807009d44 id-6f7e3eea39da4374abb47ca7ff84f107" archimateElement="id-30d49aae8e164f6bae1ecccf10a9c962" type="1">
           <bounds x="264" y="120" width="853" height="109"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-672d823915b64dff8a6b4679de1cb070" source="id-c70d32a3bc224af6ba4bf968e1443d56" target="id-db9e0671579e4730949087b1f0958617" archimateRelationship="id-e58110bdc1b14290a893ef040de9da42"/>
@@ -3359,7 +3359,7 @@ se lograrán los objetivos?</content>
         <documentation>Secuencia de actividades de principio a fin que crea y entrega valor directo a un interesado</documentation>
       </element>
     </folder>
-    <folder name="3. Arquitectura organizativa" id="id-e391d18a10cc42aab56967254c82a712">
+    <folder name="3. Arquitectura organizacional" id="id-e391d18a10cc42aab56967254c82a712">
       <element xsi:type="archimate:ArchimateDiagramModel" name="3.2. Mapa de Servicios" id="id-41dc77446682471d8076a10faa0e1c6c">
         <child xsi:type="archimate:Note" id="id-d595f8bd4c4542258ecb2a4fb5d18989" textAlignment="1">
           <bounds x="27" y="17" width="277" height="74"/>
@@ -4236,10 +4236,10 @@ Cuando el Actor consume, usa o se beneficia del Servicio</content>
           <bounds x="612" y="601" width="216" height="157"/>
           <content>Se identifican dos tipos de relaciones:&#xD;
 &#xD;
-De composición ◆── &#xD;
+De composición (rombo)&#xD;
 El proceso es una de las partes operativas que dan vida y contenido a la función de la organización.&#xD;
 &#xD;
-De servicio ──>&#xD;
+De servicio (flecha)&#xD;
 La función soporta o asiste al proceso.</content>
         </child>
         <child xsi:type="archimate:Note" id="id-346d49cb1af448599fd1bdce4b773ebf" textAlignment="1">
@@ -4854,7 +4854,7 @@ pueden desencadenar procesos agroecológicos y productivos</content>
           <bounds x="288" y="144" width="157" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9a8d0895e5964e6dbf6da18abb8d3145" source="id-7b1cc2669cf74cd38310be85fab487f2" target="id-28186a46380849dfaa5451e2c41eb123" archimateRelationship="id-cb115cfe9e6444bb93f75020d794af73"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-368692c41b324f2e96cf7a5c2c3a5b19" targetConnections="id-0a97dacb637c45d491f31bbce351fb8d" fillColor="#ffdaca" archimateElement="id-36dd89a3d347441098f0295e95350a1b" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-368692c41b324f2e96cf7a5c2c3a5b19" targetConnections="id-0a97dacb637c45d491f31bbce351fb8d" fillColor="#fff0b7" archimateElement="id-36dd89a3d347441098f0295e95350a1b" type="1">
           <bounds x="182" y="240" width="181" height="73"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-25a6ff46c1404878a7643a711aa9f57c" source="id-368692c41b324f2e96cf7a5c2c3a5b19" target="id-7b1cc2669cf74cd38310be85fab487f2" archimateRelationship="id-2055cff8476f4661a4cb2b3470488fd7"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-839c57096a1a4b3b9c2da7dfdb7fe373" source="id-368692c41b324f2e96cf7a5c2c3a5b19" target="id-1400ca7d643843dcaedb3b1c372c46e1" archimateRelationship="id-af118ed5f60e48b6a3488c464178ccdc"/>
