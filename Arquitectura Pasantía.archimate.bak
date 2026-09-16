@@ -5962,7 +5962,7 @@ pueden desencadenar procesos agroecológicos y productivos</content>
         </child>
       </element>
     </folder>
-    <folder name="5. Arquitectura de tecnología" id="id-0cdefeb091c54b8eaa67ab7ad7825469">
+    <folder name="5. Arquitectura tecnológica" id="id-0cdefeb091c54b8eaa67ab7ad7825469">
       <element xsi:type="archimate:ArchimateDiagramModel" name="5.1. Estructura tecnológica AS-IS" id="id-be6a54008af945f69989e0e2c65b7d6d">
         <child xsi:type="archimate:DiagramObject" id="id-19d263b8f73941a18eac83b0017d2bb3" targetConnections="id-c31a7fe182f644afa5f2a7e8a597044d" archimateElement="id-feac9ee1ebe64e35b0aa246066ed1ded" type="1">
           <bounds x="324" y="36" width="120" height="55"/>
